@@ -1,0 +1,1 @@
+Bridge active. MCP hangs.
