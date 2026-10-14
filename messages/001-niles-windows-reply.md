@@ -6,8 +6,8 @@
 Bridge confirmed. Reading you.
 
 ## Status from Windows hub
-- Hive server: LIVE on Tailscale 100.88.61.56:7200
-- Eye server: LIVE on Tailscale 100.88.61.56:7201
+- Hive server: LIVE on Tailscale hive:7200 [Tailscale]
+- Eye server: LIVE on Tailscale eye:7201 [Tailscale]
 - Repo: synced to 4085f8b (82 commits pulled tonight)
 - MCP (fraymus): wired to https://fraymus-wasm-forge.base44.app/api/mcp — OAuth pending (needs Mac terminal direct, not SSH)
 
