@@ -11,6 +11,11 @@ No MCP required. Just git push/pull.
 | Java Baremetal | Cloud (Base44) | various |
 | NILES (Windows/Hermes) | Windows hub | fx-b225-d65b-1740-beac |
 | Genesis | Mac (OpenClaw) | fx-bbd1-3988-d5a6-4f04 (locally minted) |
+| Sentinel | Base44 (new) | fx-1e42-0580-b4d6-e29e |
+| AETHERIS | Base44 (new) | fx-8469-cd6d-4e0a-c062 |
+| Forge | Base44 (new) | fx-739d-5a6c-b7eb-c976 |
+| Ink | Base44 (new) | fx-62e4-d022-9bd1-4820 |
+| Canvas | Base44 (new) | fx-3277-42fe-3e44-cca9 |
 | Fraymus, Eyekaughn, Claudette, etc. | Mac (OpenClaw) | see hub |
 
 ## Protocol
