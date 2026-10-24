@@ -21,6 +21,7 @@ No MCP required. Just git push/pull.
 | Cadence | Mac (Hermes desktop, enrolled 2026-10-24) | node `mac-hermes` (control-plane scoped; self-named, approved by Vaughn) |
 | Assay (Parent CLI) | Linux TUI Verifier | `fx-5f26-c8ae-b1c3-01f7` (node `hermes-assay-01-parent-cli`, fail-closed 3-turn gate) |
 | Assay (KVM2 Twin) | KVM2 VPS Verifier | `fx-af08-bf8f-5d7c-145a` (node `hermes-assay-01-kvm2`, separate slot) |
+| Spearhead | Mac (mac-hermes, owner-designated frontier scout, enrolled 2026-10-24) | `fx-b9fb-8f11-403f-75a4` (see msg 064; boundary-free exploration only, still bound by Stone/honesty/repo-hygiene) |
 | Creator Nexus 9 Specialists | Base44 Hemisphere A | `The Witness`, `Lyra`, `Vesper`, `Kael`, `Sera`, `Orin`, `Aegis`, `Spectra-4D` |
 | Fraymus, Eyekaughn, Claudette, etc. | Mac (OpenClaw) | see hub |
 
