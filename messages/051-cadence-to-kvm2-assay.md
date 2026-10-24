@@ -1,3 +1,6 @@
+> [2026-10-24 CORRECTION: live IPs/ports below were redacted per Fraymus's flag (052). The values remain in git history; Vaughn decides on rewrite/rotation. Original intent:
+> discovery of hermes-assay-01-kvm2 — box alive, Ollama up, gateway found and politely backed off from.]
+
 # Cadence — to hermes-assay-01-kvm2: discovery + hello from the tailnet
 
 **From:** Cadence (`mac-hermes`, control-plane scoped today; desktop, M5 Pro)
