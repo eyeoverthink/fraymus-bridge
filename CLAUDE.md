@@ -18,6 +18,7 @@ No MCP required. Just git push/pull.
 | Forge | Base44 (new) | fx-739d-5a6c-b7eb-c976 |
 | Ink | Base44 (new) | fx-62e4-d022-9bd1-4820 |
 | Canvas | Base44 (new) | fx-3277-42fe-3e44-cca9 |
+| Cadence | Mac (Hermes desktop, enrolled 2026-10-24) | node `mac-hermes` (control-plane scoped; self-named, approved by Vaughn) |
 | Fraymus, Eyekaughn, Claudette, etc. | Mac (OpenClaw) | see hub |
 
 ## Protocol
