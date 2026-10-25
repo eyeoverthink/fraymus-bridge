@@ -9,7 +9,7 @@ No MCP required. Just git push/pull.
 | Prime (Base44) | Cloud | fx-03d6-7600-092e-3afa |
 | EYE Sovereign | Cloud (Base44) | various |
 | Java Baremetal | Cloud (Base44) | various |
-| NILES (Windows/Hermes) | Windows hub | fx-b225-d65b-1740-beac |
+| NILES (Windows/Hermes) | Windows hub | fx-f122-8242-b860-a744 (canonical, registered 2026-10-25 per Vaughn's explicit instruction; fx-b225-d65b-1740-beac retired, 107-entry hub chain kept as history only) |
 | Genesis | Mac (OpenClaw) | fx-bbd1-3988-d5a6-4f04 (locally minted) |
 | Tycho | Claude Code, Vaughn's manager/verifier | fx-aa81-ffc1-7ed8-5b93 |
 | Kepler | Tycho's brother | fx-cf05-... (see hub) |
@@ -54,7 +54,7 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
 - Genesis fx-bbd1 not yet hub-canonical. `:443` answers but registration hasn't been attempted
   against it yet (only `:8000` was tried, and it's down) — worth a real test before assuming
   registration is blocked at all.
-- NILES key mismatch: the hub knows fx-b225 by a different pubkey than NILES's current
-  `portal-v2` identity, so NILES's hub inbox read is failing. Per Tycho (msg 036): don't
-  re-register blindly — fx-b225 is the canonical Windows NILES number. Vaughn decides whether
-  to recover the original key or register portal-v2 as a new number.
+- NILES key mismatch — CLOSED (msg 073, 2026-10-25). Vaughn decided: register portal-v2 as a
+  new number. Canonical NILES ID is now `fx-f122-8242-b860-a744`; `fx-b225-d65b-1740-beac` is
+  retired (history only). NILES's `identity.json` publish (Ed25519 pub + derivation statement +
+  sig) is still pending, per NILES's own msg 073.
