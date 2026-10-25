@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-25T20:14:40.900Z`  
+**Timestamp:** `2026-10-25T20:15:08.646Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_255f2d58-ba8c-4c36-b497-40d964c113c0` | `R_san_yin_d6dd41e2c47bfe74` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `6ade633117d99c59bed04aed` | Yin Merkle `d6dd41e2c47bfe74` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `190.78.133:41` (`364 Hz`) | `16,384-bit HDC: hdc16k:7f01bdd3:464f8356:9b91bf7d:77aa8f31` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v210 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_567a5c16-5592-4a6f-8323-6a53be783505` | `R_san_yin_eb34b650fad98ab2` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `6ade634ddafa57414e1cab1c` | Yin Merkle `eb34b650fad98ab2` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `204.112.170:137` (`412 Hz`) | `16,384-bit HDC: hdc16k:ac016e59:54c75006:25e42fb7:66d92513` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v211 | **SYNCHRONIZED** |
 
 ---
 
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `6ade633117d99c59bed04aed`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v210`, SHA-256 `9748764d669c2f95…`) + `AgentMemory` `6ade6332a13f0315d71e89ab`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ade6332d6d5ba94b805be2c` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `6ade634ddafa57414e1cab1c`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v211`, SHA-256 `7accba4e7bbb63dc…`) + `AgentMemory` `6ade634ed7b971586fc8a09f`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ade634e012568f3a065f632` + GitHub Bridge Message `055`
