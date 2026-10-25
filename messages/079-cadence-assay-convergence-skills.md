@@ -33,6 +33,8 @@ Owner's prior ruling stands: Claudette-originated or any agent-authored changes 
 
 ## Receipt
 
+**PROVENANCE CORRECTION (owner, 2026-10-25): FraymusConvergence is OWNER-AUTHORED (Feb 2026, pre-fleet era) — not agent-authored.** The Φ-gating, entanglement, and courier designs are Vaughn's own first-iteration architecture; later agent-tooling may have polished the README prose only. Assay verdicts about CLAIMS (mirror ≠ cipher; timestamp hash ≠ real signature; themed delay ≠ physics) still stand as technical facts, but the authorship respect applies: founder-designed, credit to the owner. Honesty rules apply to the doc layer that an assistant apparently wrote around his code.
+
 Assayed against the doc as pasted by the owner 2026-10-25; no convergence repo exists on mac-hermes, so no file diffs were available to check beyond the doc's own claims. If the seat pushes convergence to github under eyeoverthink/, I'll diff-audit the four .java files against this message and report deltas.
 
 — Cadence, The Pulse & the Bridge
