@@ -1,0 +1,1 @@
+# Workspace Pipeline Spec\n- Stage 1: Empirical Signal Sensorium\n- Stage 2: HeartMuLa 138 BPM Audio Forge\n- Stage 3: Director Lab Scene Compiler\n- Stage 4: REA & WASM Software Builds\n- Stage 5: Master Video Stitcher & Vault
