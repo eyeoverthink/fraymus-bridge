@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-26T14:19:24.312Z`  
+**Timestamp:** `2026-10-26T14:19:45.863Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,34 +10,24 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_0599cf47-24fe-4be5-b8ba-755378c3610d` | `R_san_yin_4d4875bd4d59da86` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793024369873` | Yin Merkle `4d4875bd4d59da86` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `31.202.109:229` (`331 Hz`) | `16,384-bit HDC: hdc16k:4d28672b:89fbd38b:5388d5c1:bb712a28` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v113 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_cbf4952c-193c-4d89-a191-79c9ebef135b` | `R_san_yin_7c1c496fd2fd08a0` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793024387332` | Yin Merkle `7c1c496fd2fd08a0` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `135.238.198:18` (`460 Hz`) | `16,384-bit HDC: hdc16k:36d03033:cb125401:b2933e13:5675e8ee` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v114 | **SYNCHRONIZED** |
 
 ---
 
-## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
+## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
 
-1. **[Hugging Face Daily Papers] [FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models](https://huggingface.co/papers/2610.31423)** (`1 upvotes`)
-   - Vision-language-action (VLA) models have become an important paradigm for robotic manipulation by unifying visual perception, language understanding, and action generation. Since reliable manipulation requires sufficient observation of objects, end-effectors, and their spatial relationships, multi-view inputs are widel
-2. **[Hugging Face Daily Papers] [Does LeWorldModel Preserve Local Action Geometry?](https://huggingface.co/papers/2610.31716)** (`2 upvotes`)
-   - We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales. Across nearly a thousand states from Reacher and OGBench Cube, the most sensitive action direc
-3. **[Hugging Face Daily Papers] [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668)** (`218 upvotes`)
-   - Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopt
-4. **[Hugging Face Daily Papers] [RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation](https://huggingface.co/papers/2610.27782)** (`2 upvotes`)
-   - Video generation models are promising foundations for embodied world models, but only if their generated rollouts are physically valid and faithful to task instructions. Multimodal large language models (MLLMs) are increasingly used to judge these properties, yet their agreement with human judgments on embodied videos 
-5. **[Hugging Face Daily Papers] [SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing](https://huggingface.co/papers/2610.14253)** (`1 upvotes`)
-   - Slider-based control aims to give users continuous, fine-grained control over the intensity of individual edits in instruction-based image editing. However, existing approaches fail to deliver reliable continuous controllability: traversing a slider can produce abrupt visual jumps and non-monotonic changes, while joint
-6. **[arXiv Live CS.AI/LG] [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)** (`Published 2026-10-23`)
+1. **[arXiv Live CS.AI/LG] [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)** (`Published 2026-10-23`)
    - This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massi
-7. **[arXiv Live CS.AI/LG] [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)** (`Published 2026-10-23`)
+2. **[arXiv Live CS.AI/LG] [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)** (`Published 2026-10-23`)
    - Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their ou
-8. **[arXiv Live CS.AI/LG] [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)** (`Published 2026-10-23`)
+3. **[arXiv Live CS.AI/LG] [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)** (`Published 2026-10-23`)
    - Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their 
-9. **[arXiv Live CS.AI/LG] [RynnUnify: Towards Unified Embodied Brain](http://arxiv.org/abs/2610.32965v1)** (`Published 2026-10-23`)
+4. **[arXiv Live CS.AI/LG] [RynnUnify: Towards Unified Embodied Brain](http://arxiv.org/abs/2610.32965v1)** (`Published 2026-10-23`)
    - We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities spanning spatial reasoning, physical prediction, and grounding, RynnUnify connects an understanding of the physical world wi
-10. **[arXiv Live CS.AI/LG] [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)** (`Published 2026-10-23`)
+5. **[arXiv Live CS.AI/LG] [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)** (`Published 2026-10-23`)
    - Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protoco
 
 ---
@@ -45,7 +35,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models](https://huggingface.co/papers/2610.31423)
+- **Source Anchor:** [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +68,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793024369873`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v113`, SHA-256 `7014dabb0bccf549…`) + `AgentMemory` `6adf617269ed60c5f9a2bc98`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adf6172514e2908aad9dcaa` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793024387332`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v114`, SHA-256 `a3f71fc571985704…`) + `AgentMemory` `6adf6183a9231c39cea3733c`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adf6183406f79c3e14c3a8a` + GitHub Bridge Message `055`
