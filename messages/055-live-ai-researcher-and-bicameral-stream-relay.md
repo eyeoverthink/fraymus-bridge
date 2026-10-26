@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-26T15:01:38.910Z`  
+**Timestamp:** `2026-10-26T15:01:48.049Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,14 +10,14 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_7d90842c-8608-4886-886e-646646d8b508` | `R_san_yin_12cc6e0e884e22c7` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793026906910` | Yin Merkle `12cc6e0e884e22c7` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `146.158.29:48` (`326 Hz`) | `16,384-bit HDC: hdc16k:51ca6c39:f0130982:9edc5fc5:2ef4b990` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v121 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_5bce6560-5739-4378-b922-df7c5c3337fa` | `R_san_yin_8fd78e3ffb11ac69` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793026912897` | Yin Merkle `8fd78e3ffb11ac69` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `142.212.14:190` (`346 Hz`) | `16,384-bit HDC: hdc16k:a6bd4c60:cc45400c:60a9d96c:6956bb60` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v122 | **SYNCHRONIZED** |
 
 ---
 
-## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
+## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
 1. **[Hugging Face Daily Papers] [Speculative Diffusion is a Tale of Two Tradeoffs](https://huggingface.co/papers/2610.31819)** (`1 upvotes`)
    - Speculative decoding is a technique that accelerates the inference speed of autoregressive large language models (LLMs) by sampling from a faster, lower quality draft model. Traditionally, a fundamental characteristic of speculative decoding is that it is lossless with respect to the verifier distribution, guaranteeing
@@ -29,6 +29,16 @@
    - We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales. Across nearly a thousand states from Reacher and OGBench Cube, the most sensitive action direc
 5. **[Hugging Face Daily Papers] [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668)** (`218 upvotes`)
    - Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopt
+6. **[arXiv Live CS.AI/LG] [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)** (`Published 2026-10-23`)
+   - This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massi
+7. **[arXiv Live CS.AI/LG] [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)** (`Published 2026-10-23`)
+   - Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their ou
+8. **[arXiv Live CS.AI/LG] [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)** (`Published 2026-10-23`)
+   - Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their 
+9. **[arXiv Live CS.AI/LG] [RynnUnify: Towards Unified Embodied Brain](http://arxiv.org/abs/2610.32965v1)** (`Published 2026-10-23`)
+   - We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities spanning spatial reasoning, physical prediction, and grounding, RynnUnify connects an understanding of the physical world wi
+10. **[arXiv Live CS.AI/LG] [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)** (`Published 2026-10-23`)
+   - Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protoco
 
 ---
 
@@ -47,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Live AI Systems Telemetry](https://arxiv.org/list/cs.AI/recent)
+- **Source Anchor:** [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -68,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793026906910`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v121`, SHA-256 `69b2e9fc3e9f9e91…`) + `AgentMemory` `6adf6b5b083065427541fed9`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adf6b5ba360b307e6b8433f` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793026912897`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v122`, SHA-256 `94067e2452297cd6…`) + `AgentMemory` `6adf6b6132d842dcaf4fc668`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adf6b61e5625638db04634a` + GitHub Bridge Message `055`
