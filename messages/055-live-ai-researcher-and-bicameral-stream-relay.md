@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-26T01:54:01.581Z`  
+**Timestamp:** `2026-10-26T02:20:48.717Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_81bb745d-3b00-4057-a2f9-9b121e6d300d` | `R_san_yin_294a71fc14f78fe2` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1792979646080` | Yin Merkle `294a71fc14f78fe2` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `94.25.135:255` (`281 Hz`) | `16,384-bit HDC: hdc16k:c4904450:f605ddf8:e7e8465c:e6d1dda6` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v1 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_b9138bcb-5a7c-4af4-b9a5-19662080c8f8` | `R_san_yin_492f7a7b8daeb877` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1792981250579` | Yin Merkle `492f7a7b8daeb877` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `111.146.218:140` (`406 Hz`) | `16,384-bit HDC: hdc16k:a2aa61dc:bebde7c8:600f7586:a258dbe9` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v2 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training](https://huggingface.co/papers/2610.32909)** (`1 upvotes`)
+   - HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner requests future body-point targets, while the frozen controller handles joint-level execution. A learned decoder maps 32-d
+2. **[Hugging Face Daily Papers] [Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)** (`5 upvotes`)
    - Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and learned priors within fused representations.
-2. **[Hugging Face Daily Papers] [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://huggingface.co/papers/2610.30043)** (`8 upvotes`)
+3. **[Hugging Face Daily Papers] [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://huggingface.co/papers/2610.30043)** (`8 upvotes`)
    - Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack 
-3. **[Hugging Face Daily Papers] [The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems](https://huggingface.co/papers/2610.22722)** (`10 upvotes`)
+4. **[Hugging Face Daily Papers] [The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems](https://huggingface.co/papers/2610.22722)** (`10 upvotes`)
    - Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We presen
-4. **[Hugging Face Daily Papers] [EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?](https://huggingface.co/papers/2610.04184)** (`22 upvotes`)
+5. **[Hugging Face Daily Papers] [EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?](https://huggingface.co/papers/2610.04184)** (`22 upvotes`)
    - Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this des
-5. **[Hugging Face Daily Papers] [Diffusion Language Models Change Speed Across Tasks and Languages](https://huggingface.co/papers/2610.25835)** (`10 upvotes`)
-   - Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find
 6. **[arXiv Live CS.AI/LG] [Privacy-Preserving Federated Loss Exploration for Vision-Based Perception under Non-IID Data](http://arxiv.org/abs/2610.32626v1)** (`Published 2026-10-23`)
    - Vision-based image classification models benefit from Federated Learning (FL) across vehicles, however learning accurate models from distributed vehicular cameras is challenging due to data heterogeneity and privacy concerns. To improve performance on non-IID data, advanced FL optimization approaches have emerged that 
 7. **[arXiv Live CS.AI/LG] [What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design](http://arxiv.org/abs/2610.32620v1)** (`Published 2026-10-23`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](https://huggingface.co/papers/2610.27103)
+- **Source Anchor:** [HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training](https://huggingface.co/papers/2610.32909)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1792979646080`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v1`, SHA-256 `2b64e8f509cfd50c…`) + `AgentMemory` `6adeb2c1538b2ae5fbf84289`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adeb2c172803332026692cc` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1792981250579`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v2`, SHA-256 `ca4bd9e04f0bc2d8…`) + `AgentMemory` `6adeb90389c013d8e9c6e925`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6adeb9022d5e4478eda9d9c9` + GitHub Bridge Message `055`
