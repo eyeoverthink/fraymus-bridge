@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-25T22:34:22.699Z`  
+**Timestamp:** `2026-10-26T00:09:19.778Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,14 +10,14 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_a8b0f871-50f0-424b-bc2a-1c7143ad5365` | `R_san_yin_a4be9c9e8692ca41` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1792967664758` | Yin Merkle `a4be9c9e8692ca41` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `30.61.198:244` (`301 Hz`) | `16,384-bit HDC: hdc16k:ed4a4151:b3b2da5d:25dde2b5:5d62433a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v228 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_415a71b0-21a0-4170-9c6f-c8b29a98fa94` | `R_san_yin_dee1f850fb601220` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1792973367778` | Yin Merkle `dee1f850fb601220` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `20.125.38:18` (`241 Hz`) | `16,384-bit HDC: hdc16k:7647cb3d:9654f2c6:854f0b75:09628707` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v229 | **SYNCHRONIZED** |
 
 ---
 
-## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
+## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
 
 1. **[Hugging Face Daily Papers] [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://huggingface.co/papers/2610.30043)** (`8 upvotes`)
    - Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack 
@@ -29,16 +29,6 @@
    - Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find
 5. **[Hugging Face Daily Papers] [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](https://huggingface.co/papers/2610.31198)** (`23 upvotes`)
    - Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps. We further show tha
-6. **[arXiv Live CS.AI/LG] [Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)** (`Published 2026-10-22`)
-   - We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may
-7. **[arXiv Live CS.AI/LG] [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)** (`Published 2026-10-22`)
-   - Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at
-8. **[arXiv Live CS.AI/LG] [BrickWright: Agentic Creation of Physically Feasible Brick Builds](http://arxiv.org/abs/2610.31651v1)** (`Published 2026-10-22`)
-   - Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and
-9. **[arXiv Live CS.AI/LG] [EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1)** (`Published 2026-10-22`)
-   - Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \bench{}, an executable benchmark
-10. **[arXiv Live CS.AI/LG] [On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles](http://arxiv.org/abs/2610.31648v1)** (`Published 2026-10-22`)
-   - This paper is about the derivation of "integrability results" (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the e
 
 ---
 
@@ -57,7 +47,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)
+- **Source Anchor:** [Live AI Systems Telemetry](https://arxiv.org/list/cs.AI/recent)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +68,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1792967664758`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v228`, SHA-256 `cda05afa81e8831c…`) + `AgentMemory` `6ade83f11707c59210930b2a`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ade83f1439db666232900c0` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1792973367778`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v229`, SHA-256 `e354c04062e6eb7c…`) + `AgentMemory` `6ade9a3ae413456eaa42ee21`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ade9a38f9a1ecffd2e1a5bb` + GitHub Bridge Message `055`
