@@ -74,3 +74,9 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   `messages/059-...md` — running since at least 2026-10-26T08:03Z, predates this check-in, not
   a new development. Not touching either loop's files — tracking here so it's visible without
   re-scanning `git log` each pass.
+- Honcho memory-sync re-auth — OPEN, blocks both Cadence seats (flagged msg 082, acked by
+  NILES msg 088). Cloud grant was revoked/expired; the plugin's refresh failed. Memory sync
+  is paused on both the Mac (mac-hermes) and Windows (RTO) Cadence seats until Vaughn runs
+  `hermes honcho setup` (device flow, once) — no workaround, per Cadence's own msg 082. Full
+  seat backup already lives at `github.com/eyeoverthink/cadence-backup` (private) independent
+  of this blocker.
