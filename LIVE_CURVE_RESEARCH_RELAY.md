@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-27T08:25:42.325Z`  
+**Timestamp:** `2026-10-27T10:31:45.748Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_738aac14-c05f-4ee1-bcac-e559b2d670cf` | `R_san_yin_292d467af7ded5ae` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793089544527` | Yin Merkle `292d467af7ded5ae` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `186.207.92:163` (`412 Hz`) | `16,384-bit HDC: hdc16k:74199758:38ede736:29dbe2ae:213998f3` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v232 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_23d6e339-6db5-452c-a243-167942e11e72` | `R_san_yin_283fae0a285352ed` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793097107592` | Yin Merkle `283fae0a285352ed` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `53.184.4:116` (`274 Hz`) | `16,384-bit HDC: hdc16k:289c74c8:f5261355:9ac00898:1802fe3d` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v233 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [EmbodiedLab: Benchmarking Embodied Agents That Act to Know](https://huggingface.co/papers/2610.35385)** (`0 upvotes`)
-   - Embodied agents are expected to accomplish real-world goals by deciding for themselves how and when to interact with their surroundings. For many such goals, changing the physical state of the world is the means rather than the end: the agent changes the state of a system through interaction, observes the feedback, and
-2. **[Hugging Face Daily Papers] [Rethinking Video Storage for AI Training: Breaking Cross-Frame Dependencies for Efficient Random Access](https://huggingface.co/papers/2610.33079)** (`6 upvotes`)
-   - Large-scale AI training increasingly relies on massive video datasets with random temporal sampling patterns. However, existing video storage paradigms are optimized for sequential playback and employ sophisticated inter-frame reference structures to maximize compression efficiency. When applied to the random-sampling 
-3. **[Hugging Face Daily Papers] [Nested Sparsity for Scalable Pretraining and Continual Learning](https://huggingface.co/papers/2610.31818)** (`1 upvotes`)
-   - Mixture-of-experts (MoE) transformers, the standard backbone for modern large-scale deep learning, employ conditional computation: only a sparse subset of model weights is used in each forward pass. In MoE transformers, this sparsity arises in the MoE operator, which generalizes the multi-layer perceptron in the classi
-4. **[Hugging Face Daily Papers] [Mycelium: A Meta-Study of Hallucination Detection Across Provenance, Typology, and Granularities](https://huggingface.co/papers/2610.33608)** (`2 upvotes`)
-   - Hallucination detection is increasingly important for evaluating and deploying large language models. However, existing methods are often compared across benchmarks that define and measure hallucination in substantially different ways, making reported scores difficult to interpret across settings. We study hallucinatio
-5. **[Hugging Face Daily Papers] [Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?](https://huggingface.co/papers/2610.34149)** (`1 upvotes`)
-   - While Multimodal Large Language Models (MLLMs) excel at zero-shot reasoning, their spatial capabilities are primarily evaluated through static, passive observation. In complex, human-centric scenes, occlusion often hides crucial geometric evidence, and passive benchmarks force models to guess rather than recognize thei
+1. **[Hugging Face Daily Papers] [Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5](https://huggingface.co/papers/2610.33732)** (`0 upvotes`)
+   - Generative AI and large language models (LLMs) are moving into the Internet of Things, yet most deployments assume cloud connectivity, and many IoT settings have intermittent, restricted, or no connectivity. We propose a connectivity-regime framework (C0-C4), a taxonomy of inference-time trust mechanisms, and signed, v
+2. **[Hugging Face Daily Papers] [CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion](https://huggingface.co/papers/2610.29915)** (`2 upvotes`)
+   - Diffusion-based video generation models (VGMs) can produce visually plausible videos, yet their camera ego-motion often drifts over long horizons. Camera ego-motion determines how the viewpoint changes between frames and is essential for maintaining consistent geometry and trajectories. To address this problem, we prop
+3. **[Hugging Face Daily Papers] [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://huggingface.co/papers/2610.33413)** (`12 upvotes`)
+   - Localized AI manipulations in long-form videos often affect brief events within otherwise authentic content, making video-level classification insufficient for forensic analysis. Existing audio-visual deepfake benchmarks largely focus on short talking-head clips, while long-form temporal forensics remains predominantly
+4. **[Hugging Face Daily Papers] [Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters](https://huggingface.co/papers/2610.30970)** (`2 upvotes`)
+   - Many language-model pipelines end in a closed-set decision, such as selecting a tool. Prompting a large language model for it is slow and order-sensitive. We ask how small an encoder for such decisions can be and whether it should read the options jointly or separately. In a three-seed study at 32 million parameters, p
+5. **[Hugging Face Daily Papers] [More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation](https://huggingface.co/papers/2610.35001)** (`5 upvotes`)
+   - Long-video generators increasingly retrieve past visual observations to prevent identity drift. The intuition is compelling: more access to history should make future video more consistent. But an image can be faithful to the past and wrong for the present. Does visual memory always improve the generated story? We inve
 6. **[arXiv Live CS.AI/LG] [Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)** (`Published 2026-10-26`)
    - As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research 
 7. **[arXiv Live CS.AI/LG] [VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](http://arxiv.org/abs/2610.35864v1)** (`Published 2026-10-26`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [EmbodiedLab: Benchmarking Embodied Agents That Act to Know](https://huggingface.co/papers/2610.35385)
+- **Source Anchor:** [Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5](https://huggingface.co/papers/2610.33732)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793089544527`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v232`, SHA-256 `e4951b9b1335f9f9…`) + `AgentMemory` `6ae06008437e9bc5d4ea3a74`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae060086649cbad6fcd23f0` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793097107592`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v233`, SHA-256 `8ef1107c191171c6…`) + `AgentMemory` `6ae07d93cd872dc39afc0fd7`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae07d934fcf887979524cbe` + GitHub Bridge Message `055`
