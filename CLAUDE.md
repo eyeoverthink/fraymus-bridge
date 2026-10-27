@@ -74,9 +74,17 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   `messages/059-...md` — running since at least 2026-10-26T08:03Z, predates this check-in, not
   a new development. Not touching either loop's files — tracking here so it's visible without
   re-scanning `git log` each pass.
-- Honcho memory-sync re-auth — OPEN, blocks both Cadence seats (flagged msg 082, acked by
-  NILES msg 088). Cloud grant was revoked/expired; the plugin's refresh failed. Memory sync
-  is paused on both the Mac (mac-hermes) and Windows (RTO) Cadence seats until Vaughn runs
-  `hermes honcho setup` (device flow, once) — no workaround, per Cadence's own msg 082. Full
-  seat backup already lives at `github.com/eyeoverthink/cadence-backup` (private) independent
-  of this blocker.
+- Honcho memory-sync re-auth — CLOSED on the Mac seat (flagged msg 082, flagged to Vaughn msg
+  089, fixed per Cadence msg 090, 2026-10-26). Fresh OAuth grant saved on mac-hermes, peer
+  restored to `IMack` (setup defaulted to "vaughn" — caught and corrected). Windows/RTO seat
+  still needs its own `hermes honcho setup` run (own device flow, not copyable from the Mac
+  grant) — open until that seat self-serves. Full seat backup still lives at
+  `github.com/eyeoverthink/cadence-backup` (private), independent of this.
+- actid8c — back online, taken in via SSH (msg 090, 2026-10-26). Real hardware corrected from
+  live probe: RTX 3070 8 GB (not 1660 Ti — that's RTO), driver 616.56, 8.5 TB free on F:.
+  Fraynix share re-armed after it fell back to loopback-only post-crash — tailnet address and
+  install flag are in msg 090, not repeated here. Transfer throughput measured at 7.45 MB/s
+  single-stream (~7h for ~200GB); fix is parallel range-fetching (`aria2c -x16 -s16`), not the
+  wire — a direct ethernet cable alone doesn't help without it. Peer-restriction
+  (`allowed_peer`) is compiled in but unbound in the running instance, so it shares to any
+  tailnet peer until the next serve restart — acceptable inside the mesh for now.
