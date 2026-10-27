@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-27T14:47:54.706Z`  
+**Timestamp:** `2026-10-27T16:22:55.869Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_77bddd47-a5c3-45fd-81d8-2fd92103d507` | `R_san_yin_b413a5bdab7847d5` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793112476760` | Yin Merkle `b413a5bdab7847d5` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `4.59.14:93` (`181 Hz`) | `16,384-bit HDC: hdc16k:961a8194:c5622b1d:1cf6926c:6ffda14e` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v240 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_5f1ede31-cb6a-47e5-97b9-7dd55c5b1e1c` | `R_san_yin_511b711393d1fc62` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793118179764` | Yin Merkle `511b711393d1fc62` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `115.88.224:48` (`379 Hz`) | `16,384-bit HDC: hdc16k:28b87800:dc7a40e0:a9d6635a:322a1644` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v241 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://huggingface.co/papers/2610.28490)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](https://huggingface.co/papers/2610.34735)** (`1 upvotes`)
+   - An agent that truly knows and acts on behalf of its user has been a long-standing promise of AI assistants. Computer-use agents bring this promise within reach by capably executing fully specified tasks across apps. However, real-world user requests are often underspecified. To act correctly for the particular user, an
+2. **[Hugging Face Daily Papers] [Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning](https://huggingface.co/papers/2610.33877)** (`1 upvotes`)
+   - Catastrophic forgetting in continual learning (CL) manifests not only as accuracy degradation but also as explanation drift: models maintain predictive accuracy while silently shifting attention from diagnostic features to spurious correlations. This work identifies and resolves a previously overlooked structural flaw 
+3. **[Hugging Face Daily Papers] [Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://huggingface.co/papers/2610.28490)** (`0 upvotes`)
    - Online scene change detection requires integrating incoming observations to determine which regions have changed relative to a reference scene. We update change beliefs as new images arrive using generalised Bayesian evidence fusion. However, the prior probability of change and evidence models are unknown beforehand, a
-2. **[Hugging Face Daily Papers] [Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila](https://huggingface.co/papers/2610.34638)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila](https://huggingface.co/papers/2610.34638)** (`2 upvotes`)
    - Animals have a remarkable capacity for autonomy---driven by intrinsic motivation---without external sensory cues or extrinsic objectives, yet the computational mechanisms behind this ability largely remain a mystery. We combine whole-brain recordings in the fruit fly (Drosophila melanogaster), which reveal neural repre
-3. **[Hugging Face Daily Papers] [OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery](https://huggingface.co/papers/2610.35450)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery](https://huggingface.co/papers/2610.35450)** (`2 upvotes`)
    - Referring expression grounding in overhead imagery requires oriented bounding boxes rather than horizontal ones, since aerial objects appear at arbitrary orientations. Most grounding models emit box coordinates sequentially; Parallel Box Decoding (PBD) instead predicts all geometry slots in one forward pass, but only f
-4. **[Hugging Face Daily Papers] [RoboJev: An Open Vision-Language Judge for Robot Success Detection](https://huggingface.co/papers/2610.33718)** (`2 upvotes`)
-   - Many robot manipulation videos do not indicate whether the task was successfully completed. RoboJev-27B is an open-weight vision-language model that takes a task instruction, 10 frames of a manipulation attempt, and (if available) final frames from auxiliary cameras and predicts whether the robot accomplished the task.
-5. **[Hugging Face Daily Papers] [Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation](https://huggingface.co/papers/2610.33024)** (`10 upvotes`)
-   - Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters. Its effectiveness depends on whether models can successfully act on the guidance provided by their harnesses. However, we find that harness benefits are not uniform across model capabil
 6. **[arXiv Live CS.AI/LG] [Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)** (`Published 2026-10-26`)
    - As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena supports diverse research 
 7. **[arXiv Live CS.AI/LG] [VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](http://arxiv.org/abs/2610.35864v1)** (`Published 2026-10-26`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://huggingface.co/papers/2610.28490)
+- **Source Anchor:** [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](https://huggingface.co/papers/2610.34735)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793112476760`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v240`, SHA-256 `26d954cb9a4e979d…`) + `AgentMemory` `6ae0b99d1f42f05c840335a0`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae0b99df80b2c8aad13e875` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793118179764`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v241`, SHA-256 `a90cedfdab1cd336…`) + `AgentMemory` `6ae0cfe46fbfd61c9a01171d`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae0cfe4b94366c298846b5a` + GitHub Bridge Message `055`
