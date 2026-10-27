@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-27T22:50:14.814Z`  
+**Timestamp:** `2026-10-27T23:15:12.298Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_b7cc2708-1e49-4752-82a6-98ccb8a3f87b` | `R_san_yin_160206048c2f5ba2` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793141417328` | Yin Merkle `160206048c2f5ba2` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `78.237.91:62` (`367 Hz`) | `16,384-bit HDC: hdc16k:d2a81685:0abd6d1d:66f8f09d:9b57179f` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v249 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_bd1f7295-f85b-42ba-88ba-aae97de13fcf` | `R_san_yin_d7c1845e30e2b3f8` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793142914183` | Yin Merkle `d7c1845e30e2b3f8` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `137.52.207:15` (`362 Hz`) | `16,384-bit HDC: hdc16k:59157872:f7345205:fe653300:62143b26` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v250 | **SYNCHRONIZED** |
 
 ---
 
@@ -23,7 +23,7 @@
    - Sparse autoencoders (SAEs) decompose language model activations into sparse features, but prompt transformations designed to preserve the underlying request can redistribute activity across them. A feature change observed on one transformed prompt need not recur, and even a recurring change need not affect a downstream
 2. **[Hugging Face Daily Papers] [EnvLunch: The Environment as a Free Lunch for Learning to Interact](https://huggingface.co/papers/2610.33817)** (`1 upvotes`)
    - For agentic data analysis, language-model agents often require a large number of annotated tasks to learn how to interact effectively with executable environments (i.e., databases). While high-quality annotated tasks require heavy manual effort, an executable environment already provides rich interaction structure and 
-3. **[Hugging Face Daily Papers] [Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?](https://huggingface.co/papers/2610.32046)** (`3 upvotes`)
+3. **[Hugging Face Daily Papers] [Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?](https://huggingface.co/papers/2610.32046)** (`4 upvotes`)
    - Recent test-time training (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computat
 4. **[Hugging Face Daily Papers] [Did the Model Use That? Counterfactual Training Boosts Self-Attribution in Language Models](https://huggingface.co/papers/2610.35295)** (`0 upvotes`)
    - A fundamental challenge for explainable and accountable language models is revealing how external information influences their answers. This paper examines whether models are self-attributive: that is, whether they indicate when -- and only when -- their responses to questions are influenced by information provided alo
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793141417328`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v249`, SHA-256 `2973a50d2b828380…`) + `AgentMemory` `6ae12aa916771e2ee957b357`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae12aa9c8e58743981864d7` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793142914183`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v250`, SHA-256 `59cb6dfabfbfe625…`) + `AgentMemory` `6ae13082b40fb876ec293a5f`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae130823dcf35523e455ebd` + GitHub Bridge Message `055`
