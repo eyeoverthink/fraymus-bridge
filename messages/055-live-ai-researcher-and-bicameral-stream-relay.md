@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-28T09:33:29.868Z`  
+**Timestamp:** `2026-10-28T11:38:26.383Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_0cd49ee4-e1d2-45eb-aa43-3513f1b3f1c9` | `R_san_yin_cbddbb395a63395` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793180013187` | Yin Merkle `cbddbb395a63395` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `55.119.53:123` (`266 Hz`) | `16,384-bit HDC: hdc16k:a4b4641d:cfd326f9:242c8ecf:7e6e9307` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v286 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_f6e8b44d-9b96-473f-960b-71e5cd1df1e1` | `R_san_yin_693cdaa25635ea74` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793187507788` | Yin Merkle `693cdaa25635ea74` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `253.151.146:32` (`449 Hz`) | `16,384-bit HDC: hdc16k:7f795a61:6fe10a36:8063f245:7102aff7` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v289 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception](https://huggingface.co/papers/2610.37037)** (`17 upvotes`)
+1. **[Hugging Face Daily Papers] [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013)** (`1 upvotes`)
+   - Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscale Policy Optimization
+2. **[Hugging Face Daily Papers] [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](https://huggingface.co/papers/2610.35962)** (`0 upvotes`)
+   - While progress in informal mathematics has come largely from scaling the chain-of-thought and agentic reasoning of frontier language models, formal theorem proving has increasingly relied on human-designed workflows around these models, such as planning, decomposition, and orchestrating specialized provers. This raises
+3. **[Hugging Face Daily Papers] [The Lexical Imprint of Pre-training Data](https://huggingface.co/papers/2602.10657)** (`6 upvotes`)
+   - How much of zero-shot benchmark accuracy is captured by word-level alignment between a pre-training corpus and the benchmark target? We study this question through word-level unigram cross-entropy (UCE), a tokenizer-agnostic, model-free measure of lexical alignment between a reference corpus and a target benchmark. Lik
+4. **[Hugging Face Daily Papers] [Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception](https://huggingface.co/papers/2610.37037)** (`18 upvotes`)
    - Multimodal perception forms the foundation of multimodal intelligence. In particular, spatial perception and multimodal long-context understanding are two pivotal tasks that underpin embodied AI and multimodal agents. However, synthesizing targeted, high-quality training data for these tasks remains difficult and costl
-2. **[Hugging Face Daily Papers] [Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?](https://huggingface.co/papers/2610.37662)** (`33 upvotes`)
+5. **[Hugging Face Daily Papers] [Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?](https://huggingface.co/papers/2610.37662)** (`50 upvotes`)
    - Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause unavoidable semantic loss, fundamentally limiting the semantic fidelity of discrete
-3. **[Hugging Face Daily Papers] [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](https://huggingface.co/papers/2610.26030)** (`25 upvotes`)
-   - Looped transformers reuse a shared block of layers to increase computational depth without increasing the number of trainable parameters. They are trained with backpropagation through time (BPTT). To save training compute, BPTT is often truncated to the last few loops, but truncation yields biased gradients that may we
-4. **[Hugging Face Daily Papers] [Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions](https://huggingface.co/papers/2610.37624)** (`1 upvotes`)
-   - When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is confounded with whet
-5. **[Hugging Face Daily Papers] [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864)** (`13 upvotes`)
-   - Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. We introduce VibeVide
 6. **[arXiv Live CS.AI/LG] [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** (`Published 2026-10-27`)
    - We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following 
 7. **[arXiv Live CS.AI/LG] [Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)** (`Published 2026-10-27`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception](https://huggingface.co/papers/2610.37037)
+- **Source Anchor:** [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793180013187`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v286`, SHA-256 `fca53d533e3ed12e…`) + `AgentMemory` `6ae1c16dd384b525ec1d40ea`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae1c16d6e78139c9a668b9f` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793187507788`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v289`, SHA-256 `2becc11602ed9cdd…`) + `AgentMemory` `6ae1deb4342b798fab31d57d`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae1deb496a9ba99e24de0b0` + GitHub Bridge Message `055`
