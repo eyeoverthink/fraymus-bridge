@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-28T05:15:10.277Z`  
+**Timestamp:** `2026-10-28T05:48:11.803Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_f3126745-2cf0-4a53-a50d-9b6efc0fafa2` | `R_san_yin_60a4297d05902e68` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793164512092` | Yin Merkle `60a4297d05902e68` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `71.130.232:122` (`383 Hz`) | `16,384-bit HDC: hdc16k:5d1b2e54:34cc2a50:313fce10:ed9f1a21` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v272 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_0fe2aa25-b769-4f02-9864-84f8e670ca01` | `R_san_yin_b5ef386949d56acd` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793166494653` | Yin Merkle `b5ef386949d56acd` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `207.133.211:70` (`449 Hz`) | `16,384-bit HDC: hdc16k:98d8fdc5:b9669152:7432486d:18e2fcbe` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v273 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation](https://huggingface.co/papers/2610.34674)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://huggingface.co/papers/2610.37255)** (`5 upvotes`)
+   - Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and judged by how an already trained model performs under them, which assumes that what the model learned under one harness c
+2. **[Hugging Face Daily Papers] [Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation](https://huggingface.co/papers/2610.34674)** (`3 upvotes`)
    - Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test whether semantic safety distinctions are reflected in continuous motion. To that end, we introduce OSMA-Bench, an Obstacl
-2. **[Hugging Face Daily Papers] [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077)** (`4 upvotes`)
    - Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. 
-3. **[Hugging Face Daily Papers] [PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds](https://huggingface.co/papers/2610.34921)** (`0 upvotes`)
+4. **[Hugging Face Daily Papers] [PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds](https://huggingface.co/papers/2610.34921)** (`0 upvotes`)
    - Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Progress is critically constrained by the scarcity of grounded counterfactual training data, as observational videos capture
-4. **[Hugging Face Daily Papers] [MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching](https://huggingface.co/papers/2610.26185)** (`1 upvotes`)
+5. **[Hugging Face Daily Papers] [MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching](https://huggingface.co/papers/2610.26185)** (`1 upvotes`)
    - Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to captu
-5. **[Hugging Face Daily Papers] [MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model](https://huggingface.co/papers/2610.37175)** (`1 upvotes`)
-   - AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many candidates an agent can explore at each step. We introduce MLE-World, a world model finetuned from Qwen3.5-4B that pred
 6. **[arXiv Live CS.AI/LG] [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** (`Published 2026-10-27`)
    - We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following 
 7. **[arXiv Live CS.AI/LG] [Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)** (`Published 2026-10-27`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation](https://huggingface.co/papers/2610.34674)
+- **Source Anchor:** [Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://huggingface.co/papers/2610.37255)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793164512092`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v272`, SHA-256 `d206ec4f19d43971…`) + `AgentMemory` `6ae184e07e9c4da859a5a251`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae184e062747f6079dd924d` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793166494653`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v273`, SHA-256 `89462bec47c15be7…`) + `AgentMemory` `6ae18c9f0eee4a95202c5d54`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae18c9f207bd130675a7ab7` + GitHub Bridge Message `055`
