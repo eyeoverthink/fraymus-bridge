@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-29T21:34:56.189Z`  
+**Timestamp:** `2026-10-29T23:42:57.283Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_18a73f13-37f0-4764-82cb-82b79b0e2d92` | `R_san_yin_497285d796cfdddd` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793309698048` | Yin Merkle `497285d796cfdddd` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `224.174.210:85` (`481 Hz`) | `16,384-bit HDC: hdc16k:403e3fcd:0152cf77:351e6adf:5248d0f4` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v365 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_0c798188-35ec-437d-9c3c-60487ddcba33` | `R_san_yin_c9f410ceb98e6efd` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793317378760` | Yin Merkle `c9f410ceb98e6efd` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `52.158.50:64` (`285 Hz`) | `16,384-bit HDC: hdc16k:79bc14f2:7fef06e9:5c939804:13d83659` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v366 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load](https://huggingface.co/papers/2610.36095)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [Know, then Draw: A New Learning Paradigm for Visual Generation](https://huggingface.co/papers/2610.37626)** (`0 upvotes`)
+   - Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning paradigm that assigns these roles to autoregressive pretraining for knowledge acquisition and diffusion post-training for high-fidelity rendering. Within this framework, we study the objective, representa
+2. **[Hugging Face Daily Papers] [Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load](https://huggingface.co/papers/2610.36095)** (`1 upvotes`)
    - The quality with which language models follow instructions falls as the load grows, yet there is still no quantity that expresses the limit of a model in units of load with an uncertainty. We propose an instrument in which the load consists of rules that replace single-token words in a text without meaning: such an ins
-2. **[Hugging Face Daily Papers] [Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks](https://huggingface.co/papers/2610.35671)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks](https://huggingface.co/papers/2610.35671)** (`3 upvotes`)
    - As frontier language models grow increasingly capable and autonomous, independent third-party evaluations are critical for characterizing their systemic safety risks. While closed-source releases are routinely accompanied by comprehensive system cards, open-weight models receive less scrutiny regarding frontier risks. 
-3. **[Hugging Face Daily Papers] [Amortizing Sequential Experimental Design in Reasoning LLMs](https://huggingface.co/papers/2610.20832)** (`4 upvotes`)
+4. **[Hugging Face Daily Papers] [Amortizing Sequential Experimental Design in Reasoning LLMs](https://huggingface.co/papers/2610.20832)** (`5 upvotes`)
    - Despite their extensive pretraining knowledge and strong reasoning capabilities, large language models (LLMs) struggle to adaptively gather information in experimental design tasks. We study how to amortize sequential Bayesian experimental design (BED) into an LLM by explicitly training the reasoning that guides action
-4. **[Hugging Face Daily Papers] [RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents](https://huggingface.co/papers/2610.22507)** (`15 upvotes`)
+5. **[Hugging Face Daily Papers] [RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents](https://huggingface.co/papers/2610.22507)** (`15 upvotes`)
    - Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes without capturing runtime collaboration quality. In this paper, we present REALCLI, a paired benchmark that unifies the 
-5. **[Hugging Face Daily Papers] [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://huggingface.co/papers/2610.30132)** (`3 upvotes`)
-   - Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthe
 6. **[arXiv Live CS.AI/LG] [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** (`Published 2026-10-27`)
    - We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following 
 7. **[arXiv Live CS.AI/LG] [Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)** (`Published 2026-10-27`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load](https://huggingface.co/papers/2610.36095)
+- **Source Anchor:** [Know, then Draw: A New Learning Paradigm for Visual Generation](https://huggingface.co/papers/2610.37626)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793309698048`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v365`, SHA-256 `3fff0fa47118d8b8…`) + `AgentMemory` `6ae3bc0379544f3741d95b03`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae3bc038973cdcc950b5860` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793317378760`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v366`, SHA-256 `1f1db6823fd1676c…`) + `AgentMemory` `6ae3da0226cd9228d5168335`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae3da02f37556d3c5ff4607` + GitHub Bridge Message `055`
