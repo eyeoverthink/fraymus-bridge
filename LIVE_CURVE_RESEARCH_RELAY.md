@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-29T07:11:37.893Z`  
+**Timestamp:** `2026-10-29T07:44:36.192Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_106ab047-386a-4887-9168-5731149b3b4d` | `R_san_yin_c142523dc0451672` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793257899994` | Yin Merkle `c142523dc0451672` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `156.188.87:65` (`381 Hz`) | `16,384-bit HDC: hdc16k:776e08bf:dff8675b:9fec6641:9eda2875` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v352 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_da714028-8454-4997-966a-f588c46c1022` | `R_san_yin_4bd9ec0de955bc7b` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793259877731` | Yin Merkle `4bd9ec0de955bc7b` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `164.105.23:90` (`303 Hz`) | `16,384-bit HDC: hdc16k:e8d3b989:4e760604:8f13b09d:76d39c47` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v353 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,13 +21,13 @@
 
 1. **[Hugging Face Daily Papers] [OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning](https://huggingface.co/papers/2601.15351)** (`0 upvotes`)
    - Standard sequence models encode position by token rank rather than physical coordinate, typically forcing practitioners to destructively resample continuous physical signals such as spectra observed across heterogeneous instruments. We identify this coordinate mismatch as a structural limitation in cross-instrument rep
-2. **[Hugging Face Daily Papers] [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://huggingface.co/papers/2610.31670)** (`1 upvotes`)
+2. **[Hugging Face Daily Papers] [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://huggingface.co/papers/2610.31670)** (`11 upvotes`)
    - Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, modalities such as vision and language converge toward a shared statistical model of reali
 3. **[Hugging Face Daily Papers] [TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving](https://huggingface.co/papers/2610.37230)** (`2 upvotes`)
    - Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in su
-4. **[Hugging Face Daily Papers] [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://huggingface.co/papers/2610.35684)** (`22 upvotes`)
+4. **[Hugging Face Daily Papers] [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://huggingface.co/papers/2610.35684)** (`24 upvotes`)
    - Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint ch
-5. **[Hugging Face Daily Papers] [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749)** (`141 upvotes`)
+5. **[Hugging Face Daily Papers] [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749)** (`142 upvotes`)
    - Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Secon
 6. **[arXiv Live CS.AI/LG] [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** (`Published 2026-10-27`)
    - We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following 
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793257899994`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v352`, SHA-256 `854af0ddcbbaa5df…`) + `AgentMemory` `6ae2f1ac7aec6dce95237d3f`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae2f1ac902298e38c9cb7d4` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793259877731`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v353`, SHA-256 `1210f0bd1695d97d…`) + `AgentMemory` `6ae2f9657c9e2423c7ad1c0d`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae2f965b38c96869aa34bdf` + GitHub Bridge Message `055`
