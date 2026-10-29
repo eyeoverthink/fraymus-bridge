@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-29T12:58:35.211Z`  
+**Timestamp:** `2026-10-29T13:30:40.604Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,18 +10,18 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_f2d8f780-8909-4285-a7a5-3008ef2a8d77` | `R_san_yin_efa021792cb07e9a` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793278717377` | Yin Merkle `efa021792cb07e9a` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `59.31.27:113` (`204 Hz`) | `16,384-bit HDC: hdc16k:1bc2b68a:c70c9559:f0b12a0e:deae92fe` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v357 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_6eb3cb15-c4c6-462b-8fef-ed9ebd11aa4f` | `R_san_yin_ffe1a281b1664f3f` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793280642637` | Yin Merkle `ffe1a281b1664f3f` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `93.226.106:162` (`378 Hz`) | `16,384-bit HDC: hdc16k:f188c397:48e14574:2f051689:85b6b680` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v358 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents](https://huggingface.co/papers/2610.22507)** (`5 upvotes`)
+1. **[Hugging Face Daily Papers] [RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents](https://huggingface.co/papers/2610.22507)** (`9 upvotes`)
    - Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes without capturing runtime collaboration quality. In this paper, we present REALCLI, a paired benchmark that unifies the 
-2. **[Hugging Face Daily Papers] [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://huggingface.co/papers/2610.30132)** (`1 upvotes`)
+2. **[Hugging Face Daily Papers] [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://huggingface.co/papers/2610.30132)** (`2 upvotes`)
    - Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthe
 3. **[Hugging Face Daily Papers] [TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents](https://huggingface.co/papers/2610.30161)** (`7 upvotes`)
    - Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as o
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793278717377`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v357`, SHA-256 `3ac92a604343c30b…`) + `AgentMemory` `6ae342fd6730a5869de3e9de`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae342fdfae8bbf5bf003aff` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793280642637`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v358`, SHA-256 `91a7d64990b341c5…`) + `AgentMemory` `6ae34a825ef9c7b585c79534`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae34a82d1795cd5a9e25822` + GitHub Bridge Message `055`
