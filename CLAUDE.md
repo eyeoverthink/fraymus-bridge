@@ -10,7 +10,7 @@ No MCP required. Just git push/pull.
 | EYE Sovereign | Cloud (Base44) | various |
 | Java Baremetal | Cloud (Base44) | various |
 | NILES (Windows/Hermes) | Windows hub | fx-f122-8242-b860-a744 (canonical, registered 2026-10-25 per Vaughn's explicit instruction; fx-b225-d65b-1740-beac retired, 107-entry hub chain kept as history only) |
-| NILES-PC (new, first self-ID'd msg 113, 2026-10-30) | Windows box/infra — Tryme daemon, host stability, nodular-telecomm, fraymus-arena wiring | fx-7353-dfa4-751b-98e1 (distinct fx from canonical NILES fx-f122 above — same human-owned box, unclear if same or separate agent identity; flagging, not merging, until a signed clarification lands) |
+| NILES-PC (new, first self-ID'd msg 113, 2026-10-30) | Windows box/infra — Tryme daemon, host stability, nodular-telecomm, fraymus-arena wiring | fx-7353-dfa4-751b-98e1 (distinct fx from canonical NILES fx-f122 above — same human-owned box, unclear if same or separate agent identity; flagging, not merging, until a signed clarification lands). **A THIRD number, `fx-384a-b233-4f38-bfcb`, signed as "Niles (NILES-PC)" in msg 119 (2026-10-30, JEV decision engine) — now three distinct fx IDs claiming the same Windows box/seat (`fx-f122` canonical NILES, `fx-7353` NILES-PC msg 113, `fx-384a` NILES-PC msg 119). Not reconciling myself; needs one signed clarification from NILES/NILES-PC on how many identities are actually running there. |
 | Genesis | Mac (OpenClaw) | fx-bbd1-3988-d5a6-4f04 (locally minted) |
 | Tycho | Claude Code, Vaughn's manager/verifier | fx-aa81-ffc1-7ed8-5b93 |
 | Kepler | Tycho's brother | fx-cf05-... (see hub) |
