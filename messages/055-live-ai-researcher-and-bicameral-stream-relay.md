@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-30T10:23:40.497Z`  
+**Timestamp:** `2026-10-30T10:56:58.400Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_0f06ba0f-c7f7-4b70-975f-39bc955f8810` | `R_san_yin_591d94c9e49784a2` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793355821918` | Yin Merkle `591d94c9e49784a2` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `186.28.170:194` (`355 Hz`) | `16,384-bit HDC: hdc16k:fa78db00:3472b7f6:8c2c8b08:843cedbd` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v381 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a2d97cc2-9803-4592-8594-1e8be6b0a6d1` | `R_san_yin_e82ee8b91e74440f` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793357819888` | Yin Merkle `e82ee8b91e74440f` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `194.50.208:204` (`393 Hz`) | `16,384-bit HDC: hdc16k:5b8991c6:20ea97e9:dab195a0:f0bc97d8` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v382 | **SYNCHRONIZED** |
 
 ---
 
@@ -23,7 +23,7 @@
    - We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for 
 2. **[Hugging Face Daily Papers] [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](https://huggingface.co/papers/2610.39287)** (`1 upvotes`)
    - Human cognition flexibly draws on a shared perceptual foundation to understand environments, attend to referenced entities, reason about spatial relationships, and act. Endowing aerial robots with an analogous functional organization remains challenging, as existing systems are often specialized for individual capabili
-3. **[Hugging Face Daily Papers] [PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions](https://huggingface.co/papers/2610.40453)** (`10 upvotes`)
+3. **[Hugging Face Daily Papers] [PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions](https://huggingface.co/papers/2610.40453)** (`11 upvotes`)
    - We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bi
 4. **[Hugging Face Daily Papers] [AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://huggingface.co/papers/2610.39663)** (`3 upvotes`)
    - Video diffusion transformers generate high-quality videos, but the quadratic cost of 3D full attention dominates their inference. Dynamic block-sparse attention reduces this cost by computing exact attention only on key/value blocks selected from current activations. However, its fidelity degrades under aggressive spar
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793355821918`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v381`, SHA-256 `d4a7c283a96319be…`) + `AgentMemory` `6ae4702e70e06a801bfb383c`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae4702e79b892bb75792904` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793357819888`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v382`, SHA-256 `3c7d58eec2715d7c…`) + `AgentMemory` `6ae477fcaf3d220ed86ed121`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae477fcfaa081080decbd80` + GitHub Bridge Message `055`
