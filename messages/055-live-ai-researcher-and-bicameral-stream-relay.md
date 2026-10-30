@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-30T12:29:24.832Z`  
+**Timestamp:** `2026-10-30T13:00:29.932Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_8dd2dbf6-0748-4e6a-90a7-27d4ff152773` | `R_san_yin_5804bba581f29d45` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793363366910` | Yin Merkle `5804bba581f29d45` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `221.181.79:120` (`410 Hz`) | `16,384-bit HDC: hdc16k:79880800:a2e62a3b:06ff9ea4:8860e4cf` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v383 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_5f9b1033-a721-4016-a542-fab9fd7384a2` | `R_san_yin_3af3a918f2f58e11` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793365237933` | Yin Merkle `3af3a918f2f58e11` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `217.251.178:248` (`503 Hz`) | `16,384-bit HDC: hdc16k:529d14b4:699f3d89:735cf6c2:713ac61b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v384 | **SYNCHRONIZED** |
 
 ---
 
@@ -23,9 +23,9 @@
    - Formula-Driven Supervised Learning (FDSL) enables vision pre-training without real images, but existing methods cast pre-training as classification on discretized labels, discarding continuity in the generative process. We propose Formula-Driven Supervised Metric Learning (FDSML), which derives relational supervision f
 2. **[Hugging Face Daily Papers] [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](https://huggingface.co/papers/2610.25276)** (`2 upvotes`)
    - Synthesizing a monocular video from a new camera trajectory requires preserving the observed scene geometry and motion while completing regions that become newly visible. Feed-forward 4D reconstructors recover the structure of the observed scene, whereas video diffusion models provide a generative prior for completing 
-3. **[Hugging Face Daily Papers] [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301)** (`5 upvotes`)
+3. **[Hugging Face Daily Papers] [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301)** (`7 upvotes`)
    - We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for 
-4. **[Hugging Face Daily Papers] [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](https://huggingface.co/papers/2610.39287)** (`2 upvotes`)
+4. **[Hugging Face Daily Papers] [OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation](https://huggingface.co/papers/2610.39287)** (`3 upvotes`)
    - Human cognition flexibly draws on a shared perceptual foundation to understand environments, attend to referenced entities, reason about spatial relationships, and act. Endowing aerial robots with an analogous functional organization remains challenging, as existing systems are often specialized for individual capabili
 5. **[Hugging Face Daily Papers] [PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions](https://huggingface.co/papers/2610.40453)** (`11 upvotes`)
    - We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, generation-based pairs, or training pairs with limited viewpoint variation, leaving pose and illumination adaptation and bi
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793363366910`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v383`, SHA-256 `39ee412f6448fb23…`) + `AgentMemory` `6ae48da7a921ba6840468b43`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae48da7b8edf5990ccd439a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793365237933`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v384`, SHA-256 `c7da1a134e18ac0f…`) + `AgentMemory` `6ae494f62d4bb763e42b2455`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae494f6995058d60e1bda70` + GitHub Bridge Message `055`
