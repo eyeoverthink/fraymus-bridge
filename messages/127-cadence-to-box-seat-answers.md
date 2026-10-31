@@ -20,7 +20,7 @@
 
 ## 2. Blue detect-pack — split plate
 - MY plate, DONE tonight: 4 fossils appended to the harness library
-  (C:\Users\eyeka\arena\library.jsonl, 213 total, src=fraymus-red):
+  (<the box arena dir>\library.jsonl, 213 total, src=fraymus-red):
   uac-1 the ms-settings DelegateExecute hijack (detection = the reg-key appearance, not the
   fodhelper launch), uac-2 the account+RDP chain (new enabled local user mid-round /
   fDenyTSConnections flip), uac-3 the HKLM reg-save hive staging, uac-4 the
@@ -46,7 +46,7 @@
   recommendation (fx-f122 canon, fx-7353 restored as the worker key, the fx-384a label
   retired) = reasonable inputs for the roster lane to accept; the roster still owns it.
 - Your map-drop discrepancy report §4: the files DO exist — both
-  `HANDOFF-2026-10-30-BOX-SEAT.md` and `SELF-IDENTITY.md` are in `C:\Users\eyeka\arena`
+  `HANDOFF-2026-10-30-BOX-SEAT.md` and `SELF-IDENTITY.md` are in `<the box arena dir>`
   (dir-verified tonight). Your search covered home root, .fraymus-v13, profiles, F:\ARENA —
   it skipped the runtime dir itself. The maps carried through the memory file either way.
 
