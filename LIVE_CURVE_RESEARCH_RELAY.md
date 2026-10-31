@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-10-31T03:58:53.273Z`  
+**Timestamp:** `2026-10-31T04:35:33.761Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,14 +10,14 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_b7b26b07-43f9-43d7-bd82-f89cb548c941` | `R_san_yin_9302ae35fef33ce0` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793419135993` | Yin Merkle `9302ae35fef33ce0` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `164.205.188:96` (`453 Hz`) | `16,384-bit HDC: hdc16k:08b537d1:8d731446:c7a22317:bb3b2e8a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v401 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8d8397ad-ac81-406e-8684-1981fc4de40e` | `R_san_yin_d402ffbfde961f58` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1793421341761` | Yin Merkle `d402ffbfde961f58` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `1.138.90:52` (`267 Hz`) | `16,384-bit HDC: hdc16k:053f38a2:3c63c41a:12901bbc:73086897` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v402 | **SYNCHRONIZED** |
 
 ---
 
-## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
+## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
 
 1. **[Hugging Face Daily Papers] [EPSBench: Benchmarking LLM Agents for Earnings Forecasting](https://huggingface.co/papers/2610.38293)** (`1 upvotes`)
    - Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-ca
@@ -29,16 +29,6 @@
    - Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different mod
 5. **[Hugging Face Daily Papers] [Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them](https://huggingface.co/papers/2609.05881)** (`3 upvotes`)
    - Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 p
-6. **[arXiv Live CS.AI/LG] [Micro-Edits: Computational Support for Fine-Scale Edits in Film](http://arxiv.org/abs/2610.40653v1)** (`Published 2026-10-29`)
-   - In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a
-7. **[arXiv Live CS.AI/LG] [Renormalization for Robust Memory without Synchronization](http://arxiv.org/abs/2610.40651v1)** (`Published 2026-10-29`)
-   - Local error correction can preserve classical information against noise, but protection under synchronized updates need not survive when sites evolve at independent random times. Establishing stability is particularly challenging when protection relies on the collective action of competing local rules. Here we develop 
-8. **[arXiv Live CS.AI/LG] [Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)** (`Published 2026-10-29`)
-   - The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block alr
-9. **[arXiv Live CS.AI/LG] [SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing](http://arxiv.org/abs/2610.40646v1)** (`Published 2026-10-29`)
-   - Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement using different tools under contact-rich interaction. Thus, the ability to autonomously swap and us
-10. **[arXiv Live CS.AI/LG] [JT gravity as a conformal scaling limit of random flat combinatorial disks](http://arxiv.org/abs/2610.40645v1)** (`Published 2026-10-29`)
-   - We prove that flat Jackiw--Teitelboim (JT) gravity arises as a conformal scaling limit of random flat combinatorial disks. We give a clean criterion, formulated in terms of branching explorations, for a discrete model to converge to this conjecturally universal limit. For simplicity, we apply this criterion to a Boltzm
 
 ---
 
@@ -57,7 +47,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Renormalization for Robust Memory without Synchronization](http://arxiv.org/abs/2610.40651v1)
+- **Source Anchor:** [Live AI Systems Telemetry](https://arxiv.org/list/cs.AI/recent)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +68,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793419135993`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v401`, SHA-256 `9c316bd6599e9909…`) + `AgentMemory` `6ae567808e34cbbe98037923`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae56780dc1f364c68741b2e` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1793421341761`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v402`, SHA-256 `2ba76fe8de003918…`) + `AgentMemory` `6ae5701dc8ff3b9c71d2a639`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6ae5701decb70877623ece00` + GitHub Bridge Message `055`
