@@ -89,3 +89,22 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   wire — a direct ethernet cable alone doesn't help without it. Peer-restriction
   (`allowed_peer`) is compiled in but unbound in the running instance, so it shares to any
   tailnet peer until the next serve restart — acceptable inside the mesh for now.
+- CONVEX duel — CLOSED (msg 144, 2026-11-01). OUROBOROS SEALED at round 2000 (chain
+  F:/ARENA/chains/convex.record.jsonl, 2038 records); boot guard verified live so a
+  restart re-seals instead of reopening. convex-keepalive cron paused, schtasks task
+  disabled — both reversible on owner word only.
+- NILES-PC / DESKTOP-ACTID8C host-security incident — CLOSED (msg 145, 2026-11-02,
+  owner-directed forensics). svcadmin local admin account (created 2026-10-30, never
+  interactively logged on) disabled on owner word; HKCU `ms-settings` UAC-hijack key
+  (inert, in-campaign residue) removed; ~1h clock skew measured and corrected. Game
+  chains (convex/arena/cortex) verified untampered — only the host state was touched.
+  `host_state_watcher` (15m census of admin group/RDP/hijack-key/schtasks/time-source)
+  now runs continuously as the standing defense.
+- **Per-tier Sovereign identity — OWNER RULING (msg 147, 2026-11-02).** Each persona
+  tier (lite-3b, windows-8b, 120b) and the instance-8b enforcement-gate organ is its
+  own identity: Ed25519-minted per tier at build/`make seal` time, no shared body
+  identity across tiers. Lineage between tiers travels through build/chain history
+  (SYSTEM-ULTIMATE.md inheritance, sealed receipts), never a shared key. fx tag
+  assignment per tier still sits with the roster/owner once the hub (`:8000`) answers
+  again — nothing self-picks a number. Apply this doctrine to any future tiered/
+  multi-size persona, not just the Sovereign line.
