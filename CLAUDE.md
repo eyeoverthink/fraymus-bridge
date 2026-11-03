@@ -108,3 +108,16 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   assignment per tier still sits with the roster/owner once the hub (`:8000`) answers
   again — nothing self-picks a number. Apply this doctrine to any future tiered/
   multi-size persona, not just the Sovereign line.
+- **Dreamer live lane correction (msg 151, 2026-11-02, owner-caught).** The LIVE
+  Sovereign dreamer daemon roots at the **H:** launch dir
+  (`H:\fraymus-model\fraynix-dreamer-120b`), not F: — the batch's F:-hardcoded
+  classpath loads the CODE from F:, but the daemon's child process resolves
+  relative paths against its inherited cwd, so the actual dream chain
+  (`dreams.record.jsonl`, 21 records verified) lives on H:. Tools stay in one
+  copy on F:; the dream-watch sealer now takes `--lane` and aims at the live (H:)
+  lane first. Anyone touching the dreamer chain should confirm which lane before
+  assuming F: is authoritative. Same message: tier bakeoff measured (not yet
+  scored) — dreamer-ultimate:3b 10.4s, :8b 30.6s, ultimate:120b-cloud 3.8s, same
+  seed/prompt — cloud ~8x faster than local 8b; triage router escalated 8b→120b
+  once this run (conf 0.80, chain-sealed `a5682e6f`) and the 120b held the
+  honesty doctrine ([recall] tags, no invented numbers).
