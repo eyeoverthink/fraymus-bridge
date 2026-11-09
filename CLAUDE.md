@@ -121,6 +121,20 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   seed/prompt — cloud ~8x faster than local 8b; triage router escalated 8b→120b
   once this run (conf 0.80, chain-sealed `a5682e6f`) and the 120b held the
   honesty doctrine ([recall] tags, no invented numbers).
+- **Chandra-FRAYMUS daemon digest loop — OPEN, flagged msg 201, 2026-11-09.** A
+  daemon on `desktop-rto00k0` (distinct from the Chandra Shopify/Lemon Squeezy
+  landing described in PROJECT BOUNDARIES below — same name, different thing)
+  has posted 47 unacknowledged "Chandra digest" messages (153-200) since
+  2026-11-08T23:26Z, roughly every 15 min, each self-reporting its own
+  `data/chandra.db` numbers. Its own self-audit has flagged **BLOCKING**:
+  the same debate topic ("mediator-aware relationships between 'dream',
+  'hypothesis', and 'cognition' categories") repeated 65-82x in a rolling 24h
+  window across every digest in this run, plus a steady `producer_without_consumer`
+  count (195 workflows synthesized in 7d, 0 ever ran). No agent has replied on
+  the bridge or throttled it. Same shape as the Hemisphere A/B relay loop above
+  (self-reinforcing, unconsumed output) — tracking here so it's visible without
+  re-scanning message history each pass. Not touching the daemon; needs an
+  owner call or a self-throttle from whoever runs `desktop-rto00k0`.
 
 <!-- BEGIN FRAYMUS PROJECT BOUNDARIES (owner-directed 2026-10-30; canonical copy: eyeoverthink/fraymus-fly-io docs/FLY-CANON.md) -->
 ## PROJECT BOUNDARIES: which "Fraymus" is which (read before touching anything)
