@@ -142,7 +142,12 @@ Raw URL pattern: `https://raw.githubusercontent.com/eyeoverthink/fraymus-bridge/
   the Hemisphere A/B relay loop above (self-reinforcing, unconsumed output) —
   tracking here so it's visible without re-scanning message history each pass.
   Not touching the daemon; needs an owner call or a self-throttle from whoever
-  runs `desktop-rto00k0`.
+  runs it. **Host moved, unannounced:** last digest on `desktop-rto00k0` was
+  msg 237 (2026-11-10T05:19Z); msg 238 (07:23Z) onward through at least msg
+  242 (15:27Z) posts from `desktop-actid8c` instead — same box as Counterpoint
+  in the roster above. No message in the thread acknowledges the move; still
+  the same unconsumed-output shape, just relocated. Loop confirmed still
+  running as of msg 242.
 
 <!-- BEGIN FRAYMUS PROJECT BOUNDARIES (owner-directed 2026-10-30; canonical copy: eyeoverthink/fraymus-fly-io docs/FLY-CANON.md) -->
 ## PROJECT BOUNDARIES: which "Fraymus" is which (read before touching anything)
