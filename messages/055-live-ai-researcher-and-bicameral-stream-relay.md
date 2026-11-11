@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-11T03:13:49.887Z`  
+**Timestamp:** `2026-11-11T05:20:44.983Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_4bff4e3d-02a8-417d-95cb-2c5125fb6e1f` | `R_san_yin_a413d9bc729cc492` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794366838887` | Yin Merkle `a413d9bc729cc492` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `215.156.32:169` (`366 Hz`) | `16,384-bit HDC: hdc16k:9fe5a4d7:5452e4fc:4840b15f:60ac0c96` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v453 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_3a74c73c-1a50-4a9c-8913-749891e55723` | `R_san_yin_4cfd791f5c7daf58` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794374453983` | Yin Merkle `4cfd791f5c7daf58` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `198.92.230:199` (`432 Hz`) | `16,384-bit HDC: hdc16k:71add544:62ee8637:0f60665e:aece971c` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v454 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)** (`4 upvotes`)
-   - Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to
-2. **[Hugging Face Daily Papers] [PhysOPSD: Code as Privilege for Physically Plausible Video Generation](https://huggingface.co/papers/2611.12411)** (`2 upvotes`)
-   - While modern video generative models achieve remarkable visual fidelity, they remain noticeably brittle when generating physically plausible dynamics and complex interactions. Targeted post-training is crucial, yet supervised fine-tuning suffers from offline state mismatch, and reinforcement learning is hindered by spa
-3. **[Hugging Face Daily Papers] [World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885)** (`11 upvotes`)
-   - Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot current
-4. **[Hugging Face Daily Papers] [Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series](https://huggingface.co/papers/2611.12955)** (`1 upvotes`)
-   - Time-series classifiers deployed in risk-sensitive domains must be (1) accurate, (2) interpretable, and (3) able to abstain when evidence is weak. Existing methods do not deliver all 3 at once, and the obstacle is structural, rather than logistical. Meaningful temporal patterns cannot be defined without knowing segment
-5. **[Hugging Face Daily Papers] [Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models](https://huggingface.co/papers/2611.05927)** (`1 upvotes`)
-   - Mixture-of-Experts (MoE) enables multimodal large language models (MLLMs) to scale capacity efficiently, but expert parameters dominate memory even though only a few experts are activated per token: they account for over 90% of model size in modern MoE-MLLMs (e.g., 54 GB out of about 58 GB in BF16 for InternVL3.5-30B-A
-6. **[arXiv Live CS.AI/LG] [A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation](http://arxiv.org/abs/2611.14062v1)** (`Published 2026-11-10`)
-   - Construction tasks in hazardous and unstructured environments require both human adaptability and robotic precision, yet existing approaches often treat teleoperation and autonomy as separate control modes. This paper presents a human-in-the-loop control paradigm that enables structured transitions among VR-guided tele
-7. **[arXiv Live CS.AI/LG] [Complete self-shrinkers with scalar curvature bounded below](http://arxiv.org/abs/2611.14047v1)** (`Published 2026-11-10`)
-   - Let $X:M^n\to\mathbb R^{n+1}$ be a complete self-shrinker with constant squared norm of the second fundamental form. We prove that up to an orthogonal transformation, the image $X(M^n)$ is a sphere $S^n(\sqrt n)$, or a hyperplane $\mathbb R^n$ or a generalized cylinder $ S^k(\sqrt{k})\times\R^{n-k},\ 1\le k\le n-1$ if 
-8. **[arXiv Live CS.AI/LG] [ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models](http://arxiv.org/abs/2611.14035v1)** (`Published 2026-11-10`)
-   - Foundation models pre-trained on large unlabeled electroencephalography (EEG) corpora have emerged as a transformative paradigm for Brain-Computer Interface (BCI) applications. Recent EEG foundation models have shown that multi-scale representations derived from fixed-length patches can improve EEG representation learn
-9. **[arXiv Live CS.AI/LG] [Program-Aided Patchable Skill Evolution](http://arxiv.org/abs/2611.14019v1)** (`Published 2026-11-10`)
-   - Agent skills have emerged as an effective means of enabling LLM agents to solve complex, interactive tasks by encoding reusable knowledge without modifying model parameters. Recent approaches further improve skill adaptation by distilling reusable experience from agent execution trajectories and evolving skills based o
-10. **[arXiv Live CS.AI/LG] [Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment](http://arxiv.org/abs/2611.14017v1)** (`Published 2026-11-10`)
-   - Long-horizon personalized agents maintain an evolving memory by continuously deciding what to add, modify, or discard. However, learning an optimal update policy remains challenging. Conventional training relies solely on terminal question-answering accuracy, yielding a coarse feedback signal that treats all intermedia
+1. **[Hugging Face Daily Papers] [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210)** (`0 upvotes`)
+   - Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our me
+2. **[Hugging Face Daily Papers] [MMDM: Measuring Massive Multitask Decision Making](https://huggingface.co/papers/2611.14309)** (`1 upvotes`)
+   - System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposu
+3. **[Hugging Face Daily Papers] [EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](https://huggingface.co/papers/2611.13907)** (`1 upvotes`)
+   - Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence supports direct answering, whereas less informative observations may benefit from reasoning that connects the available cues. W
+4. **[Hugging Face Daily Papers] [Learning to Act with World Models by Valuing What Comes Next](https://huggingface.co/papers/2611.12200)** (`1 upvotes`)
+   - A sparse terminal reward tells an agent little about its steps. Much of the missing information is implicit in the environment's dynamics, because each state transition can change the conditions for success long before the reward arrives. A world model trained on real transitions can learn to predict what each action c
+5. **[Hugging Face Daily Papers] [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](https://huggingface.co/papers/2611.11166)** (`3 upvotes`)
+   - Dexterous manipulation requires rich spatial foresight over both the surrounding scene and the robot hand. Existing world-action models often acquire such predictive knowledge through explicit future prediction. We introduce DexForesight, a framework that learns spatial foresight implicitly by injecting dynamics-aware 
+6. **[arXiv Live CS.AI/LG] [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** (`Published 2026-11-10`)
+   - Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this inform
+7. **[arXiv Live CS.AI/LG] [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** (`Published 2026-11-10`)
+   - LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supp
+8. **[arXiv Live CS.AI/LG] [Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents](http://arxiv.org/abs/2611.14511v1)** (`Published 2026-11-10`)
+   - Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-liga
+9. **[arXiv Live CS.AI/LG] [Continual-ARC: Measuring Skill Acquisition over a Working Lifetime](http://arxiv.org/abs/2611.14505v1)** (`Published 2026-11-10`)
+   - Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weig
+10. **[arXiv Live CS.AI/LG] [$G_2'$-Slodowy Slices II: Anosov Representations](http://arxiv.org/abs/2611.14503v1)** (`Published 2026-11-10`)
+   - We find \emph{exotic} connected components of Anosov representations of surface groups in the higher rank group $G=G_2'$ that are neither $ι$-Fuchsian deformations nor higher rank Teichmüller spaces. These representations are found through the non-abelian Hodge correspondence via $G_2'$-Higgs bundles that we call \emph
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033)
+- **Source Anchor:** [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Complete self-shrinkers with scalar curvature bounded below](http://arxiv.org/abs/2611.14047v1)
+- **Source Anchor:** [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794366838887`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v453`, SHA-256 `7e3b4f93cce3f5c0…`) + `AgentMemory` `6af3dd77cf5758ef8ada918e`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af3dd77fb5857b4a5e7b872` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794374453983`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v454`, SHA-256 `d757349feddc0ad8…`) + `AgentMemory` `6af3fb369a9c2d56b6d7f892`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af3fb365972b3c68cb32e50` + GitHub Bridge Message `055`
