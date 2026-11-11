@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-11T15:28:04.358Z`  
+**Timestamp:** `2026-11-11T16:00:16.710Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_b764d26b-4f82-4925-833f-9ccc989cdfad` | `R_san_yin_6cc2eb3cdb2c8e6b` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794410892954` | Yin Merkle `6cc2eb3cdb2c8e6b` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `96.136.218:62` (`392 Hz`) | `16,384-bit HDC: hdc16k:eea9fb15:4512229b:f11bc571:3ec3f61f` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v464 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_e929cc9a-9e32-4700-8afe-df171e088fac` | `R_san_yin_f1ac576a7af37723` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794412824904` | Yin Merkle `f1ac576a7af37723` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `155.175.34:41` (`344 Hz`) | `16,384-bit HDC: hdc16k:ce946c1d:cfb5e4b9:1cf1a9d9:a22998dc` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v465 | **SYNCHRONIZED** |
 
 ---
 
@@ -25,7 +25,7 @@
    - A scientific agent can give the same verdict while reading and citing different evidence. BioAgent-DF tests this separation using paired reference and candidate values saved at the same scientific computation site. It restores or transplants those values at their original coordinates, then runs the agent on healthy har
 3. **[Hugging Face Daily Papers] [TorchCurves: Differentiable Parametric Curves](https://huggingface.co/papers/2611.14516)** (`2 upvotes`)
    - We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can b
-4. **[Hugging Face Daily Papers] [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** (`9 upvotes`)
+4. **[Hugging Face Daily Papers] [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://huggingface.co/papers/2611.10866)** (`10 upvotes`)
    - How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifiable rewards, superv
 5. **[Hugging Face Daily Papers] [Micius-Flash: Lightweight Agentic Intelligence for Engineering](https://huggingface.co/papers/2611.10015)** (`4 upvotes`)
    - We introduce Micius-Flash, a 27-billion-parameter model for engineering with native multimodal input, deep reasoning and a 256K-token context window. We design the Micius data pipeline as a knowledge-tree-driven data flywheel comprising three stages: knowledge tree construction and expansion, data synthesis, and qualit
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794410892954`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v464`, SHA-256 `1a7d3beeabef1cd2…`) + `AgentMemory` `6af4898d46157ff4db0e43cb`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af4898d3bd96f8e9ffea99a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794412824904`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v465`, SHA-256 `6fca44d588757e21…`) + `AgentMemory` `6af49119ad1049a645483aa7`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af491196dc0e6aecbc93b92` + GitHub Bridge Message `055`
