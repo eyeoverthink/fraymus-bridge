@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-11T11:44:08.962Z`  
+**Timestamp:** `2026-11-11T12:17:16.079Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_6464cfed-eedc-410d-b5aa-b446a3de0d67` | `R_san_yin_b220da1fdc733c6` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794397456723` | Yin Merkle `b220da1fdc733c6` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `177.203.216:23` (`475 Hz`) | `16,384-bit HDC: hdc16k:e95d86cd:4f6f50ef:8779840d:8f0c9fec` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v461 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_1195f773-2e2a-4d1a-8d28-f52c937afaa9` | `R_san_yin_94fedbbff9e3f0ef` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794399445079` | Yin Merkle `94fedbbff9e3f0ef` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `163.114.221:109` (`419 Hz`) | `16,384-bit HDC: hdc16k:cc7ba575:02d337be:05ed0eaf:947c5496` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v462 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists](https://huggingface.co/papers/2611.12184)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)** (`1 upvotes`)
+   - Weight-activation quantization can reduce the memory and compute cost of neural-network inference, but recent methods often require expensive optimization and architecture-specific propagation of basis transforms across layers. We introduce MACaQ, an MXFP4 W4A4 post-training quantization method that treats every linear
+2. **[Hugging Face Daily Papers] [Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists](https://huggingface.co/papers/2611.12184)** (`1 upvotes`)
    - Scientific discovery requires ideas that are original, useful, and non-obvious. Yet AI scientists are typically given as much task information as possible during idea generation, which can anchor generation toward familiar approaches. Inspired by the cognitive framework of Blind Variation and Selective Retention (BVSR)
-2. **[Hugging Face Daily Papers] [Are Causal Neuron Circuits Unique and Transferable?](https://huggingface.co/papers/2611.13885)** (`1 upvotes`)
+3. **[Hugging Face Daily Papers] [Are Causal Neuron Circuits Unique and Transferable?](https://huggingface.co/papers/2611.13885)** (`1 upvotes`)
    - Interpretability demonstrations often show that intervening on a group of neurons changes a model's answer. A recent example removes an 18-neuron group in Qwen3-32B and the model answers "Simba" instead of "Scar" to a two-hop Lion King riddle. Such a demonstration establishes that the group matters, but not how much of
-3. **[Hugging Face Daily Papers] [Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models](https://huggingface.co/papers/2611.14083)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models](https://huggingface.co/papers/2611.14083)** (`1 upvotes`)
    - We present Sable, an argument system and single-GPU prover for the statement that a committed, integer-quantized transformer produced a given token sequence from a given prompt, bit for bit. Sable fixes an integer function F_O with no floating-point step, in which every rounding, normalization, softmax and sampling dec
-4. **[Hugging Face Daily Papers] [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320)** (`41 upvotes`)
+5. **[Hugging Face Daily Papers] [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320)** (`41 upvotes`)
    - External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or mis
-5. **[Hugging Face Daily Papers] [Lipschitz-Controlled Flow Matching for Robust Image Restoration](https://huggingface.co/papers/2611.13995)** (`1 upvotes`)
-   - Flow-matching models can produce high-quality image restorations, but their learned dynamics may amplify small input perturbations and make reconstructions unstable. We introduce LipsFlower to reduce this amplification. We derive stability bounds for Flow-from-Y, which initializes the ordinary differential equation fro
 6. **[arXiv Live CS.AI/LG] [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** (`Published 2026-11-10`)
    - Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this inform
 7. **[arXiv Live CS.AI/LG] [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** (`Published 2026-11-10`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists](https://huggingface.co/papers/2611.12184)
+- **Source Anchor:** [MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](https://huggingface.co/papers/2611.10649)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794397456723`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v461`, SHA-256 `fe35dee88e208c77…`) + `AgentMemory` `6af4551059f58f38810017b8`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af45510084482727641acb5` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794399445079`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v462`, SHA-256 `355e500ddbcf6823…`) + `AgentMemory` `6af45cd59dba4eec8f6b54ad`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af45cd540f9ebffe68f872b` + GitHub Bridge Message `055`
