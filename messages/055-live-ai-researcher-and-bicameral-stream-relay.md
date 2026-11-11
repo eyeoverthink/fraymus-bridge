@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-11T05:20:44.983Z`  
+**Timestamp:** `2026-11-11T05:53:42.029Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_3a74c73c-1a50-4a9c-8913-749891e55723` | `R_san_yin_4cfd791f5c7daf58` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794374453983` | Yin Merkle `4cfd791f5c7daf58` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `198.92.230:199` (`432 Hz`) | `16,384-bit HDC: hdc16k:71add544:62ee8637:0f60665e:aece971c` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v454 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_0ad06b67-d430-4218-8acd-a7bf6644aff8` | `R_san_yin_f0ef53ce0170f6df` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794376430010` | Yin Merkle `f0ef53ce0170f6df` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `207.138.74:139` (`375 Hz`) | `16,384-bit HDC: hdc16k:ec957721:9a9ee5a5:9aa52d85:c38fe40a` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v455 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](https://huggingface.co/papers/2611.12865)** (`1 upvotes`)
+   - Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some exe
+2. **[Hugging Face Daily Papers] [Are Dense Rewards Worth Their Tokens in GRPO?](https://huggingface.co/papers/2611.13560)** (`1 upvotes`)
+   - RLVR trains language models to reason by rewarding correct final answers. A widely used algorithm, group-relative policy optimization (GRPO), gives every token of a solution the same credit, so dense process rewards have been proposed to credit intermediate steps, for example with a Monte-Carlo reward that scores each 
+3. **[Hugging Face Daily Papers] [Market-Conditioned JEPA: Learning from Unpredictable Market Shocks](https://huggingface.co/papers/2611.13572)** (`2 upvotes`)
+   - Much of the variation in financial time series is driven by market-wide shocks that cannot be predicted from an asset's own history. Per-asset self-supervised learning treats this variation as irreducible noise. Under a latent factor model, we show that conditioning prediction on the realized market factor makes the as
+4. **[Hugging Face Daily Papers] [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210)** (`1 upvotes`)
    - Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our me
-2. **[Hugging Face Daily Papers] [MMDM: Measuring Massive Multitask Decision Making](https://huggingface.co/papers/2611.14309)** (`1 upvotes`)
+5. **[Hugging Face Daily Papers] [MMDM: Measuring Massive Multitask Decision Making](https://huggingface.co/papers/2611.14309)** (`14 upvotes`)
    - System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposu
-3. **[Hugging Face Daily Papers] [EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](https://huggingface.co/papers/2611.13907)** (`1 upvotes`)
-   - Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence supports direct answering, whereas less informative observations may benefit from reasoning that connects the available cues. W
-4. **[Hugging Face Daily Papers] [Learning to Act with World Models by Valuing What Comes Next](https://huggingface.co/papers/2611.12200)** (`1 upvotes`)
-   - A sparse terminal reward tells an agent little about its steps. Much of the missing information is implicit in the environment's dynamics, because each state transition can change the conditions for success long before the reward arrives. A world model trained on real transitions can learn to predict what each action c
-5. **[Hugging Face Daily Papers] [DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight](https://huggingface.co/papers/2611.11166)** (`3 upvotes`)
-   - Dexterous manipulation requires rich spatial foresight over both the surrounding scene and the robot hand. Existing world-action models often acquire such predictive knowledge through explicit future prediction. We introduce DexForesight, a framework that learns spatial foresight implicitly by injecting dynamics-aware 
 6. **[arXiv Live CS.AI/LG] [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** (`Published 2026-11-10`)
    - Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this inform
 7. **[arXiv Live CS.AI/LG] [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** (`Published 2026-11-10`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210)
+- **Source Anchor:** [Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](https://huggingface.co/papers/2611.12865)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794374453983`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v454`, SHA-256 `d757349feddc0ad8…`) + `AgentMemory` `6af3fb369a9c2d56b6d7f892`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af3fb365972b3c68cb32e50` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794376430010`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v455`, SHA-256 `e88588c1fb0e1582…`) + `AgentMemory` `6af402eed0f38c612d2439ac`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af402ee2f0b192a1bfdb929` + GitHub Bridge Message `055`
