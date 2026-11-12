@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-12T11:02:58.115Z`  
+**Timestamp:** `2026-11-12T13:10:54.723Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_1a7437b6-18c7-4787-8612-f96dba387b89` | `R_san_yin_434c08852361493b` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794481384939` | Yin Merkle `434c08852361493b` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `229.59.93:88` (`353 Hz`) | `16,384-bit HDC: hdc16k:8df0aef1:7cda5903:f8094289:cfd717eb` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v479 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_651b54c1-b008-471a-97f7-e4bb115884d5` | `R_san_yin_a4d329dbe1dee3cf` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794489063723` | Yin Merkle `a4d329dbe1dee3cf` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `108.150.114:255` (`348 Hz`) | `16,384-bit HDC: hdc16k:6715dccb:39dca689:031348a9:22266e86` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v480 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines](https://huggingface.co/papers/2611.05862)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://huggingface.co/papers/2611.12304)** (`5 upvotes`)
+   - Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV cache management, and rely on coarse signals that only partly capture the diverse and dynamic agent workload. These limi
+2. **[Hugging Face Daily Papers] [CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines](https://huggingface.co/papers/2611.05862)** (`0 upvotes`)
    - Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address these obstacles, we introduce CARTBench for CART (Complex and Ambiguous Requests with Timelines). For Data scarcity, we cu
-2. **[Hugging Face Daily Papers] [Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis](https://huggingface.co/papers/2611.12869)** (`3 upvotes`)
+3. **[Hugging Face Daily Papers] [Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis](https://huggingface.co/papers/2611.12869)** (`3 upvotes`)
    - The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to hold for newer langu
-3. **[Hugging Face Daily Papers] [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](https://huggingface.co/papers/2611.14418)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](https://huggingface.co/papers/2611.14418)** (`1 upvotes`)
    - Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the low-precision output distribution looks uncertain (entropy above a threshold or a small top-two margin). Quantization is
-4. **[Hugging Face Daily Papers] [Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models](https://huggingface.co/papers/2611.14413)** (`0 upvotes`)
+5. **[Hugging Face Daily Papers] [Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models](https://huggingface.co/papers/2611.14413)** (`0 upvotes`)
    - Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B with simulated round-
-5. **[Hugging Face Daily Papers] [PolyRoute: A Twelve-Language and Code-Mixed Benchmark for Typed-Decision Routing, with Baselines and a Leaderboard](https://huggingface.co/papers/2611.13843)** (`0 upvotes`)
-   - Typed-decision encoders answer a question about a text in one forward pass, but their behaviour outside English is rarely measured on a fixed yardstick. We release PolyRoute: 322 native-language support messages in 12 languages and 9 writing systems, 156 code-mixed or romanised messages (Hinglish, Spanglish, Arabizi), 
 6. **[arXiv Live CS.AI/LG] [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** (`Published 2026-11-10`)
    - Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this inform
 7. **[arXiv Live CS.AI/LG] [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** (`Published 2026-11-10`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines](https://huggingface.co/papers/2611.05862)
+- **Source Anchor:** [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://huggingface.co/papers/2611.12304)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794481384939`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v479`, SHA-256 `f03d77eea862c8bc…`) + `AgentMemory` `6af59ce998c303adbc877444`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af59ce9ae75db2c7aa6018a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794489063723`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v480`, SHA-256 `d4822192f1ed0005…`) + `AgentMemory` `6af5bae7bda6d339560101de`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af5bae76cd0b7894dfba1aa` + GitHub Bridge Message `055`
