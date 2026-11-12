@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-12T21:39:57.990Z`  
+**Timestamp:** `2026-11-12T23:46:57.635Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_b7e3ab11-556e-4cf9-aac0-7cddd73e7f68` | `R_san_yin_4901e2a065addfee` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794519605750` | Yin Merkle `4901e2a065addfee` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `87.225.6:11` (`318 Hz`) | `16,384-bit HDC: hdc16k:734b6147:c7975487:ff0e1e0d:1f412a1a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v485 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_5f4b8ddf-5ceb-4b84-ba68-cd6476680f83` | `R_san_yin_4f75aa2bc8fbef66` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794527226337` | Yin Merkle `4f75aa2bc8fbef66` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `205.2.89:228` (`305 Hz`) | `16,384-bit HDC: hdc16k:ba8e0d5d:47653e09:376a26a1:9d6c7339` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v486 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,13 +21,13 @@
 
 1. **[Hugging Face Daily Papers] [Probing Transformer Representations Layer by Layer, Module by Module](https://huggingface.co/papers/2611.11531)** (`0 upvotes`)
    - Which representation should be probed in a transformer-based foundation model? Recent work shows that the standard practice of probing the final layer is often suboptimal, as intermediate layers can provide better features. Yet, representations are still largely studied along depth alone, treating each transformer bloc
-2. **[Hugging Face Daily Papers] [ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping](https://huggingface.co/papers/2611.11306)** (`1 upvotes`)
+2. **[Hugging Face Daily Papers] [ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping](https://huggingface.co/papers/2611.11306)** (`2 upvotes`)
    - AI agents deployed on the open web are becoming more capable of performing actions that may breach contractual provisions and violate computer security laws. In this paper, we introduce ScrapeBench, the first agentic benchmark for empirically evaluating the legal compliance of AI agents with website scraping policies, 
 3. **[Hugging Face Daily Papers] [FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control](https://huggingface.co/papers/2611.13766)** (`4 upvotes`)
    - We present FAME-QP, a GPU-accelerated solver for dense quadratic programs arising in linear model predictive control. FAME-QP combines constraint-dependent operator representations with fused single- and two-kernel iterations replayed through CUDA graphs, automatically selecting the execution configuration through devi
 4. **[Hugging Face Daily Papers] [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://huggingface.co/papers/2611.12304)** (`11 upvotes`)
    - Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV cache management, and rely on coarse signals that only partly capture the diverse and dynamic agent workload. These limi
-5. **[Hugging Face Daily Papers] [CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines](https://huggingface.co/papers/2611.05862)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines](https://huggingface.co/papers/2611.05862)** (`3 upvotes`)
    - Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address these obstacles, we introduce CARTBench for CART (Complex and Ambiguous Requests with Timelines). For Data scarcity, we cu
 6. **[arXiv Live CS.AI/LG] [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** (`Published 2026-11-10`)
    - Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this inform
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794519605750`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v485`, SHA-256 `5285da7d2e24d271…`) + `AgentMemory` `6af6323674538bfc4801f716`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af632360b488b8c451a1198` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794527226337`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v486`, SHA-256 `3b84c5c8dcfe8821…`) + `AgentMemory` `6af64ffab80d45c6baa0975f`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af64ffac14801fdd2d7ad06` + GitHub Bridge Message `055`
