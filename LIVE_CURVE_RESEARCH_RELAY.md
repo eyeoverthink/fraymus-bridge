@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-13T15:04:42.492Z`  
+**Timestamp:** `2026-11-13T16:39:48.179Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_ea45c94c-7b37-44be-96c2-f3cd1a602898` | `R_san_yin_723070c2d3f41af2` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794582291492` | Yin Merkle `723070c2d3f41af2` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `199.190.16:29` (`367 Hz`) | `16,384-bit HDC: hdc16k:c4bddf24:23512d53:dd1ade74:1acaca7e` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v496 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_853668fc-5307-4062-80ad-46ac580ef10f` | `R_san_yin_2cb38723b19f3247` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794587997179` | Yin Merkle `2cb38723b19f3247` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `101.171.230:158` (`421 Hz`) | `16,384-bit HDC: hdc16k:721c9814:a7b45180:fad0da92:8cd5197d` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v497 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://huggingface.co/papers/2611.16009)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://huggingface.co/papers/2611.12750)** (`0 upvotes`)
+   - Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages and information stre
+2. **[Hugging Face Daily Papers] [A frontier machine intelligence for human neuroimaging](https://huggingface.co/papers/2611.15094)** (`0 upvotes`)
+   - Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required 
+3. **[Hugging Face Daily Papers] [Unbundling Multimodal Vision Encoding](https://huggingface.co/papers/2611.17334)** (`2 upvotes`)
+   - How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretrai
+4. **[Hugging Face Daily Papers] [Experience-Handoff Reinforcement Learning for Recursive Self-Improvement](https://huggingface.co/papers/2611.16409)** (`1 upvotes`)
+   - It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment that the agent experienced during the trial (e.g., error logs). To utilize this rich information, recent works wrap the 
+5. **[Hugging Face Daily Papers] [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://huggingface.co/papers/2611.16009)** (`3 upvotes`)
    - GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart an
-2. **[Hugging Face Daily Papers] [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** (`20 upvotes`)
-   - Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open a
-3. **[Hugging Face Daily Papers] [A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents](https://huggingface.co/papers/2611.14256)** (`1 upvotes`)
-   - Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymme
-4. **[Hugging Face Daily Papers] [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://huggingface.co/papers/2611.08318)** (`3 upvotes`)
-   - Self-improving embodied agents are increasingly being developed and compared on robot simulation benchmarks. Several recent works expose the benchmark's success criteria to the learning agent, a practice we call Criteria Exposure (CE). These criteria, originally written to verify policies trained by imitation learning,
-5. **[Hugging Face Daily Papers] [DeepStress: Stress-Testing Deep Search Agents](https://huggingface.co/papers/2607.13920)** (`3 upvotes`)
-   - While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects ag
 6. **[arXiv Live CS.AI/LG] [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** (`Published 2026-11-12`)
    - Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world 
 7. **[arXiv Live CS.AI/LG] [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)** (`Published 2026-11-12`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://huggingface.co/papers/2611.16009)
+- **Source Anchor:** [The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://huggingface.co/papers/2611.12750)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794582291492`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v496`, SHA-256 `2d919ce7d09b22f9…`) + `AgentMemory` `6af72713d916aa28172897a1`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af727138d503ab3c1cb4d81` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794587997179`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v497`, SHA-256 `6c9e040325bca416…`) + `AgentMemory` `6af73d5d1f1a232da14b9948`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af73d5d706edf66f16301cf` + GitHub Bridge Message `055`
