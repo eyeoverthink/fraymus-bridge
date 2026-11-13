@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-13T12:24:46.591Z`  
+**Timestamp:** `2026-11-13T14:31:55.895Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_ba74dc29-22d6-4a86-9fbb-60d928fca711` | `R_san_yin_102e5774b2d23d4f` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794572695591` | Yin Merkle `102e5774b2d23d4f` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `193.231.144:15` (`459 Hz`) | `16,384-bit HDC: hdc16k:d3be26f1:a8e7e332:d8f191bb:9ed707f7` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v494 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_bdde3eb1-1a73-41c6-a12e-80b774659fa9` | `R_san_yin_18d2abbf24bf0b80` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794580324303` | Yin Merkle `18d2abbf24bf0b80` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `62.19.17:114` (`193 Hz`) | `16,384-bit HDC: hdc16k:6da13fe2:fb900e09:e4458d86:b4182db4` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v495 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,13 +21,13 @@
 
 1. **[Hugging Face Daily Papers] [JustRUA: A Controlled Study of GPT-6 Robot-Use Agents](https://huggingface.co/papers/2611.16009)** (`1 upvotes`)
    - GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart an
-2. **[Hugging Face Daily Papers] [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** (`14 upvotes`)
+2. **[Hugging Face Daily Papers] [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://huggingface.co/papers/2611.15844)** (`19 upvotes`)
    - Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open a
-3. **[Hugging Face Daily Papers] [A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents](https://huggingface.co/papers/2611.14256)** (`0 upvotes`)
+3. **[Hugging Face Daily Papers] [A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents](https://huggingface.co/papers/2611.14256)** (`1 upvotes`)
    - Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leaving its preconditions unverified under cross-scenario transfer. This survey investigates the structural source of asymme
 4. **[Hugging Face Daily Papers] [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://huggingface.co/papers/2611.08318)** (`3 upvotes`)
    - Self-improving embodied agents are increasingly being developed and compared on robot simulation benchmarks. Several recent works expose the benchmark's success criteria to the learning agent, a practice we call Criteria Exposure (CE). These criteria, originally written to verify policies trained by imitation learning,
-5. **[Hugging Face Daily Papers] [DeepStress: Stress-Testing Deep Search Agents](https://huggingface.co/papers/2607.13920)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [DeepStress: Stress-Testing Deep Search Agents](https://huggingface.co/papers/2607.13920)** (`3 upvotes`)
    - While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects ag
 6. **[arXiv Live CS.AI/LG] [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** (`Published 2026-11-12`)
    - Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world 
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794572695591`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v494`, SHA-256 `53eb8bcaf5aea7bd…`) + `AgentMemory` `6af7019744919df79411a178`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af70197130423d72ab792aa` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794580324303`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v495`, SHA-256 `4c4f4d2dee0e9557…`) + `AgentMemory` `6af71f6409f2ee4e1540fbd6`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af71f643da4caf100d38bb7` + GitHub Bridge Message `055`
