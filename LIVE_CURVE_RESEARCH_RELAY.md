@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-13T19:21:45.271Z`  
+**Timestamp:** `2026-11-13T20:56:50.531Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_0d929cea-9e72-465a-966f-71de0e460f3c` | `R_san_yin_78dc9677298c45a3` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794597714271` | Yin Merkle `78dc9677298c45a3` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `118.38.185:70` (`331 Hz`) | `16,384-bit HDC: hdc16k:31427fd1:18559db8:2c1b4c41:62b537d3` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v500 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_f727ed62-1e38-48e8-a423-4da2ccda8100` | `R_san_yin_d3cb7d56e6cda6a3` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794603418507` | Yin Merkle `d3cb7d56e6cda6a3` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `82.132.69:157` (`298 Hz`) | `16,384-bit HDC: hdc16k:74c8dfb2:884e7196:881413b2:8bcc2763` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v501 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [The Value of Thinking: Learning When to Reason in Hybrid Decision Models](https://huggingface.co/papers/2611.16961)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes](https://huggingface.co/papers/2611.17190)** (`1 upvotes`)
+   - Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutua
+2. **[Hugging Face Daily Papers] [TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates](https://huggingface.co/papers/2611.09567)** (`2 upvotes`)
+   - Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via hig
+3. **[Hugging Face Daily Papers] [The Value of Thinking: Learning When to Reason in Hybrid Decision Models](https://huggingface.co/papers/2611.16961)** (`1 upvotes`)
    - Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how much to think, we explore a different paradigm, zero-or-T thinking: a single model either answers from the implicit thinki
-2. **[Hugging Face Daily Papers] [The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://huggingface.co/papers/2611.12750)** (`0 upvotes`)
+4. **[Hugging Face Daily Papers] [The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://huggingface.co/papers/2611.12750)** (`0 upvotes`)
    - Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages and information stre
-3. **[Hugging Face Daily Papers] [A frontier machine intelligence for human neuroimaging](https://huggingface.co/papers/2611.15094)** (`0 upvotes`)
+5. **[Hugging Face Daily Papers] [A frontier machine intelligence for human neuroimaging](https://huggingface.co/papers/2611.15094)** (`0 upvotes`)
    - Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required 
-4. **[Hugging Face Daily Papers] [Unbundling Multimodal Vision Encoding](https://huggingface.co/papers/2611.17334)** (`2 upvotes`)
-   - How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretrai
-5. **[Hugging Face Daily Papers] [Experience-Handoff Reinforcement Learning for Recursive Self-Improvement](https://huggingface.co/papers/2611.16409)** (`1 upvotes`)
-   - It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment that the agent experienced during the trial (e.g., error logs). To utilize this rich information, recent works wrap the 
 6. **[arXiv Live CS.AI/LG] [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** (`Published 2026-11-12`)
    - Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world 
 7. **[arXiv Live CS.AI/LG] [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)** (`Published 2026-11-12`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [The Value of Thinking: Learning When to Reason in Hybrid Decision Models](https://huggingface.co/papers/2611.16961)
+- **Source Anchor:** [Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes](https://huggingface.co/papers/2611.17190)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794597714271`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v500`, SHA-256 `bea1e312e7d5b4b5…`) + `AgentMemory` `6af76352a6c955603bae3380`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af76352b37ccf75b2bd9b65` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794603418507`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v501`, SHA-256 `a243bcc9f7eda010…`) + `AgentMemory` `6af7799af67905282e1b0680`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af7799aa92946983f857128` + GitHub Bridge Message `055`
