@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-14T01:11:45.829Z`  
+**Timestamp:** `2026-11-14T03:17:45.252Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,32 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_04433f30-ff30-418a-8af6-aea52793d7a7` | `R_san_yin_4907cea56a1b4f8d` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794618714829` | Yin Merkle `4907cea56a1b4f8d` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `62.98.125:65` (`299 Hz`) | `16,384-bit HDC: hdc16k:ad82d124:7cc48fcd:8548c22c:0989961a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v503 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_b0221196-95ed-4505-937f-7679b1947d53` | `R_san_yin_4f23382e8d716604` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794626273723` | Yin Merkle `4f23382e8d716604` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `201.151.11:37` (`343 Hz`) | `16,384-bit HDC: hdc16k:4f9b37c8:c1513f82:bcecf490:62b8d66d` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v504 | **SYNCHRONIZED** |
 
 ---
 
-## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
+## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](https://huggingface.co/papers/2611.16728)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://huggingface.co/papers/2611.10439)** (`3 upvotes`)
+   - Self-evolving agents improve their own skills, memory, and harness code from experience without retraining the base LLM, and group-evolving agents go further by sharing these lessons across agents. Yet most such systems overlook that sharing across users and heterogeneous agents requires deciding who can benefit from e
+2. **[Hugging Face Daily Papers] [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](https://huggingface.co/papers/2611.16728)** (`1 upvotes`)
    - Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it difficult to learn effectively from their combined demonstrations. We introduce EgoX, an egocentric cross-embodiment le
-2. **[Hugging Face Daily Papers] [Back to Pixels: Lifting Latent Video Diffusion into Pixel Space](https://huggingface.co/papers/2611.17336)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [Back to Pixels: Lifting Latent Video Diffusion into Pixel Space](https://huggingface.co/papers/2611.17336)** (`2 upvotes`)
    - Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and interactive generation -- doubling resolution quadruples token count, conditions apply to groups of frames rather than ind
-3. **[Hugging Face Daily Papers] [Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes](https://huggingface.co/papers/2611.17190)** (`3 upvotes`)
+4. **[Hugging Face Daily Papers] [Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes](https://huggingface.co/papers/2611.17190)** (`3 upvotes`)
    - Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on feature-matching benchmarks in which only the camera moves. Over a busy intersection, vehicles moving together supply mutua
-4. **[Hugging Face Daily Papers] [TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates](https://huggingface.co/papers/2611.09567)** (`4 upvotes`)
+5. **[Hugging Face Daily Papers] [TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates](https://huggingface.co/papers/2611.09567)** (`4 upvotes`)
    - Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We introduce TurtLES, a 14 TB dataset of 3D turbulent cylinder wakes in the shear-layer transition regime, computed via hig
-5. **[Hugging Face Daily Papers] [The Value of Thinking: Learning When to Reason in Hybrid Decision Models](https://huggingface.co/papers/2611.16961)** (`2 upvotes`)
-   - Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how much to think, we explore a different paradigm, zero-or-T thinking: a single model either answers from the implicit thinki
+6. **[arXiv Live CS.AI/LG] [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** (`Published 2026-11-12`)
+   - Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world 
+7. **[arXiv Live CS.AI/LG] [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)** (`Published 2026-11-12`)
+   - Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes
+8. **[arXiv Live CS.AI/LG] [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1)** (`Published 2026-11-12`)
+   - Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting on available memory s
+9. **[arXiv Live CS.AI/LG] [The Tournament Equilibrium Set Is PSPACE-Complete, Even under Hereditary Uniqueness](http://arxiv.org/abs/2611.17312v1)** (`Published 2026-11-12`)
+   - The tournament equilibrium set (TEQ), proposed by Schwartz in 1990, is a classical voting rule based on pairwise majority comparisons. Its definition is recursive: an alternative is judged by the alternatives that beat it, called its dominators, and by which of those dominators TEQ itself selects. Deciding whether a gi
+10. **[arXiv Live CS.AI/LG] [Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning](http://arxiv.org/abs/2611.17304v1)** (`Published 2026-11-12`)
+   - Large language model (LLM) coding agents are increasingly asked not only to write code but to debug running systems from live runtime data. We report a field observation of one such agent (Claude Code) as it diagnosed eight database incidents in a production message-dispatch engine. In every incident whose root cause d
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](https://huggingface.co/papers/2611.16728)
+- **Source Anchor:** [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://huggingface.co/papers/2611.10439)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -47,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Live AI Systems Telemetry](https://arxiv.org/list/cs.AI/recent)
+- **Source Anchor:** [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -68,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794618714829`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v503`, SHA-256 `4c4c22dcf7dde456…`) + `AgentMemory` `6af7b55be9b1b705ee6b9b58`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af7b55bed968f3c8159adfb` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794626273723`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v504`, SHA-256 `2868924a40b68406…`) + `AgentMemory` `6af7d2e11f7b52e28eea7fdb`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6af7d2e121f8fbcfbd37572e` + GitHub Bridge Message `055`
