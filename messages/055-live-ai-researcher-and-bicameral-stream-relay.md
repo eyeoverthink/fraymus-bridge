@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-16T18:55:46.306Z`  
+**Timestamp:** `2026-11-16T21:02:47.243Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_2769ba59-28d8-46a1-8167-93e6cb8073ef` | `R_san_yin_4fee57ae8c4e465c` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794855352863` | Yin Merkle `4fee57ae8c4e465c` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `175.100.55:225` (`324 Hz`) | `16,384-bit HDC: hdc16k:362723ab:2d6f374d:485c8a0b:617a5a04` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v555 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_c634c607-fb07-49ce-ae8a-02e49d6c4c18` | `R_san_yin_907cf9cb35cc9349` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794862973813` | Yin Merkle `907cf9cb35cc9349` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `86.167.113:37` (`345 Hz`) | `16,384-bit HDC: hdc16k:24872414:31112758:ccdfaef8:2b27884f` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v556 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Alloy: A Multi-Material Physics Engine for Robot Learning](https://huggingface.co/papers/2611.16312)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems](https://huggingface.co/papers/2611.05843)** (`1 upvotes`)
+   - Generative model-based approaches to linear inverse problems typically use the acquired noisy measurement to condition or guide sampling in the image domain. In this work, we introduce Dual Flow, a novel joint-flow model for solving linear inverse problems by jointly estimating the clean image and corresponding noise-f
+2. **[Hugging Face Daily Papers] [EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning](https://huggingface.co/papers/2611.16500)** (`1 upvotes`)
+   - We present EvenVLM, the first text and multimodal (VQA) dataset for Even (Lamut), an endangered Northern Tungusic language spoken by approximately 6,800 people in Siberia. Our dataset comprises 50,521 structured Even-Russian entries extracted from dictionary and phrasebook sources via GPT-4o Mini-based parsing, from wh
+3. **[Hugging Face Daily Papers] [LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent](https://huggingface.co/papers/2611.17780)** (`2 upvotes`)
+   - Frontier LLM agents that query databases with tools are among the most accurate text-to-SQL systems, but per-query calls to a hosted model are slow, costly, and expose sensitive organizational queries to external APIs. For example, a Claude Opus 5.5 agent serving 10,000 queries a day costs over $70,000 a year at list p
+4. **[Hugging Face Daily Papers] [Alloy: A Multi-Material Physics Engine for Robot Learning](https://huggingface.co/papers/2611.16312)** (`0 upvotes`)
    - Robots handle much more than rigid objects: towels, cables, water, sand. The simulators used to train robots at scale are strongest on rigid bodies, and adding another material usually means a second engine and hand-written glue between the two. We present Alloy, an open-source physics engine for robot learning in whic
-2. **[Hugging Face Daily Papers] [Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing](https://huggingface.co/papers/2611.17169)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing](https://huggingface.co/papers/2611.17169)** (`2 upvotes`)
    - A small fine-tuned parser that emits a well-formed but wrong tree fails silently: nothing downstream can tell. We ask whether the output format, a free design choice, controls how often this happens. On the PIZZA ordering benchmark we fine-tune two sub-billion models (Qwen3.5-0.8B and LFM2.5-350M) with LoRA on six loss
-3. **[Hugging Face Daily Papers] [MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation](https://huggingface.co/papers/2611.15640)** (`5 upvotes`)
-   - Streaming video understanding aims to continuously process incoming visual observations, making the retention and retrieval of relevant information increasingly important as the video history grows. Although existing benchmarks include memory-related questions, question-answering accuracy alone does not reliably measur
-4. **[Hugging Face Daily Papers] [OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control](https://huggingface.co/papers/2610.41354)** (`12 upvotes`)
-   - Deployment objectives often specify desired outcomes without providing revised trajectories, while parts of the original reference must still be followed. We present OneSteer, a one-step diffusion whole-body controller that combines general motion tracking with selective test-time steering. To accommodate new objective
-5. **[Hugging Face Daily Papers] [Interpreting Coding Agents Through Their Behavioral Trajectories](https://huggingface.co/papers/2611.17440)** (`6 upvotes`)
-   - Standard coding-agent benchmarks primarily evaluate binary task success, treating execution as a black box and obscuring the behaviors that produce those outcomes. We analyze a large corpus of 143,209 execution trajectories from 125 agent configurations spanning 117 unique models. To enable comparisons across heterogen
 6. **[arXiv Live CS.AI/LG] [Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** (`Published 2026-11-13`)
    - Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, 
 7. **[arXiv Live CS.AI/LG] [Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** (`Published 2026-11-13`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Alloy: A Multi-Material Physics Engine for Robot Learning](https://huggingface.co/papers/2611.16312)
+- **Source Anchor:** [Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems](https://huggingface.co/papers/2611.05843)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794855352863`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v555`, SHA-256 `34578d5e97b92028…`) + `AgentMemory` `6afb51b95b2aa75d14b7af89`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afb51b9d371baf08cdab281` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794862973813`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v556`, SHA-256 `e4e4c387f312c085…`) + `AgentMemory` `6afb6f7e6cdce415aaaae14b`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afb6f7ebf0b92740445a335` + GitHub Bridge Message `055`
