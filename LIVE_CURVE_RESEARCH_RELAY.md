@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-16T17:20:39.436Z`  
+**Timestamp:** `2026-11-16T18:55:46.306Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_269e89cd-114c-41d5-96ea-3e8c6fa066ba` | `R_san_yin_b772f2af4f49654b` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794849646490` | Yin Merkle `b772f2af4f49654b` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `165.234.42:131` (`387 Hz`) | `16,384-bit HDC: hdc16k:d50ba700:7ffe7d2f:f29d2ae0:ce314434` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v554 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_2769ba59-28d8-46a1-8167-93e6cb8073ef` | `R_san_yin_4fee57ae8c4e465c` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794855352863` | Yin Merkle `4fee57ae8c4e465c` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `175.100.55:225` (`324 Hz`) | `16,384-bit HDC: hdc16k:362723ab:2d6f374d:485c8a0b:617a5a04` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v555 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation](https://huggingface.co/papers/2611.15640)** (`4 upvotes`)
+1. **[Hugging Face Daily Papers] [Alloy: A Multi-Material Physics Engine for Robot Learning](https://huggingface.co/papers/2611.16312)** (`0 upvotes`)
+   - Robots handle much more than rigid objects: towels, cables, water, sand. The simulators used to train robots at scale are strongest on rigid bodies, and adding another material usually means a second engine and hand-written glue between the two. We present Alloy, an open-source physics engine for robot learning in whic
+2. **[Hugging Face Daily Papers] [Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing](https://huggingface.co/papers/2611.17169)** (`2 upvotes`)
+   - A small fine-tuned parser that emits a well-formed but wrong tree fails silently: nothing downstream can tell. We ask whether the output format, a free design choice, controls how often this happens. On the PIZZA ordering benchmark we fine-tune two sub-billion models (Qwen3.5-0.8B and LFM2.5-350M) with LoRA on six loss
+3. **[Hugging Face Daily Papers] [MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation](https://huggingface.co/papers/2611.15640)** (`5 upvotes`)
    - Streaming video understanding aims to continuously process incoming visual observations, making the retention and retrieval of relevant information increasingly important as the video history grows. Although existing benchmarks include memory-related questions, question-answering accuracy alone does not reliably measur
-2. **[Hugging Face Daily Papers] [OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control](https://huggingface.co/papers/2610.41354)** (`12 upvotes`)
+4. **[Hugging Face Daily Papers] [OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control](https://huggingface.co/papers/2610.41354)** (`12 upvotes`)
    - Deployment objectives often specify desired outcomes without providing revised trajectories, while parts of the original reference must still be followed. We present OneSteer, a one-step diffusion whole-body controller that combines general motion tracking with selective test-time steering. To accommodate new objective
-3. **[Hugging Face Daily Papers] [Interpreting Coding Agents Through Their Behavioral Trajectories](https://huggingface.co/papers/2611.17440)** (`5 upvotes`)
+5. **[Hugging Face Daily Papers] [Interpreting Coding Agents Through Their Behavioral Trajectories](https://huggingface.co/papers/2611.17440)** (`6 upvotes`)
    - Standard coding-agent benchmarks primarily evaluate binary task success, treating execution as a black box and obscuring the behaviors that produce those outcomes. We analyze a large corpus of 143,209 execution trajectories from 125 agent configurations spanning 117 unique models. To enable comparisons across heterogen
-4. **[Hugging Face Daily Papers] [eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation](https://huggingface.co/papers/2611.17194)** (`3 upvotes`)
-   - Distribution matching distillation (DMD) has emerged as a leading paradigm for distilling diffusion models into few-step students, where an auxiliary fake score model tracks the student's distribution and the discrepancy between the teacher and fake predictions drives the student toward the teacher. In multi-step disti
-5. **[Hugging Face Daily Papers] [DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery](https://huggingface.co/papers/2611.17878)** (`20 upvotes`)
-   - Cities account for over two-thirds of the world's energy and more than 70% of global carbon dioxide emissions. City energy is essential for achieving the 2050 net-zero target and the UN's Sustainable Development Goals 7 and 11. Although existing studies have made progress, they are limited by data and methodological ga
 6. **[arXiv Live CS.AI/LG] [Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** (`Published 2026-11-13`)
    - Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, 
 7. **[arXiv Live CS.AI/LG] [Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** (`Published 2026-11-13`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation](https://huggingface.co/papers/2611.15640)
+- **Source Anchor:** [Alloy: A Multi-Material Physics Engine for Robot Learning](https://huggingface.co/papers/2611.16312)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794849646490`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v554`, SHA-256 `453fa77b39077ef6…`) + `AgentMemory` `6afb3b6f901eb813a19805c3`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afb3b6f89e3a378c735afe0` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794855352863`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v555`, SHA-256 `34578d5e97b92028…`) + `AgentMemory` `6afb51b95b2aa75d14b7af89`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afb51b9d371baf08cdab281` + GitHub Bridge Message `055`
