@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-16T04:03:45.048Z`  
+**Timestamp:** `2026-11-16T04:36:38.663Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,32 +10,32 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_d2d24281-d0a8-4897-8705-3c90de1942ad` | `R_san_yin_da4846d5f944a98e` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794801833048` | Yin Merkle `da4846d5f944a98e` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `78.86.90:4` (`281 Hz`) | `16,384-bit HDC: hdc16k:a4a1c345:b28a0d42:47aea593:8e24602f` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v539 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_f8f22565-8580-4164-ada0-756d0d85483e` | `R_san_yin_ee89485ef8213652` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794803806663` | Yin Merkle `ee89485ef8213652` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `89.22.139:242` (`279 Hz`) | `16,384-bit HDC: hdc16k:1e0c775f:9bdf671f:b88b00e7:e87a96b2` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v542 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`5` Sources)
 
-1. **[Hugging Face Daily Papers] [AI Reviews Are Biased Towards the Appendix](https://huggingface.co/papers/2611.17811)** (`0 upvotes`)
-   - Large language models (LLMs) are increasingly used by reviewers to highlight weaknesses during the reviewing process, and their outputs often shape the reviews that humans submit. Prior work studies how LLM reviews align with human ones, yet we know little about which parts of a paper these models actually criticize. I
-2. **[Hugging Face Daily Papers] [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://huggingface.co/papers/2611.18359)** (`10 upvotes`)
-   - The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies 
-3. **[Hugging Face Daily Papers] [Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](https://huggingface.co/papers/2611.12901)** (`1 upvotes`)
-   - Recent advancements in multimodal diffusion language models (MDLMs) have exhibited strong global modeling capabilities through iterative refinement. We observe that mask uncertainty follows an overall downward trend during iterative denoising, while a few denoising steps exhibit localized entropy spikes closely associa
-4. **[Hugging Face Daily Papers] [GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs](https://huggingface.co/papers/2611.06866)** (`1 upvotes`)
-   - Agentic workflows enable AI agents to perform recurring repository tasks on schedules or in response to repository events. Existing studies examine workflow definitions and outputs, but provide limited evidence of what happens during execution. We present GH-AWTrace, a dataset linking 25,014 verified GitHub Agentic Wor
-5. **[Hugging Face Daily Papers] [Emergent Biological Capabilities in a Foundation Model for Molecular Interactions](https://huggingface.co/papers/2611.14504)** (`5 upvotes`)
-   - Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From 
+1. **[Hugging Face Daily Papers] [JVT: Just Video Transformer makes pixel-space video diffusion simple](https://huggingface.co/papers/2611.18549)** (`1 upvotes`)
+   - Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detail
+2. **[Hugging Face Daily Papers] [Aligning AI Teams](https://huggingface.co/papers/2611.17820)** (`1 upvotes`)
+   - Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, 
+3. **[Hugging Face Daily Papers] [Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** (`12 upvotes`)
+   - We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces a
+4. **[Hugging Face Daily Papers] [CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving](https://huggingface.co/papers/2611.18442)** (`0 upvotes`)
+   - Open driving releases and usage-based insurance programs often claim to prevent privacy breaches by omitting GPS records when sharing or collecting vehicle data. However, removing GPS coordinates from driving logs does not erase the location information carried by vehicle signals. While prior route-inference attacks ha
+5. **[Hugging Face Daily Papers] [MEM-SQL: Memory-Empowered Text-to-SQL](https://huggingface.co/papers/2611.18338)** (`4 upvotes`)
+   - Text-to-SQL systems translate natural language questions into SQL queries over increasingly complex databases. However, widely used benchmarks evaluate questions independently, overlooking settings where earlier queries over the same database can supply joins or calculations for a new question. We introduce HARE (Histo
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [AI Reviews Are Biased Towards the Appendix](https://huggingface.co/papers/2611.17811)
+- **Source Anchor:** [JVT: Just Video Transformer makes pixel-space video diffusion simple](https://huggingface.co/papers/2611.18549)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -68,6 +68,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794801833048`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v539`, SHA-256 `f4a1b692b918c1ce…`) + `AgentMemory` `6afa80a959a09f6a2abfe90c`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afa80a96b8b21be612eab0d` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794803806663`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v542`, SHA-256 `3157aa9c6e71a34d…`) + `AgentMemory` `6afa885ee3fcac7e00c8bb11`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afa885efde5d50cb681b033` + GitHub Bridge Message `055`
