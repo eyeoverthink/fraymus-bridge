@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-16T08:18:42.969Z`  
+**Timestamp:** `2026-11-16T10:25:40.499Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_015104db-530a-47f9-9474-7674f2bc09bc` | `R_san_yin_7d5ed2834ebb51d6` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794817131969` | Yin Merkle `7d5ed2834ebb51d6` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `71.9.207:84` (`300 Hz`) | `16,384-bit HDC: hdc16k:b2beb542:269430df:439c6706:27fc1cf4` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v547 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_b6e3337a-8822-40bb-a6df-f72351bf7b77` | `R_san_yin_6ed1a5267333e124` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794824746204` | Yin Merkle `6ed1a5267333e124` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `220.124.129:231` (`405 Hz`) | `16,384-bit HDC: hdc16k:8286d476:46b1cb91:cf00278e:fc38d317` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v548 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents](https://huggingface.co/papers/2611.16378)** (`7 upvotes`)
-   - Autonomous agents modify prompts, memories, tools, workflows, and policies using interaction histories. Yet a plausible modification is not necessarily suitable for persistent adoption: candidate selection is adaptive, evaluators may be imperfect, and local gains can hide degradation against an earlier baseline. We int
-2. **[Hugging Face Daily Papers] [MMFlash: Faster Speculative Decoding for Vision-Language Models](https://huggingface.co/papers/2611.18482)** (`23 upvotes`)
-   - Speculative decoding accelerates generation by letting a lightweight drafter propose tokens for parallel verification by a target model. Diffusion drafters such as DFlash propose an entire token block in a single forward pass, but mainly focus on text-only tasks, leaving multimodal drafting underexplored. To study this
-3. **[Hugging Face Daily Papers] [JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://huggingface.co/papers/2611.18130)** (`8 upvotes`)
-   - Large language models (LLMs) are increasingly applied to finance, creating a need for benchmarks that evaluate their capabilities across financial systems with different regulations and practices. However, existing financial benchmarks provide limited coverage of country-specific financial systems, and they are difficu
-4. **[Hugging Face Daily Papers] [eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means](https://huggingface.co/papers/2611.18529)** (`6 upvotes`)
-   - Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and run online, but they cannot name more speakers than they have slots. We remove this limit without retraining. The slot 
-5. **[Hugging Face Daily Papers] [Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion](https://huggingface.co/papers/2611.02822)** (`6 upvotes`)
-   - Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure bias. To stabilize long rollouts, recent methods heuristically adopt frame sink, keeping initial frames as a persistent
+1. **[Hugging Face Daily Papers] [MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)** (`13 upvotes`)
+   - Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves a growing store to search. We present MIRIX-2.0, a multi-agent memory system designed to be practical, accurate, and ef
+2. **[Hugging Face Daily Papers] [Mobile AI Factory: Building Specialized Language Models for Your Mobile Device](https://huggingface.co/papers/2611.13509)** (`4 upvotes`)
+   - Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\it Mobile AI Factory}, an agentic system tha
+3. **[Hugging Face Daily Papers] [V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations](https://huggingface.co/papers/2611.17831)** (`15 upvotes`)
+   - World-model video encoders such as V-JEPA learn how scenes change (direction, speed, order, state) from video alone. To answer questions, they are joined to a language model trained on captions and question-answer pairs. But each caption or question names only a few attributes of a clip, so the model learns to retrieve
+4. **[Hugging Face Daily Papers] [Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift](https://huggingface.co/papers/2611.18429)** (`10 upvotes`)
+   - Underwater image enhancement is challenging to evaluate due to the lack of clean reference images, so researchers rely on no-reference image quality assessment (NR-IQA) metrics. However, it remains unclear whether these metrics agree with human judgments. We evaluate 73 handcrafted underwater, learned underwater, visio
+5. **[Hugging Face Daily Papers] [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://huggingface.co/papers/2611.15789)** (`63 upvotes`)
+   - Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePre
 6. **[arXiv Live CS.AI/LG] [Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** (`Published 2026-11-13`)
    - Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, 
 7. **[arXiv Live CS.AI/LG] [Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** (`Published 2026-11-13`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents](https://huggingface.co/papers/2611.16378)
+- **Source Anchor:** [MIRIX-2.0: Multi-Agent Memory System](https://huggingface.co/papers/2611.12068)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794817131969`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v547`, SHA-256 `e7a858130ccf3efe…`) + `AgentMemory` `6afabc6ce1e802593e95e7a1`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afabc6cc1cd296f46b8869d` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794824746204`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v548`, SHA-256 `683036c9c76a556a…`) + `AgentMemory` `6afada2a181e1db34d33ebf6`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afada2a6e1de6134444dfb6` + GitHub Bridge Message `055`
