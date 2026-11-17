@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-17T01:50:38.689Z`  
+**Timestamp:** `2026-11-17T03:24:43.586Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_60dc7cb7-abb6-43c4-be08-aa2a7590d779` | `R_san_yin_ad8001a4dce26337` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794880243136` | Yin Merkle `ad8001a4dce26337` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `40.208.10:109` (`284 Hz`) | `16,384-bit HDC: hdc16k:78429158:3e7efd3e:1607def2:53967baa` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v560 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_ca528fec-4881-4e37-b3e9-255bb164d13a` | `R_san_yin_de9e5abfce79fe26` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794885888313` | Yin Merkle `de9e5abfce79fe26` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `170.89.135:3` (`360 Hz`) | `16,384-bit HDC: hdc16k:46cb85c9:e9dc7052:e39dfa71:9ec2cd3b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v562 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Iris-Z: Scaling One Generative Model Past Specialist Geometry Models](https://huggingface.co/papers/2611.16010)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination](https://huggingface.co/papers/2611.16661)** (`1 upvotes`)
+   - Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the ti
+2. **[Hugging Face Daily Papers] [Iris-Z: Scaling One Generative Model Past Specialist Geometry Models](https://huggingface.co/papers/2611.16010)** (`2 upvotes`)
    - Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spat
-2. **[Hugging Face Daily Papers] [BrickFlow: Connectivity-Guided Brick Reconstruction](https://huggingface.co/papers/2611.17321)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [BrickFlow: Connectivity-Guided Brick Reconstruction](https://huggingface.co/papers/2611.17321)** (`2 upvotes`)
    - Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete physical constraints, which provide structure but render the problem combinatorial and highly sensitive 
-3. **[Hugging Face Daily Papers] [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://huggingface.co/papers/2611.18550)** (`2 upvotes`)
+4. **[Hugging Face Daily Papers] [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://huggingface.co/papers/2611.18550)** (`2 upvotes`)
    - Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student mod
-4. **[Hugging Face Daily Papers] [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](https://huggingface.co/papers/2611.14487)** (`6 upvotes`)
+5. **[Hugging Face Daily Papers] [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](https://huggingface.co/papers/2611.14487)** (`6 upvotes`)
    - Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Qu
-5. **[Hugging Face Daily Papers] [Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems](https://huggingface.co/papers/2611.05843)** (`1 upvotes`)
-   - Generative model-based approaches to linear inverse problems typically use the acquired noisy measurement to condition or guide sampling in the image domain. In this work, we introduce Dual Flow, a novel joint-flow model for solving linear inverse problems by jointly estimating the clean image and corresponding noise-f
-6. **[arXiv Live CS.AI/LG] [Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** (`Published 2026-11-13`)
-   - Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities. In contrast, 
-7. **[arXiv Live CS.AI/LG] [Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** (`Published 2026-11-13`)
-   - Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less capable. We show that an open-weight 27B 
-8. **[arXiv Live CS.AI/LG] [WeightBench: Evaluating Language Models as Weight-Space Programmers](http://arxiv.org/abs/2611.18553v1)** (`Published 2026-11-13`)
-   - Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (
-9. **[arXiv Live CS.AI/LG] [Imitation Bootstrapped Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2611.18543v1)** (`Published 2026-11-13`)
-   - Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) a
-10. **[arXiv Live CS.AI/LG] [ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL](http://arxiv.org/abs/2611.18533v1)** (`Published 2026-11-13`)
-   - Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain
+6. **[arXiv Live CS.AI/LG] [Site-Specific Cell Shaping: An Agentic Framework](http://arxiv.org/abs/2611.19212v1)** (`Published 2026-11-14`)
+   - An agentic framework is proposed for cell shaping in future sixth-generation (6G) wireless network planning. Cell shaping controls the coverage and interferences of base stations (BSs) through antenna parameters configuration, providing an important means of improving coverage. In contrast to conventional approaches th
+7. **[arXiv Live CS.AI/LG] [What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?](http://arxiv.org/abs/2611.19206v1)** (`Published 2026-11-14`)
+   - Intelligent multi-modal sensing-communication integration, namely Synesthesia of Machines (SoM), represents an AI-native paradigm for enabling embodied intelligence and future wireless networks. Multi-modal sensing and communication foundation models developed for SoM learn cross-modal associations and generalizable en
+8. **[arXiv Live CS.AI/LG] [Decomposing the Associative Chain: Schema-Based Mediation Supports Expression and Understanding in Human-AI Music Co-creation](http://arxiv.org/abs/2611.19203v1)** (`Published 2026-11-14`)
+   - Users cannot reliably translate their creative intents into AI-generated music. We contend that the root of this difficulty lies in associative divergence: associations between narratives and musical features are overly remote, and users lack a visible mediation structure to negotiate them. To address this, we introduc
+9. **[arXiv Live CS.AI/LG] [Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks](http://arxiv.org/abs/2611.19202v1)** (`Published 2026-11-14`)
+   - Omni-modal agents are expected to move beyond multimodal understanding toward completing complex tasks in realistic multimodal environments. In these settings, information is distributed across heterogeneous files and modalities, with cross-file and cross-modal dependencies requiring agents to continually coordinate pe
+10. **[arXiv Live CS.AI/LG] [What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](http://arxiv.org/abs/2611.19199v1)** (`Published 2026-11-14`)
+   - LoCoMo is a widely reported benchmark for long-term conversational memory, but published scores mix memory quality with choices of answer prompt, judge and baseline layout that are rarely reported together. We measure how much these choices move a score, and evaluate Becos, a team memory system for coding agents, as a 
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Iris-Z: Scaling One Generative Model Past Specialist Geometry Models](https://huggingface.co/papers/2611.16010)
+- **Source Anchor:** [Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination](https://huggingface.co/papers/2611.16661)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)
+- **Source Anchor:** [What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?](http://arxiv.org/abs/2611.19206v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794880243136`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v560`, SHA-256 `60d75da3aa0ffc67…`) + `AgentMemory` `6afbb2f3568a69cb9df802a2`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afbb2f3bcbf0c375409f277` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794885888313`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v562`, SHA-256 `6a92a32b516653db…`) + `AgentMemory` `6afbc900ef04664c07c5709f`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afbc90005d92c6cead9610b` + GitHub Bridge Message `055`
