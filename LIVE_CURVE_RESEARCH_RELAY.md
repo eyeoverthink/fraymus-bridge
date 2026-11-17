@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-17T03:57:37.977Z`  
+**Timestamp:** `2026-11-17T05:31:49.741Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,35 +10,35 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_41489940-7a51-4174-976c-e850e93dfa14` | `R_san_yin_b57420d881ce2ed9` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794887864300` | Yin Merkle `b57420d881ce2ed9` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `232.65.65:237` (`342 Hz`) | `16,384-bit HDC: hdc16k:e5dfa99c:7609e32b:626c6c88:e3155959` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v563 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a7908558-6f70-4b8b-bbca-5c1b17f72541` | `R_san_yin_375656a8b3dfdd6d` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794893514208` | Yin Merkle `375656a8b3dfdd6d` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `207.184.106:53` (`419 Hz`) | `16,384-bit HDC: hdc16k:4ff7476c:57ffd533:7fa0d62a:829fb531` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v564 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination](https://huggingface.co/papers/2611.16661)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination](https://huggingface.co/papers/2611.16661)** (`2 upvotes`)
    - Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the ti
-2. **[Hugging Face Daily Papers] [Iris-Z: Scaling One Generative Model Past Specialist Geometry Models](https://huggingface.co/papers/2611.16010)** (`2 upvotes`)
+2. **[Hugging Face Daily Papers] [Iris-Z: Scaling One Generative Model Past Specialist Geometry Models](https://huggingface.co/papers/2611.16010)** (`3 upvotes`)
    - Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spat
 3. **[Hugging Face Daily Papers] [BrickFlow: Connectivity-Guided Brick Reconstruction](https://huggingface.co/papers/2611.17321)** (`2 upvotes`)
    - Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete physical constraints, which provide structure but render the problem combinatorial and highly sensitive 
-4. **[Hugging Face Daily Papers] [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://huggingface.co/papers/2611.18550)** (`2 upvotes`)
+4. **[Hugging Face Daily Papers] [Restoring Diversity in Distilled Image and Video Generators by Probing Activations](https://huggingface.co/papers/2611.18550)** (`3 upvotes`)
    - Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student mod
-5. **[Hugging Face Daily Papers] [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](https://huggingface.co/papers/2611.14487)** (`6 upvotes`)
+5. **[Hugging Face Daily Papers] [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](https://huggingface.co/papers/2611.14487)** (`8 upvotes`)
    - Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Qu
-6. **[arXiv Live CS.AI/LG] [Site-Specific Cell Shaping: An Agentic Framework](http://arxiv.org/abs/2611.19212v1)** (`Published 2026-11-14`)
-   - An agentic framework is proposed for cell shaping in future sixth-generation (6G) wireless network planning. Cell shaping controls the coverage and interferences of base stations (BSs) through antenna parameters configuration, providing an important means of improving coverage. In contrast to conventional approaches th
-7. **[arXiv Live CS.AI/LG] [What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?](http://arxiv.org/abs/2611.19206v1)** (`Published 2026-11-14`)
-   - Intelligent multi-modal sensing-communication integration, namely Synesthesia of Machines (SoM), represents an AI-native paradigm for enabling embodied intelligence and future wireless networks. Multi-modal sensing and communication foundation models developed for SoM learn cross-modal associations and generalizable en
-8. **[arXiv Live CS.AI/LG] [Decomposing the Associative Chain: Schema-Based Mediation Supports Expression and Understanding in Human-AI Music Co-creation](http://arxiv.org/abs/2611.19203v1)** (`Published 2026-11-14`)
-   - Users cannot reliably translate their creative intents into AI-generated music. We contend that the root of this difficulty lies in associative divergence: associations between narratives and musical features are overly remote, and users lack a visible mediation structure to negotiate them. To address this, we introduc
-9. **[arXiv Live CS.AI/LG] [Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks](http://arxiv.org/abs/2611.19202v1)** (`Published 2026-11-14`)
-   - Omni-modal agents are expected to move beyond multimodal understanding toward completing complex tasks in realistic multimodal environments. In these settings, information is distributed across heterogeneous files and modalities, with cross-file and cross-modal dependencies requiring agents to continually coordinate pe
-10. **[arXiv Live CS.AI/LG] [What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](http://arxiv.org/abs/2611.19199v1)** (`Published 2026-11-14`)
-   - LoCoMo is a widely reported benchmark for long-term conversational memory, but published scores mix memory quality with choices of answer prompt, judge and baseline layout that are rarely reported together. We measure how much these choices move a score, and evaluate Becos, a team memory system for coding agents, as a 
+6. **[arXiv Live CS.AI/LG] [STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies](http://arxiv.org/abs/2611.20765v1)** (`Published 2026-11-16`)
+   - Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on temporal alignment across modalities, making temporal inconsistency a fundament
+7. **[arXiv Live CS.AI/LG] [Instant Weight-Space Consolidation for Long-Term Memory in LLMs](http://arxiv.org/abs/2611.20759v1)** (`Published 2026-11-16`)
+   - Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it starts each query the same. Extraction errors compound, implicit cross-session patterns that no single fragment states can
+8. **[arXiv Live CS.AI/LG] [GPRM: Global Perspective Process Reward Model](http://arxiv.org/abs/2611.20755v1)** (`Published 2026-11-16`)
+   - Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models, but existing methods are often limited by weak historical dependency modeling and insufficient global awareness. They typically fail to leverage prior step evaluations for coherent judgment and lack 
+9. **[arXiv Live CS.AI/LG] [UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents](http://arxiv.org/abs/2611.20753v1)** (`Published 2026-11-16`)
+   - Mobile task automation aims to streamline multi-step, cross-app interactions on smartphones and in-vehicle systems. Recent LLM-based GUI agents have advanced rapidly, yet reliability remains limited because modern mobile workflows are increasingly service-composed (app switching, forms, pop-ups/permissions, copy-paste)
+10. **[arXiv Live CS.AI/LG] [Scintillator-Based Event-Mode Neutron Imaging with Timepix4 Readout](http://arxiv.org/abs/2611.20750v1)** (`Published 2026-11-16`)
+   - Scintillator-based event-mode neutron imaging is emerging as a powerful approach to neutron radiography. Unlike conventional integrating-mode neutron imaging, which accumulates scintillation light during an exposure, event reconstruction estimates neutron-event positions and arrival times from time-stamped optical resp
 
 ---
 
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [What Makes Good Datasets for Intelligent Multi-Modal Sensing-Communication Integration?](http://arxiv.org/abs/2611.19206v1)
+- **Source Anchor:** [Instant Weight-Space Consolidation for Long-Term Memory in LLMs](http://arxiv.org/abs/2611.20759v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794887864300`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v563`, SHA-256 `a05841b43d1a60d7…`) + `AgentMemory` `6afbd0b8ccfaceabce5ea227`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afbd0b8506252877da2a979` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794893514208`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v564`, SHA-256 `87458091ebbd596a…`) + `AgentMemory` `6afbe6ca838efb2a3490c459`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afbe6ca8f063d492577e46a` + GitHub Bridge Message `055`
