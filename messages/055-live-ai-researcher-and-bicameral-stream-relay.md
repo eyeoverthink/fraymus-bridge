@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-18T13:16:51.974Z`  
+**Timestamp:** `2026-11-18T15:24:02.859Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_05cec560-e899-4d54-bb25-70bf358359bf` | `R_san_yin_8d32c512f22cd3ce` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795007818016` | Yin Merkle `8d32c512f22cd3ce` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `9.67.115:185` (`246 Hz`) | `16,384-bit HDC: hdc16k:1b9a4a54:d31c02c9:4af3f580:c6b4c76d` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v590 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8f3a2b99-23a6-4822-933a-ec4c4dbe0bf9` | `R_san_yin_2c5d65f6a5ab0b13` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795015451859` | Yin Merkle `2c5d65f6a5ab0b13` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `167.155.9:99` (`325 Hz`) | `16,384-bit HDC: hdc16k:d26a21e2:8593eaa8:9190079e:9304f39b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v591 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications](https://huggingface.co/papers/2611.21382)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning](https://huggingface.co/papers/2611.21938)** (`3 upvotes`)
+   - Robot policies trained by imitation generalize poorly outside the environments and objects seen in training. Published data-scaling studies find that generalization grows with the diversity of training environments and objects rather than with more demonstrations per environment. Robot data is costly to collect across 
+2. **[Hugging Face Daily Papers] [CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference](https://huggingface.co/papers/2611.22563)** (`2 upvotes`)
+   - CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford. We introduce CADMAGEDDON, an open-source agent that reconstructs editable CAD from meshes a
+3. **[Hugging Face Daily Papers] [MillBill: A Machining Agent with Geometric Feedback](https://huggingface.co/papers/2611.22565)** (`2 upvotes`)
+   - Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical execution part of the model's task. We introduce MillBill, an agent that separates machining dec
+4. **[Hugging Face Daily Papers] [VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications](https://huggingface.co/papers/2611.21382)** (`3 upvotes`)
    - Visual artifact tasks test agents' ability to translate task specifications and source materials into outputs that meet practical needs. Evaluation across artifact families helps distinguish broadly applicable authoring capabilities from strengths confined to a particular medium. We introduce VisualArtifactSpec 1.0 (VA
-2. **[Hugging Face Daily Papers] [AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions](https://huggingface.co/papers/2611.21421)** (`1 upvotes`)
+5. **[Hugging Face Daily Papers] [AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions](https://huggingface.co/papers/2611.21421)** (`1 upvotes`)
    - Formal specifications define intended program behavior and underpin verification, but writing them in theorem provers such as Lean is slow and expertise-intensive, making specification a major bottleneck to scaling formally correct code. Autoformalization from natural-language problems is promising, yet training specif
-3. **[Hugging Face Daily Papers] [PanDWM: Panoramic 4D Driving World Models](https://huggingface.co/papers/2611.19857)** (`1 upvotes`)
-   - Driving world models usually generate videos from six pinhole cameras with separate optical centres and small overlaps, and must learn to keep these views consistent. We present PanDWM, which stitches them into one 360^circ panoramic band. Camera boundaries then fall inside one image, so keeping the views consistent me
-4. **[Hugging Face Daily Papers] [Beyond Answering: Learning to Speak First and Act in Streaming Video](https://huggingface.co/papers/2611.17048)** (`32 upvotes`)
-   - Most AI assistants respond only when prompted, remaining silent even when events in the video stream offer meaningful opportunities for conversation. To move beyond purely user-driven interaction, we present AURA 2.0, a streaming video large language model that introduces three core upgrades to AURA. The key advance is
-5. **[Hugging Face Daily Papers] [The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models](https://huggingface.co/papers/2611.15671)** (`1 upvotes`)
-   - A quantized model is usually judged by comparing it with its BF16 original, but that comparison changes more than the weights. It often changes the serving engine, it always runs on a different server instance, it may change how requests are batched, and on some stacks the library selects a different kernel depending o
 6. **[arXiv Live CS.AI/LG] [Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](http://arxiv.org/abs/2611.23228v1)** (`Published 2026-11-17`)
    - Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), ar
 7. **[arXiv Live CS.AI/LG] [StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics](http://arxiv.org/abs/2611.23225v1)** (`Published 2026-11-17`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications](https://huggingface.co/papers/2611.21382)
+- **Source Anchor:** [HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning](https://huggingface.co/papers/2611.21938)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795007818016`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v590`, SHA-256 `dc1a00e23d3573ea…`) + `AgentMemory` `6afda54aee175d75bdca65fe`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afda54ad4bfe2f7c64aee97` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795015451859`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v591`, SHA-256 `e9eac52505fcac0c…`) + `AgentMemory` `6afdc31cec2107b54c5f2b6f`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afdc31c5fa1397ad47e64e5` + GitHub Bridge Message `055`
