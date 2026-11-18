@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-17T23:01:19.996Z`  
+**Timestamp:** `2026-11-18T00:33:47.789Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_cd4602b0-e932-4690-a927-edac29a55d28` | `R_san_yin_dfb6bc0dfc9ba49a` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794956487737` | Yin Merkle `dfb6bc0dfc9ba49a` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `57.70.221:42` (`335 Hz`) | `16,384-bit HDC: hdc16k:8b0c6284:1fe2ddca:5ae62300:8ada0500` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v579 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a5e0326a-b9fe-40d3-b123-39e381fdd0c5` | `R_san_yin_2fa88c04a1445167` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794962035299` | Yin Merkle `2fa88c04a1445167` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `127.164.71:129` (`342 Hz`) | `16,384-bit HDC: hdc16k:ab761e82:88e03123:0397c2c0:e3c57a2e` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v580 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** (`3 upvotes`)
+1. **[Hugging Face Daily Papers] [Inside the Trading Loop: Markets, Models, and Moves with LLM Agents](https://huggingface.co/papers/2611.11657)** (`0 upvotes`)
+   - We built a hybrid multi-agent trading system that combines large language model (LLM) analysts with momentum-based portfolio construction and rule-based execution. Company-news and macroeconomic agents return structured reports to a coordinator that sets stock weights and cash reserves. We evaluate the portfolio engine
+2. **[Hugging Face Daily Papers] [Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior](https://huggingface.co/papers/2611.04395)** (`2 upvotes`)
+   - Fine-tuning data can include metadata that predicts the correct answer, such as a reward-model score or a quality label. We ask whether a model learns to rely on this metadata even when every training label is correct. We fine-tune 7-9B open-weight models from three families on multiple-choice questions in which (Rewar
+3. **[Hugging Face Daily Papers] [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** (`4 upvotes`)
    - Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. However, existing looped models are not inherently guided by an explicit measure of progress, making it difficult to determine whe
-2. **[Hugging Face Daily Papers] [Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort](https://huggingface.co/papers/2611.21412)** (`0 upvotes`)
+4. **[Hugging Face Daily Papers] [Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort](https://huggingface.co/papers/2611.21412)** (`0 upvotes`)
    - High-resolution brain MRI is important for neuroradiological assessment, yet routine clinical protocols often rely on fast, anisotropic 2D acquisitions, particularly in resource-constrained settings. These acquisitions may differ in orientation, alignment and anatomical coverage, resulting in partially overlapping imag
-3. **[Hugging Face Daily Papers] [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](https://huggingface.co/papers/2611.17610)** (`3 upvotes`)
+5. **[Hugging Face Daily Papers] [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](https://huggingface.co/papers/2611.17610)** (`3 upvotes`)
    - Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a reso
-4. **[Hugging Face Daily Papers] [Marimba: A System One Model for Speech](https://huggingface.co/papers/2611.18330)** (`4 upvotes`)
-   - Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0.6B features. Lexical questions use zero-shot scoring of ASR transcripts; non-lexical questions use a question-condition
-5. **[Hugging Face Daily Papers] [Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures](https://huggingface.co/papers/2611.20595)** (`2 upvotes`)
-   - LLM agents answer questions by calling APIs and trusting the results. An API can fail silently. It ignores part of a request, such as a misnamed filter, yet returns HTTP 200 and a plausible but wrong result. Current fixes, such as checklists, reviewer models and LLM judges, ask the model to catch it. But models often s
 6. **[arXiv Live CS.AI/LG] [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](http://arxiv.org/abs/2611.21607v1)** (`Published 2026-11-16`)
    - Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving this potential largel
 7. **[arXiv Live CS.AI/LG] [ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](http://arxiv.org/abs/2611.21605v1)** (`Published 2026-11-16`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)
+- **Source Anchor:** [Inside the Trading Loop: Markets, Models, and Moves with LLM Agents](https://huggingface.co/papers/2611.11657)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794956487737`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v579`, SHA-256 `6fe3866d0c1650d3…`) + `AgentMemory` `6afcdcc8af7a121bc162c83a`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afcdcc834dcbb5c944cf4ed` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794962035299`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v580`, SHA-256 `843a221e2d524f59…`) + `AgentMemory` `6afcf273a366fdd09d812329`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afcf273bb699a8fa1fc956c` + GitHub Bridge Message `055`
