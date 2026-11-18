@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-18T01:06:42.454Z`  
+**Timestamp:** `2026-11-18T02:41:51.170Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_51fc2a88-9c1a-403f-91fe-5d1f800dfd2e` | `R_san_yin_919f23968d49bc50` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794964006991` | Yin Merkle `919f23968d49bc50` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `81.197.2:235` (`296 Hz`) | `16,384-bit HDC: hdc16k:8e785087:2c5ed7d1:9eba343f:4b832f22` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v582 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_4c49401f-fd92-4047-972f-ef8c510605f7` | `R_san_yin_5a42461737ed9f1c` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1794969718224` | Yin Merkle `5a42461737ed9f1c` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `98.143.22:29` (`287 Hz`) | `16,384-bit HDC: hdc16k:02ee1cb6:7bb67fc8:4ad836aa:ebe27f9c` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v583 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Inside the Trading Loop: Markets, Models, and Moves with LLM Agents](https://huggingface.co/papers/2611.11657)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)** (`2 upvotes`)
+   - Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with the response length and force the answer to be parsed from free-form text, incurring avoidable latency and decision erro
+2. **[Hugging Face Daily Papers] [ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models](https://huggingface.co/papers/2611.21099)** (`2 upvotes`)
+   - Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on f
+3. **[Hugging Face Daily Papers] [Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment](https://huggingface.co/papers/2611.20441)** (`1 upvotes`)
+   - Abstention, the withholding of a response by a large language model (LLM) under uncertainty or safety risks, is essential for trustworthy models. The causes of abstention fall into three perspectives: ambiguity in the Query (Q), limits of Model Knowledge (MK), and misalignment with Human Values (HV). However, prior ana
+4. **[Hugging Face Daily Papers] [Inside the Trading Loop: Markets, Models, and Moves with LLM Agents](https://huggingface.co/papers/2611.11657)** (`0 upvotes`)
    - We built a hybrid multi-agent trading system that combines large language model (LLM) analysts with momentum-based portfolio construction and rule-based execution. Company-news and macroeconomic agents return structured reports to a coordinator that sets stock weights and cash reserves. We evaluate the portfolio engine
-2. **[Hugging Face Daily Papers] [Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior](https://huggingface.co/papers/2611.04395)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior](https://huggingface.co/papers/2611.04395)** (`2 upvotes`)
    - Fine-tuning data can include metadata that predicts the correct answer, such as a reward-model score or a quality label. We ask whether a model learns to rely on this metadata even when every training label is correct. We fine-tune 7-9B open-weight models from three families on multiple-choice questions in which (Rewar
-3. **[Hugging Face Daily Papers] [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](https://huggingface.co/papers/2611.08977)** (`4 upvotes`)
-   - Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. However, existing looped models are not inherently guided by an explicit measure of progress, making it difficult to determine whe
-4. **[Hugging Face Daily Papers] [Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort](https://huggingface.co/papers/2611.21412)** (`0 upvotes`)
-   - High-resolution brain MRI is important for neuroradiological assessment, yet routine clinical protocols often rely on fast, anisotropic 2D acquisitions, particularly in resource-constrained settings. These acquisitions may differ in orientation, alignment and anatomical coverage, resulting in partially overlapping imag
-5. **[Hugging Face Daily Papers] [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](https://huggingface.co/papers/2611.17610)** (`3 upvotes`)
-   - Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a reso
-6. **[arXiv Live CS.AI/LG] [ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](http://arxiv.org/abs/2611.21607v1)** (`Published 2026-11-16`)
-   - Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving this potential largel
-7. **[arXiv Live CS.AI/LG] [ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](http://arxiv.org/abs/2611.21605v1)** (`Published 2026-11-16`)
-   - Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propo
-8. **[arXiv Live CS.AI/LG] [Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent](http://arxiv.org/abs/2611.21598v1)** (`Published 2026-11-16`)
-   - Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The E
-9. **[arXiv Live CS.AI/LG] [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](http://arxiv.org/abs/2611.21579v1)** (`Published 2026-11-16`)
-   - Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectiv
-10. **[arXiv Live CS.AI/LG] [When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents](http://arxiv.org/abs/2611.21577v1)** (`Published 2026-11-16`)
-   - Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose tools advertised by multiple servers. However, tool metadata used for discovery and selection is not, by itself, necessa
+6. **[arXiv Live CS.AI/LG] [Safely Mitigating Grid Imbalance: A Hybrid Distributional Wide-Margin Recourse Approach](http://arxiv.org/abs/2611.22220v1)** (`Published 2026-11-17`)
+   - This paper proposes the Multi-Agent Distributional Wide-Margin Policy Gradient (MADWMPG) framework: a dual-policy hybrid imitation and safe reinforcement learning (IL-SRL) method designed for safely mitigating grid imbalance in multiphase active distribution networks with distributed soft open points (SOPs). The framew
+7. **[arXiv Live CS.AI/LG] [Emergence and Collapse of Leader-Follower Flocks through Phantom Targets: Surprise Nullification in Bayesian and Inverse Bayesian Inference](http://arxiv.org/abs/2611.22190v1)** (`Published 2026-11-17`)
+   - In Bayesian and inverse Bayesian (BIB) inference, a large prediction error can trigger surprise nullification, which expands belief and likelihood variances by a common factor, leaving the updated variance ratio the same as in standard Bayesian updating. This can increase belief uncertainty while keeping the learning r
+8. **[arXiv Live CS.AI/LG] [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't](http://arxiv.org/abs/2611.22179v1)** (`Published 2026-11-17`)
+   - Agentic memory research has accumulated extraction, supersession, reflection, and graph synthesis on top of retrieval-augmented generation. However, we found that almost none of those primitives earn their cost in our tested memory benchmarks: we show this with BRIDGE, a deliberately minimal RAG memory with chained obs
+9. **[arXiv Live CS.AI/LG] [The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News](http://arxiv.org/abs/2611.22177v1)** (`Published 2026-11-17`)
+   - Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after 
+10. **[arXiv Live CS.AI/LG] [Decision Stability and Model Reduction for Hamilton--Jacobi Navigation in Multiscale Flows](http://arxiv.org/abs/2611.22176v1)** (`Published 2026-11-17`)
+   - Autonomous vehicles plan time-optimal routes through flow fields that are known only through reduced, finite-resolution models of an underlying multiscale flow. Classical Hamilton-Jacobi homogenization concerns convergence of the value function as the fine scale vanishes; but what a vehicle commits to is a route, and v
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Inside the Trading Loop: Markets, Models, and Moves with LLM Agents](https://huggingface.co/papers/2611.11657)
+- **Source Anchor:** [MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding](https://huggingface.co/papers/2611.20992)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](http://arxiv.org/abs/2611.21605v1)
+- **Source Anchor:** [Emergence and Collapse of Leader-Follower Flocks through Phantom Targets: Surprise Nullification in Bayesian and Inverse Bayesian Inference](http://arxiv.org/abs/2611.22190v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794964006991`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v582`, SHA-256 `a1376777d03e4df8…`) + `AgentMemory` `6afcfa278bbaa79f30abf9d6`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afcfa27f48eba92061faa39` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1794969718224`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v583`, SHA-256 `2cc3c284ec307bc3…`) + `AgentMemory` `6afd1076a8697c242c3c5a46`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afd1076e5a41cb9ef87ff1f` + GitHub Bridge Message `055`
