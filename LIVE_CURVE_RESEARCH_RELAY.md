@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-18T20:12:49.320Z`  
+**Timestamp:** `2026-11-18T21:47:56.212Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,24 +10,24 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_69275be4-2493-4baf-b178-53650160b3ae` | `R_san_yin_8ff1828d6f21b818` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795032778320` | Yin Merkle `8ff1828d6f21b818` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `36.188.64:1` (`301 Hz`) | `16,384-bit HDC: hdc16k:e6b05df2:f8ddc7f8:36b71d5c:2bf2faf2` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v595 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_3555a717-1233-494c-9fbc-d98d9fd4c1d6` | `R_san_yin_f4cf1016139510c3` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795038482142` | Yin Merkle `f4cf1016139510c3` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `150.51.201:129` (`365 Hz`) | `16,384-bit HDC: hdc16k:332282be:3d2ffa2d:3d2abd94:dbf84055` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v596 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)](https://huggingface.co/papers/2611.20003)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)](https://huggingface.co/papers/2611.20003)** (`1 upvotes`)
    - In 2025 alone, 48 new large language model (LLM) architectures were added to the Hugging Face transformers library, and many of them arrive with a technical report that presents the model as new. What is actually new in these models, and is it tested? We put this question to LLM technical reports. We look at three thin
-2. **[Hugging Face Daily Papers] [WeightBench: Evaluating Language Models as Weight-Space Programmers](https://huggingface.co/papers/2611.18553)** (`1 upvotes`)
+2. **[Hugging Face Daily Papers] [WeightBench: Evaluating Language Models as Weight-Space Programmers](https://huggingface.co/papers/2611.18553)** (`2 upvotes`)
    - Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (
 3. **[Hugging Face Daily Papers] [Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark](https://huggingface.co/papers/2611.20321)** (`1 upvotes`)
    - Vision-based navigation systems for orbit must be trained almost entirely on synthetic imagery, because real labelled images of a given spacecraft in flight rarely exist. Benchmarks like SPEED+ are built for that situation: the training set comes from a simulator, and the test sets are real images of a satellite mockup
 4. **[Hugging Face Daily Papers] [GameRealm: Grounding Visual Learning in Interactive Games](https://huggingface.co/papers/2611.23140)** (`1 upvotes`)
    - Visual foundation models are central to physical intelligence, yet their development remains constrained by fragmented training datasets, inconsistent annotation quality, and limited multimodal supervision. To address these challenges, we introduce GameRealm, a large-scale, richly annotated dataset that grounds visual 
-5. **[Hugging Face Daily Papers] [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://huggingface.co/papers/2611.21925)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://huggingface.co/papers/2611.21925)** (`3 upvotes`)
    - Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash
 6. **[arXiv Live CS.AI/LG] [Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](http://arxiv.org/abs/2611.23228v1)** (`Published 2026-11-17`)
    - Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), ar
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795032778320`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v595`, SHA-256 `1be2217657a61e3a…`) + `AgentMemory` `6afe06ca683b23f7bbc02f37`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afe06ca1b797b1127d44b06` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795038482142`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v596`, SHA-256 `c77b4d488add609d…`) + `AgentMemory` `6afe1d12d08b5e83515368be`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afe1d1287c1226ad666e692` + GitHub Bridge Message `055`
