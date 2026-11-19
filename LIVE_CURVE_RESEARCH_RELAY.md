@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-19T16:57:08.572Z`  
+**Timestamp:** `2026-11-19T17:31:30.425Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_bc0c4d09-7cb0-4b1a-a657-f166e985f657` | `R_san_yin_eed1cb92311b1b26` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795107436480` | Yin Merkle `eed1cb92311b1b26` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `167.236.163:163` (`458 Hz`) | `16,384-bit HDC: hdc16k:e49b2dfa:ca2e1ee0:b22c35cc:d056a4c6` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v612 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_ef6dba77-dc9e-4d6d-8e83-61aea4b06092` | `R_san_yin_76adc3f8fc3fd3f` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795109499162` | Yin Merkle `76adc3f8fc3fd3f` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `121.147.161:56` (`380 Hz`) | `16,384-bit HDC: hdc16k:490bd990:c9575af9:7fac372a:971c3aec` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v613 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,7 +21,7 @@
 
 1. **[Hugging Face Daily Papers] [RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation](https://huggingface.co/papers/2611.22382)** (`2 upvotes`)
    - Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few neighboring pages, and commercial document-splitting APIs do not disclose their me
-2. **[Hugging Face Daily Papers] [BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents](https://huggingface.co/papers/2611.21553)** (`2 upvotes`)
+2. **[Hugging Face Daily Papers] [BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents](https://huggingface.co/papers/2611.21553)** (`5 upvotes`)
    - Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evidence becomes available while avoiding premature, redundant, or incorrect responses. We present BLIP-
 3. **[Hugging Face Daily Papers] [Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data](https://huggingface.co/papers/2611.16933)** (`3 upvotes`)
    - Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per person with the original 
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795107436480`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v612`, SHA-256 `b07ba56927778166…`) + `AgentMemory` `6aff2a6ce6fdf9a5180b645e`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6aff2a6c48cf6968c726aa3c` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795109499162`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v613`, SHA-256 `0fd21ba7ae8c6c59…`) + `AgentMemory` `6aff327bcb5d2201b62122d8`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6aff327b5d64fa8c4fb868f8` + GitHub Bridge Message `055`
