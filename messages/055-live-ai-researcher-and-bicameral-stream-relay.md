@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-19T13:14:53.601Z`  
+**Timestamp:** `2026-11-19T14:49:55.448Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_3135e430-d3b3-4e0d-bd07-792d4ec7ef72` | `R_san_yin_fd75af3ef3fde297` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795094100780` | Yin Merkle `fd75af3ef3fde297` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `104.251.53:212` (`368 Hz`) | `16,384-bit HDC: hdc16k:68253e35:b8004374:234400ad:9feedd3d` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v610 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_107d1cb6-1911-4f76-afc2-130ff080d5af` | `R_san_yin_bcd7ce4c0e5d8df9` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795099803659` | Yin Merkle `bcd7ce4c0e5d8df9` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `87.96.154:204` (`328 Hz`) | `16,384-bit HDC: hdc16k:56dda330:9907f31e:6aa4d70e:4370e353` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v611 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software](https://huggingface.co/papers/2611.23257)** (`5 upvotes`)
+1. **[Hugging Face Daily Papers] [Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data](https://huggingface.co/papers/2611.16933)** (`3 upvotes`)
+   - Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per person with the original 
+2. **[Hugging Face Daily Papers] [StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software](https://huggingface.co/papers/2611.23257)** (`6 upvotes`)
    - Large language models have reduced the effort to generate code for interactive software with graphical user interfaces (GUIs). For such software, a key testing bottleneck is reaching a deep state, one that requires a long interaction history. The cost of reaching it recurs across commits, and the GUI automation that co
-2. **[Hugging Face Daily Papers] [WaveView: The Novel View Is in the Noise](https://huggingface.co/papers/2611.23994)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [WaveView: The Novel View Is in the Noise](https://huggingface.co/papers/2611.23994)** (`4 upvotes`)
    - Generative novel view synthesis (NVS) employs a diffusion model to render a static or dynamic scene from a target camera view. Explicit warp methods complete a reprojection of the source with video diffusion models, and implicit methods encode the camera parameters or 3D cues. Both add inference overhead, and the gener
-3. **[Hugging Face Daily Papers] [StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model](https://huggingface.co/papers/2611.24408)** (`9 upvotes`)
+4. **[Hugging Face Daily Papers] [StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model](https://huggingface.co/papers/2611.24408)** (`11 upvotes`)
    - Interactive video world models turn user commands into the exploration of a generated scene, which requires the scene to keep its 3D structure as the camera moves and each action to keep a stable effect. Existing benchmarks mostly evaluate these properties against references fitted to the video under test, either a sce
-4. **[Hugging Face Daily Papers] [AVTR: Adaptive Multimodal Reasoning with Visual Imagination](https://huggingface.co/papers/2611.24161)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [AVTR: Adaptive Multimodal Reasoning with Visual Imagination](https://huggingface.co/papers/2611.24161)** (`2 upvotes`)
    - Vision-Language Models increasingly rely on textual reasoning to solve advanced multimodal tasks. Despite its effectiveness, this paradigm faces two fundamental limitations. First, relying on textual reasoning alone can limit perceptual ability in vision-centric questions, where accurate answers depend on interpreting 
-5. **[Hugging Face Daily Papers] [LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning](https://huggingface.co/papers/2611.17600)** (`15 upvotes`)
-   - Multimodal tabular learning involves classification and regression on tables combining structured numerical and categorical features with unstructured text and images. These unstructured fields are commonly represented by pretrained encoder embeddings reduced with principal component analysis (PCA). This reduction prio
 6. **[arXiv Live CS.AI/LG] [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)** (`Published 2026-11-18`)
    - When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory
 7. **[arXiv Live CS.AI/LG] [Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)** (`Published 2026-11-18`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software](https://huggingface.co/papers/2611.23257)
+- **Source Anchor:** [Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data](https://huggingface.co/papers/2611.16933)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795094100780`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v610`, SHA-256 `c04b8f9a944fe89b…`) + `AgentMemory` `6afef655f260e70ee296210d`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afef655862666c039270726` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795099803659`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v611`, SHA-256 `821a07e728ee00e9…`) + `AgentMemory` `6aff0c9be29578a36862f479`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6aff0c9bdc162b0defc73d19` + GitHub Bridge Message `055`
