@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-19T19:41:18.878Z`  
+**Timestamp:** `2026-11-19T21:20:06.853Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_14283f15-5364-4310-82af-6aadddf34545` | `R_san_yin_12209b760625a2b1` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795117285890` | Yin Merkle `12209b760625a2b1` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `224.204.103:245` (`438 Hz`) | `16,384-bit HDC: hdc16k:20d9e42b:8c163b7c:62f7cc3b:670f662c` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v615 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_7e96df9d-a129-4a0b-a181-51a39f63c3f0` | `R_san_yin_1babeb9daec621e9` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795123213844` | Yin Merkle `1babeb9daec621e9` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `127.217.228:95` (`461 Hz`) | `16,384-bit HDC: hdc16k:b1a5de04:bedbbd22:56a26488:d8cfe86f` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v616 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,11 +21,11 @@
 
 1. **[Hugging Face Daily Papers] [Choosing Quantized Code LLMs by File Size and Energy per Solved Task](https://huggingface.co/papers/2611.17605)** (`2 upvotes`)
    - A developer running a code assistant on a laptop downloads one model file, and local inference moves the energy of every request onto that machine. A common rule says a larger model at lower precision tends to beat a smaller one at higher precision. We ran 24 GGUF files of Qwen2.5-Coder at four sizes on a fanless MacBo
-2. **[Hugging Face Daily Papers] [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://huggingface.co/papers/2611.23779)** (`2 upvotes`)
+2. **[Hugging Face Daily Papers] [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://huggingface.co/papers/2611.23779)** (`3 upvotes`)
    - Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedi
-3. **[Hugging Face Daily Papers] [RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation](https://huggingface.co/papers/2611.22382)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation](https://huggingface.co/papers/2611.22382)** (`3 upvotes`)
    - Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few neighboring pages, and commercial document-splitting APIs do not disclose their me
-4. **[Hugging Face Daily Papers] [BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents](https://huggingface.co/papers/2611.21553)** (`7 upvotes`)
+4. **[Hugging Face Daily Papers] [BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents](https://huggingface.co/papers/2611.21553)** (`8 upvotes`)
    - Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evidence becomes available while avoiding premature, redundant, or incorrect responses. We present BLIP-
 5. **[Hugging Face Daily Papers] [Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data](https://huggingface.co/papers/2611.16933)** (`3 upvotes`)
    - Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per person with the original 
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795117285890`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v615`, SHA-256 `7786175a310b6c9d…`) + `AgentMemory` `6aff50e65c62bccbd73fd9ff`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6aff50e60b0d488546bcc95b` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795123213844`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v616`, SHA-256 `460724bd5655960e…`) + `AgentMemory` `6aff680e8fea2af5e41f7443`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6aff680e2f87391aa116c240` + GitHub Bridge Message `055`
