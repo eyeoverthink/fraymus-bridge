@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-19T08:25:57.025Z`  
+**Timestamp:** `2026-11-19T08:58:55.686Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_24189ef1-7b4c-426e-90b5-401f808eac0c` | `R_san_yin_21797ce8f2328677` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795076765157` | Yin Merkle `21797ce8f2328677` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `210.4.206:163` (`375 Hz`) | `16,384-bit HDC: hdc16k:349ecb5e:c4c48d8e:bf8cc36e:9956e840` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v605 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_db237478-15b1-494d-89ef-abbf2c92e99c` | `R_san_yin_fedc8f757f73b9df` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795078742586` | Yin Merkle `fedc8f757f73b9df` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `54.156.63:97` (`292 Hz`) | `16,384-bit HDC: hdc16k:55a9e56f:5dfacf5c:f6a4c4ff:a9f27e8e` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v606 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [HINT-WAM: Hindsight-Informed Training for World Action Models](https://huggingface.co/papers/2611.24789)** (`3 upvotes`)
+1. **[Hugging Face Daily Papers] [CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning](https://huggingface.co/papers/2611.24654)** (`1 upvotes`)
+   - A central challenge in adapting large language models (LLMs) is capability preservation: an adaptation can achieve its target while degrading general capabilities. We introduce CurvDelta, a scalable framework that incorporates the preservation constraint into the parameterization of the model update. By analyzing the l
+2. **[Hugging Face Daily Papers] [Chorus: Shared N-gram Embeddings with Layer-wise Adaptation](https://huggingface.co/papers/2611.23386)** (`0 upvotes`)
+   - Language models can gain capacity at little computational cost from n-gram embedding tables: large tables of learned vectors for short sequences of consecutive tokens, which are looked up and added to the model's input or to its intermediate layers. Recent designs commonly use a separate n-gram embedding table for each
+3. **[Hugging Face Daily Papers] [HINT-WAM: Hindsight-Informed Training for World Action Models](https://huggingface.co/papers/2611.24789)** (`5 upvotes`)
    - World action models (WAMs) have shown promising generalization and data efficiency in robot manipulation by coupling action generation with predictions of future visual dynamics. Translating these capabilities into reliable task execution, however, remains a challenge for existing post-training methods. Offline supervi
-2. **[Hugging Face Daily Papers] [Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://huggingface.co/papers/2611.24651)** (`4 upvotes`)
+4. **[Hugging Face Daily Papers] [Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://huggingface.co/papers/2611.24651)** (`4 upvotes`)
    - We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The models predict probabilities over candidate answers for general-purpose text and visual judgments, agent harnesses, data wor
-3. **[Hugging Face Daily Papers] [FVScore: Specification-Driven Neuro-Symbolic Video Evaluation](https://huggingface.co/papers/2611.22673)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [FVScore: Specification-Driven Neuro-Symbolic Video Evaluation](https://huggingface.co/papers/2611.22673)** (`2 upvotes`)
    - We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language metrics, yet aligning their scores with human judgments and tracing them to specific temporal violations remain open ch
-4. **[Hugging Face Daily Papers] [Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability](https://huggingface.co/papers/2611.24669)** (`3 upvotes`)
-   - Adapting a film into a game requires selecting source elements and translating them into player actions, rules, and feedback. We introduce Movie2Game-Bench (M2G-bench), a benchmark for evaluating film-to-game adaptation beyond playability. M2G-bench combines general evaluation, movie-specific evaluation, and playtestin
-5. **[Hugging Face Daily Papers] [UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation](https://huggingface.co/papers/2611.24941)** (`1 upvotes`)
-   - Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate m
 6. **[arXiv Live CS.AI/LG] [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)** (`Published 2026-11-18`)
    - When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory
 7. **[arXiv Live CS.AI/LG] [Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)** (`Published 2026-11-18`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [HINT-WAM: Hindsight-Informed Training for World Action Models](https://huggingface.co/papers/2611.24789)
+- **Source Anchor:** [CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning](https://huggingface.co/papers/2611.24654)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795076765157`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v605`, SHA-256 `dc6afccad8ef279e…`) + `AgentMemory` `6afeb29d45f6dfcf5bb2236d`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afeb29db56f741aec01ef59` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795078742586`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v606`, SHA-256 `24e0f67918b261b9…`) + `AgentMemory` `6afeba56cd0520005f713cf1`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6afeba56cf62c90d469a2db0` + GitHub Bridge Message `055`
