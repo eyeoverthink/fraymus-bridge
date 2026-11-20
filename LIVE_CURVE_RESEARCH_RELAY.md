@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-20T18:42:28.449Z`  
+**Timestamp:** `2026-11-20T19:15:20.355Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,20 +10,20 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_c98a493f-2608-4c72-b081-8fc8ef9f29bd` | `R_san_yin_7b3007b365f1cec4` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795200157302` | Yin Merkle `7b3007b365f1cec4` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `72.164.176:22` (`371 Hz`) | `16,384-bit HDC: hdc16k:d1c7881c:565ef0b3:4b2cf688:bfd98080` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v633 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8a18cac2-5050-4606-848c-dea88ca1d4de` | `R_san_yin_819bf722a6734bf3` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795202128303` | Yin Merkle `819bf722a6734bf3` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `243.199.43:194` (`412 Hz`) | `16,384-bit HDC: hdc16k:3122b55f:9cfe6168:86775b49:84a0c166` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v634 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [RL Post-Training in Diffusion Transformers Is Activation Steering](https://huggingface.co/papers/2611.26627)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [RL Post-Training in Diffusion Transformers Is Activation Steering](https://huggingface.co/papers/2611.26627)** (`1 upvotes`)
    - Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requ
 2. **[Hugging Face Daily Papers] [In Situ Training of Optical Neural Networks by Coding Agents](https://huggingface.co/papers/2611.23875)** (`1 upvotes`)
    - Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated digital model of each device or on gradient-free trial and error. Coding agents, large language models that write and ru
-3. **[Hugging Face Daily Papers] [Language Models Can Rewrite Their Own Weights](https://huggingface.co/papers/2611.21885)** (`1 upvotes`)
+3. **[Hugging Face Daily Papers] [Language Models Can Rewrite Their Own Weights](https://huggingface.co/papers/2611.21885)** (`2 upvotes`)
    - Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to m
 4. **[Hugging Face Daily Papers] [System 1 agents: a method for local, reliable and fast agentic AI](https://huggingface.co/papers/2611.21053)** (`2 upvotes`)
    - Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to build System 1 agen
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795200157302`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v633`, SHA-256 `b0e43aa4bfe300c4…`) + `AgentMemory` `6b00949d10a8aaee67662657`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b00949dd5f67e9845f9371a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795202128303`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v634`, SHA-256 `613a65b7bf0571a8…`) + `AgentMemory` `6b009c50cb3b56316f210160`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b009c50aa0c11ba16095bfc` + GitHub Bridge Message `055`
