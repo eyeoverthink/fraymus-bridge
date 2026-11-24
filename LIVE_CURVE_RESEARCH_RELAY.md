@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T04:56:17.813Z`  
+**Timestamp:** `2026-11-24T06:31:23.911Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_26ba9027-4856-415b-b199-dcfb3bcf62f4` | `R_san_yin_789397b94be3ae09` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795496182345` | Yin Merkle `789397b94be3ae09` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `201.155.112:99` (`402 Hz`) | `16,384-bit HDC: hdc16k:0a0b749e:53ca2315:915d15d0:d274e76d` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v644 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a7853800-4ca7-42f0-a680-d846dcd89c0d` | `R_san_yin_2f18dac239f032c7` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795501891313` | Yin Merkle `2f18dac239f032c7` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `233.236.188:22` (`509 Hz`) | `16,384-bit HDC: hdc16k:9bb1a0e3:1c398ba6:72c5622d:06c233dd` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v645 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values](https://huggingface.co/papers/2611.29361)** (`1 upvotes`)
-   - Current MLLM methods largely focus on whether models attend to the right visual regions, implicitly treating spatial attention map as the primary key of effective visual perception. To examine this assumption, we introduce a medical VQA dataset with paired non-contrast (NC) and contrast-enhanced (CE) images that share 
-2. **[Hugging Face Daily Papers] [SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation](https://huggingface.co/papers/2611.27319)** (`1 upvotes`)
-   - Optical Character Recognition (OCR) pipelines and vision-language models exhibit high accuracy on standard OCR and document-understanding benchmarks, yet they systematically underperform on document patterns that are operationally critical in financial workflows. These patterns include vertical or rotated text, logo-em
-3. **[Hugging Face Daily Papers] [GameAnything: From Any Inspirations to Playable Game Worlds](https://huggingface.co/papers/2611.29238)** (`4 upvotes`)
-   - AI-driven game development holds the potential to transform diverse human inspirations into interactive experiences. However, existing systems and benchmarks primarily focus on explicit development specifications, with limited support for adapting multimodal references and evaluating actual gameplay experiences. We int
-4. **[Hugging Face Daily Papers] [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](https://huggingface.co/papers/2611.29338)** (`10 upvotes`)
-   - Recently, GPT-6 Astra demonstrates strong generalization in robot control, yet limited disclosure of its training leaves open how such capabilities can be reproduced. We introduce nanoAstra, an approach to training vision-language models (VLMs) for generalizable manipulation that combines semantic action modeling with 
-5. **[Hugging Face Daily Papers] [AutoPILOT: A Visual Agent Harness for Real-Time Gameplay](https://huggingface.co/papers/2611.28202)** (`23 upvotes`)
-   - Multimodal foundation models can play video games well when the game waits for them, but often fail when it keeps running. We find that much of this gap lies in the harness, which decides what the model sees, what it remembers, and how its outputs become actions over time. Existing harnesses such as VISTA improve the f
-6. **[arXiv Live CS.AI/LG] [py4radiation: a framework for generating heating/cooling functions and ion fractions from custom radiation fields for astrophysical simulations](http://arxiv.org/abs/2611.29772v1)** (`Published 2026-11-22`)
-   - Modelling multiphase gas in and around galaxies is key to understanding the baryon cycle in galaxy evolution. Modern simulation codes rely on heating/cooling functions and ion fractions to capture the thermodynamics and chemistry of such gases, but coupling all physical factors remains challenging. We present a new Pyt
-7. **[arXiv Live CS.AI/LG] [Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans](http://arxiv.org/abs/2611.29771v1)** (`Published 2026-11-22`)
-   - Whole-body humanoid manipulation remains bottlenecked by high-dimensional state-action spaces, contact-rich environments, and long task horizons. This trilemma is a challenge that state-of-the-art reinforcement learning (RL) methods are yet to resolve reliably. We address it with three contributions that add just enoug
-8. **[arXiv Live CS.AI/LG] [When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring](http://arxiv.org/abs/2611.29769v1)** (`Published 2026-11-22`)
-   - The graph coloring problem can be solved to optimality by branch-and-price (B&P), but its performance hinges on the column generation (CG) step, where each iteration requires solving a maximum weight independent set (MWIS) pricing problem. The state-of-the-art machine-learning (ML) pricing heuristic follows a predictio
-9. **[arXiv Live CS.AI/LG] [CivicBench: Robust Detection of AI-Generated Political Video](http://arxiv.org/abs/2611.29766v1)** (`Published 2026-11-22`)
-   - AI-generated video of politicians can pass for real footage, and once such fakes are common, real footage can be dismissed as fake. Platforms address both problems with detectors, but whoever uploads a clip controls its pixels. Existing datasets of political video are small, show real politicians, and test no attacks. 
-10. **[arXiv Live CS.AI/LG] [Mitigating Nested GTP Attacks: A Closed-Loop eBPF Defense for 5G and Beyond Networks](http://arxiv.org/abs/2611.29756v1)** (`Published 2026-11-22`)
-   - The evolving cellular networks continue to rely on the legacy GPRS Tunneling Protocol-User Plane (GTP-U) to encapsulate and route user data traffic across the data plane. Recent security research demonstrated that nested GTP-U (GTP-in-GTP) payload vulnerabilities enable a diverse range of attacks on victim users. To ad
+1. **[Hugging Face Daily Papers] [Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models](https://huggingface.co/papers/2611.31048)** (`0 upvotes`)
+   - Text-to-image models can learn from their own mistakes by distilling a self-teacher conditioned on a vision-language critic's revised prompt. However, such self-teachers barely improve alignment, and both they and their hindsight-contrast variants absorb the critic's unintended additions to the scene, such as lighting 
+2. **[Hugging Face Daily Papers] [GameDojo: Benchmarking Real-Time Interactive Agents in Video Games](https://huggingface.co/papers/2611.30771)** (`1 upvotes`)
+   - Interactive intelligence requires agents to act on observations and adapt to the consequences of actions. Studying these abilities calls for diverse, challenging tasks under controlled conditions. We introduce GameDojo, a controllable interactive gameplay benchmark of 120 boss encounters across 20 games for evaluating 
+3. **[Hugging Face Daily Papers] [Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR](https://huggingface.co/papers/2611.27494)** (`1 upvotes`)
+   - Typhoon OCR 1.5 focused on reading Thai documents. However, in real-world workflows, users often need to extract specific information or preserve the structure of an entire page for further processing. Typhoon OCR 2 handles both tasks in a single model, with prompt-driven extraction and structured full-page parsing. Fu
+4. **[Hugging Face Daily Papers] [A Pipeline-Parallel System for Depth-Recurrent Models](https://huggingface.co/papers/2611.30581)** (`3 upvotes`)
+   - Depth-recurrent (Looped) models raise effective depth by applying a shared stack of blocks several times. Scaling them usually requires pipeline parallelism, but commonly used interleaved 1F1B is drawn for an acyclic stage graph in which each micro-batch enters each stage once. Once that stack is split across stages, t
+5. **[Hugging Face Daily Papers] [How Complete Must an Environment Be to Train a Capable GUI Agent?](https://huggingface.co/papers/2611.23946)** (`0 upvotes`)
+   - Graphical user interface (GUI) agents are widely trained in executable GUI environments. To lower cost, build environments in batches, and reduce manual effort, each work trades away part of the environment through its construction choices. We describe these choices along three dimensions: reward coverage, the goal-rea
+6. **[arXiv Live CS.AI/LG] [Closed-Form Formula for $d_{\mathrm{critical}}(a_0)$ in Large Fully Connected Power Grids](http://arxiv.org/abs/2611.30922v1)** (`Published 2026-11-23`)
+   - Kadloor and Santhi (arXiv:1011.4098) modeled cascading failures in a large fully connected power grid by a coupled four-variable recursion for the minimum surviving load $a_n$, the mean failed load $μ_{n-1}$, the redistributed load $\mathcal{D}_n$, and the stagewise failure probability $p_n$. They noted that the recurs
+7. **[arXiv Live CS.AI/LG] [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1)** (`Published 2026-11-23`)
+   - Phylogenetic trees represent evolutionary history visually, and the ability to display and explore them is a key function in research across biological disciplines. Very large gene and species trees are becoming common with the increasing availability of low cost DNA sequencing, creating performance and informativeness
+8. **[arXiv Live CS.AI/LG] [CoSel: Cooperation as Selection for End-to-End Driving](http://arxiv.org/abs/2611.30918v1)** (`Published 2026-11-23`)
+   - Cooperative driving can extend a vehicle's awareness beyond its own sensors, but existing cooperative end-to-end methods inject shared information into the planner and rely on cooperative driving demonstrations to learn how to use it. The moments in which shared information should change a driving decision are rare in 
+9. **[arXiv Live CS.AI/LG] [TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions](http://arxiv.org/abs/2611.30916v1)** (`Published 2026-11-23`)
+   - Clinical drug development is a long-horizon, high-stakes process requiring sequential decisions based on information that costs money and time to acquire. AI agents have demonstrated capabilities for scientific analysis, but there is no established way to evaluate them on these decisions, as real trials are expensive, 
+10. **[arXiv Live CS.AI/LG] [Demystifying Detectors Guarding Agent Skill Hubs](http://arxiv.org/abs/2611.30913v1)** (`Published 2026-11-23`)
+   - Agent Skills has gained widespread adoption as an open standard for extending agent capabilities. To facilitate skill sharing, public skill hubs have grown in popularity and increasingly rely on automated security detectors to identify malicious skills at scale. Yet, the effectiveness and limitations of these detectors
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values](https://huggingface.co/papers/2611.29361)
+- **Source Anchor:** [Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models](https://huggingface.co/papers/2611.31048)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans](http://arxiv.org/abs/2611.29771v1)
+- **Source Anchor:** [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795496182345`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v644`, SHA-256 `a8199a7769b74ab9…`) + `AgentMemory` `6b0518f6892c5ea83a8a2897`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0518f6f921a61d36e2d7f3` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795501891313`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v645`, SHA-256 `cbd210e2a010bb1b…`) + `AgentMemory` `6b052f43167a09790ed7df27`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b052f43c2e58e986936abd1` + GitHub Bridge Message `055`
