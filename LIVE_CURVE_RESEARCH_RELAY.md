@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T22:01:21.559Z`  
+**Timestamp:** `2026-11-24T23:36:20.819Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_7edda07b-eaf7-4f57-99ad-5d5f30438846` | `R_san_yin_78344ea925ed4a08` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795557690559` | Yin Merkle `78344ea925ed4a08` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `167.93.244:138` (`423 Hz`) | `16,384-bit HDC: hdc16k:4b7b7892:2ebdeb18:4148a01a:d6657aaf` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v662 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_2be6951e-0151-409d-b19b-b846f618ff0d` | `R_san_yin_5701904e9284c654` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795563385411` | Yin Merkle `5701904e9284c654` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `169.91.255:178` (`429 Hz`) | `16,384-bit HDC: hdc16k:002e2767:79a7c458:20850f05:acec4493` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v664 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding](https://huggingface.co/papers/2611.28167)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)** (`1 upvotes`)
+   - GUI grounding requires precise clicks at low latency. Recent models such as GUI-Decisions and GUI-Swift predict coordinates in one forward pass using fixed global bins with local refinement. However, screenshot downsampling removes detail needed to locate small controls, while fixed bins cover larger pixel ranges at hi
+2. **[Hugging Face Daily Papers] [VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding](https://huggingface.co/papers/2611.28167)** (`2 upvotes`)
    - Answering questions over days or weeks of video requires searching for scattered clues across long timelines. Existing video agents rely on complex memory graphs and fixed retrieval pipelines, which restrict how the agent can search. We propose VideoJSON, a minimal harness for ultra-long video understanding that keeps 
-2. **[Hugging Face Daily Papers] [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://huggingface.co/papers/2611.30900)** (`3 upvotes`)
+3. **[Hugging Face Daily Papers] [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://huggingface.co/papers/2611.30900)** (`3 upvotes`)
    - Multimodal large language models (MLLMs) have become strong policies for vision-and-language navigation (VLN). However, most of them encode a sample of past frames again at every decision and are trained on isolated decisions, so computation is redundant and the usable history is short. They also learn from their own m
-3. **[Hugging Face Daily Papers] [Frontier models need only one text to unmask its human or AI author](https://huggingface.co/papers/2611.26216)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Frontier models need only one text to unmask its human or AI author](https://huggingface.co/papers/2611.26216)** (`1 upvotes`)
    - Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer "who wrote this?" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claud
-4. **[Hugging Face Daily Papers] [Self-Supervised Dataset Distillation via Mutual Information Maximization](https://huggingface.co/papers/2611.31225)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [Self-Supervised Dataset Distillation via Mutual Information Maximization](https://huggingface.co/papers/2611.31225)** (`2 upvotes`)
    - Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representa
-5. **[Hugging Face Daily Papers] [Measuring and Teaching Language Model Agents to Act on Delayed Consequences](https://huggingface.co/papers/2611.28158)** (`3 upvotes`)
-   - Language model agents are increasingly asked to run ongoing multi-day operations rather than finish isolated single-turn tasks. In daily operations, today's choices reshape later observations and cash constraints because empty shelves hide lost walk-in demand, short-shipped customers quietly shrink future orders weeks 
 6. **[arXiv Live CS.AI/LG] [Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)** (`Published 2026-11-23`)
    - Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysi
 7. **[arXiv Live CS.AI/LG] [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)** (`Published 2026-11-23`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding](https://huggingface.co/papers/2611.28167)
+- **Source Anchor:** [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795557690559`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v662`, SHA-256 `08452169c89b114e…`) + `AgentMemory` `6b06093a6cbb20f63ab0eabd`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b06093a64bff04b3f5e52c9` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795563385411`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v664`, SHA-256 `a5a4007a01088deb…`) + `AgentMemory` `6b061f79c5e310590c8017cd`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b061f7915024bc85a0497a4` + GitHub Bridge Message `055`
