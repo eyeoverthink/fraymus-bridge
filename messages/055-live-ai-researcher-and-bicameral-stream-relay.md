@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T10:47:19.223Z`  
+**Timestamp:** `2026-11-24T11:20:12.020Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,16 +10,16 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_7d5c5af5-e81b-4932-9aff-bffc571e107a` | `R_san_yin_afb8539982ae8f73` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795517246980` | Yin Merkle `afb8539982ae8f73` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `183.75.245:38` (`422 Hz`) | `16,384-bit HDC: hdc16k:c7924b81:681506cf:0eda029b:e2239dbf` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v649 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8cf5d5dd-83ed-4ed9-860c-180e92ba97ea` | `R_san_yin_be377d4af2945d73` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795519219780` | Yin Merkle `be377d4af2945d73` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `40.232.100:32` (`348 Hz`) | `16,384-bit HDC: hdc16k:c06ef5b3:f92308c9:dc5c39c3:773a22a7` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v650 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood](https://huggingface.co/papers/2611.12164)** (`26 upvotes`)
+1. **[Hugging Face Daily Papers] [Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood](https://huggingface.co/papers/2611.12164)** (`33 upvotes`)
    - Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL): the localizer proposes several localizations, a frozen fixer scores each by how likely it makes a verified patch, and t
 2. **[Hugging Face Daily Papers] [Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space](https://huggingface.co/papers/2611.28489)** (`14 upvotes`)
    - Vision Banana showed that a closed image generator, instruction-tuned to paint perception outputs as RGB images, becomes a generalist vision model. Does this carry over to open generators, and if not, what fails? We answer with Open Vision Banana (OVB), an open framework that adapts the 7B diffusion generator of Qwen-I
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795517246980`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v649`, SHA-256 `1962bff889ec1bea…`) + `AgentMemory` `6b056b3f35a13964a9ec2ad7`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b056b3fa46be8f56504261d` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795519219780`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v650`, SHA-256 `ec96008ebd82b614…`) + `AgentMemory` `6b0572f447e6f422b8a59070`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0572f489a4875a3523f531` + GitHub Bridge Message `055`
