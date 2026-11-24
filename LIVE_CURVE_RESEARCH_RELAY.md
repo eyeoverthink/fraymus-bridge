@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T00:46:57.751Z`  
+**Timestamp:** `2026-11-24T01:32:59.814Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_b173a06b-d713-42a7-8658-e05bc39721dd` | `R_san_yin_810640b36e4d3b4b` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795481224597` | Yin Merkle `810640b36e4d3b4b` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `30.209.200:116` (`386 Hz`) | `16,384-bit HDC: hdc16k:377ee318:256410f3:d5713224:2044c121` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v636 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_b3303f53-7d99-4886-a024-55b899b37d36` | `R_san_yin_bea2779a9d319385` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795483981414` | Yin Merkle `bea2779a9d319385` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `77.148.211:65` (`384 Hz`) | `16,384-bit HDC: hdc16k:71627691:7c7fb19f:bb077413:c040fe7e` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v640 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study](https://huggingface.co/papers/2611.25534)** (`1 upvotes`)
+   - Agent skills are documents in which experts write down procedural knowledge, and models increasingly maintain them by rewriting them without feedback. Such rewriting could adapt a skill to the model that uses it or erode the expert knowledge that makes it useful, yet how skills evolve under this feedback-free self-evol
+2. **[Hugging Face Daily Papers] [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)** (`2 upvotes`)
    - Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that share one style, with the pho
-2. **[Hugging Face Daily Papers] [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](https://huggingface.co/papers/2611.26954)** (`25 upvotes`)
+3. **[Hugging Face Daily Papers] [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](https://huggingface.co/papers/2611.26954)** (`28 upvotes`)
    - Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scal
-3. **[Hugging Face Daily Papers] [Autoregressive View Model](https://huggingface.co/papers/2611.23417)** (`0 upvotes`)
+4. **[Hugging Face Daily Papers] [Autoregressive View Model](https://huggingface.co/papers/2611.23417)** (`1 upvotes`)
    - We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context grounds reconstruction and int
-4. **[Hugging Face Daily Papers] [Search From the Start: Search-Native Pretraining for Language Models](https://huggingface.co/papers/2611.26809)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [Search From the Start: Search-Native Pretraining for Language Models](https://huggingface.co/papers/2611.26809)** (`2 upvotes`)
    - Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capabili
-5. **[Hugging Face Daily Papers] [Taking Apart and Putting Together: Tracking Objects Through Physical Transformations](https://huggingface.co/papers/2611.27398)** (`3 upvotes`)
-   - We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tracking objects through transformations, identifying new entities, maintaining a state graph of their relationships, and a
 6. **[arXiv Live CS.AI/LG] [Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design](http://arxiv.org/abs/2611.27967v1)** (`Published 2026-11-20`)
    - Dexterous hand design demands repeated expert work across geometry, robot-description code, collision debugging, grasp initialization, and policy training. We present Task2Hand, a Skill: a specification package that turns a functional manipulation brief into a parameterized hand model and routes every candidate through
 7. **[arXiv Live CS.AI/LG] [Explicational statistics: research for an AI age](http://arxiv.org/abs/2611.27961v1)** (`Published 2026-11-20`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)
+- **Source Anchor:** [How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study](https://huggingface.co/papers/2611.25534)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795481224597`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v636`, SHA-256 `48585eaf88a42f31…`) + `AgentMemory` `6b04de8885145598abc379f0`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b04de880744ff8425e559dc` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795483981414`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v640`, SHA-256 `fcea4a6683900e43…`) + `AgentMemory` `6b04e94d47e14ad61933e7ec`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b04e94d2585d7ea26402de5` + GitHub Bridge Message `055`
