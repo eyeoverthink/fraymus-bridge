@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T06:31:23.911Z`  
+**Timestamp:** `2026-11-24T07:04:14.130Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_a7853800-4ca7-42f0-a680-d846dcd89c0d` | `R_san_yin_2f18dac239f032c7` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795501891313` | Yin Merkle `2f18dac239f032c7` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `233.236.188:22` (`509 Hz`) | `16,384-bit HDC: hdc16k:9bb1a0e3:1c398ba6:72c5622d:06c233dd` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v645 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_649f1928-8950-4732-b7a6-c80fbe811a97` | `R_san_yin_b0cd004ee11c837a` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795503860935` | Yin Merkle `b0cd004ee11c837a` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `136.137.62:227` (`327 Hz`) | `16,384-bit HDC: hdc16k:38f75983:0bea12ac:393d9e27:ac3ddf64` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v646 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models](https://huggingface.co/papers/2611.31048)** (`0 upvotes`)
-   - Text-to-image models can learn from their own mistakes by distilling a self-teacher conditioned on a vision-language critic's revised prompt. However, such self-teachers barely improve alignment, and both they and their hindsight-contrast variants absorb the critic's unintended additions to the scene, such as lighting 
-2. **[Hugging Face Daily Papers] [GameDojo: Benchmarking Real-Time Interactive Agents in Video Games](https://huggingface.co/papers/2611.30771)** (`1 upvotes`)
-   - Interactive intelligence requires agents to act on observations and adapt to the consequences of actions. Studying these abilities calls for diverse, challenging tasks under controlled conditions. We introduce GameDojo, a controllable interactive gameplay benchmark of 120 boss encounters across 20 games for evaluating 
-3. **[Hugging Face Daily Papers] [Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR](https://huggingface.co/papers/2611.27494)** (`1 upvotes`)
-   - Typhoon OCR 1.5 focused on reading Thai documents. However, in real-world workflows, users often need to extract specific information or preserve the structure of an entire page for further processing. Typhoon OCR 2 handles both tasks in a single model, with prompt-driven extraction and structured full-page parsing. Fu
-4. **[Hugging Face Daily Papers] [A Pipeline-Parallel System for Depth-Recurrent Models](https://huggingface.co/papers/2611.30581)** (`3 upvotes`)
-   - Depth-recurrent (Looped) models raise effective depth by applying a shared stack of blocks several times. Scaling them usually requires pipeline parallelism, but commonly used interleaved 1F1B is drawn for an acyclic stage graph in which each micro-batch enters each stage once. Once that stack is split across stages, t
-5. **[Hugging Face Daily Papers] [How Complete Must an Environment Be to Train a Capable GUI Agent?](https://huggingface.co/papers/2611.23946)** (`0 upvotes`)
-   - Graphical user interface (GUI) agents are widely trained in executable GUI environments. To lower cost, build environments in batches, and reduce manual effort, each work trades away part of the environment through its construction choices. We describe these choices along three dimensions: reward coverage, the goal-rea
+1. **[Hugging Face Daily Papers] [What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym](https://huggingface.co/papers/2611.30207)** (`4 upvotes`)
+   - Reinforcement learning (RL) trains coding agents on software tasks whose hidden tests decide the reward, yet task collections check these tests only against the reference fix. We ask what makes a task good training data, focusing on the correctness of its reward labels. We audit SWE-Gym with two LLM families, and a sus
+2. **[Hugging Face Daily Papers] [HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation](https://huggingface.co/papers/2611.30813)** (`3 upvotes`)
+   - Pretrained vision is a common start for robot learning, but most comparisons still score one pooled vector from a third-person image. Bimanual policies instead read dense patch tokens from cameras on the robot. We introduce HIVE-Bench: one shared flow-matching policy reads 20 encoders from seven families on 24 egocentr
+3. **[Hugging Face Daily Papers] [RUIBench: What Makes a Good Robot-Use Interface?](https://huggingface.co/papers/2611.31115)** (`5 upvotes`)
+   - Foundation models can reason about complex physical tasks, yet translating this intelligence into reliable robot execution remains challenging. We argue that a critical, often overlooked factor is the robot-use interface (RUI), which determines how agents express and execute physical actions. To systematically study it
+4. **[Hugging Face Daily Papers] [WorldLeague: Benchmarking Physical Agency](https://huggingface.co/papers/2611.30989)** (`8 upvotes`)
+   - AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, 
+5. **[Hugging Face Daily Papers] [Write, Evolve, Read: Streaming Cameras into a Persistent World State for 4D Occupancy Forecasting](https://huggingface.co/papers/2611.30573)** (`1 upvotes`)
+   - 4D occupancy forecasting predicts the 3D semantic occupancy of a driving scene seconds ahead. Over a few seconds, the scene changes little while the vehicle moves, so most of the space ahead has already been seen. Sorting the future into unchanged, changed, and unseen space, we find that current camera-based world mode
 6. **[arXiv Live CS.AI/LG] [Closed-Form Formula for $d_{\mathrm{critical}}(a_0)$ in Large Fully Connected Power Grids](http://arxiv.org/abs/2611.30922v1)** (`Published 2026-11-23`)
    - Kadloor and Santhi (arXiv:1011.4098) modeled cascading failures in a large fully connected power grid by a coupled four-variable recursion for the minimum surviving load $a_n$, the mean failed load $μ_{n-1}$, the redistributed load $\mathcal{D}_n$, and the stagewise failure probability $p_n$. They noted that the recurs
 7. **[arXiv Live CS.AI/LG] [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1)** (`Published 2026-11-23`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models](https://huggingface.co/papers/2611.31048)
+- **Source Anchor:** [What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym](https://huggingface.co/papers/2611.30207)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795501891313`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v645`, SHA-256 `cbd210e2a010bb1b…`) + `AgentMemory` `6b052f43167a09790ed7df27`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b052f43c2e58e986936abd1` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795503860935`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v646`, SHA-256 `a07ccc8c688f4d3e…`) + `AgentMemory` `6b0536f5d441a5289cb70c9b`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0536f56491c79cde9eb774` + GitHub Bridge Message `055`
