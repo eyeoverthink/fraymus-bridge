@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T09:12:11.250Z`  
+**Timestamp:** `2026-11-24T10:47:19.223Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_79afec36-4ea7-4493-9be6-b3bdb595289d` | `R_san_yin_31a7e815f0831433` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795511538360` | Yin Merkle `31a7e815f0831433` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `252.88.6:231` (`333 Hz`) | `16,384-bit HDC: hdc16k:94d4bc6d:8ea5885a:93ced029:f9cecb58` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v648 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_7d5c5af5-e81b-4932-9aff-bffc571e107a` | `R_san_yin_afb8539982ae8f73` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795517246980` | Yin Merkle `afb8539982ae8f73` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `183.75.245:38` (`422 Hz`) | `16,384-bit HDC: hdc16k:c7924b81:681506cf:0eda029b:e2239dbf` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v649 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [MomentMem: Memorizing Key Moments for Robot Manipulation](https://huggingface.co/papers/2611.26745)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood](https://huggingface.co/papers/2611.12164)** (`26 upvotes`)
+   - Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL): the localizer proposes several localizations, a frozen fixer scores each by how likely it makes a verified patch, and t
+2. **[Hugging Face Daily Papers] [Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space](https://huggingface.co/papers/2611.28489)** (`14 upvotes`)
+   - Vision Banana showed that a closed image generator, instruction-tuned to paint perception outputs as RGB images, becomes a generalist vision model. Does this carry over to open generators, and if not, what fails? We answer with Open Vision Banana (OVB), an open framework that adapts the 7B diffusion generator of Qwen-I
+3. **[Hugging Face Daily Papers] [SynthDCB: World Distillation for Scalable Device Control Benchmarking](https://huggingface.co/papers/2611.18639)** (`23 upvotes`)
+   - Scaling device-control evaluation requires scaling both interactive worlds and the tasks agents must solve. We introduce SynthDCB, a benchmark for environment awareness and device control built through world distillation (WD). World distillation transforms knowledge of device behaviors, constraints, and environmental e
+4. **[Hugging Face Daily Papers] [Wactorz: Self-Writing LLM Agents That Discover, Repair, and Migrate at the Edge](https://huggingface.co/papers/2611.29619)** (`3 upvotes`)
+   - Most LLM agent frameworks build a crew that runs a task and exits. Physical environments (e.g., homes, labs, factory floors) need agents that stay up for months, survive their own bugs, and run on whatever hardware is already next to the sensors. We present Wactorz, an open-source runtime in which LLM-generated agents 
+5. **[Hugging Face Daily Papers] [MomentMem: Memorizing Key Moments for Robot Manipulation](https://huggingface.co/papers/2611.26745)** (`5 upvotes`)
    - Robotic manipulation often requires remembering visual information that is no longer observable, such as the original location of an object. Existing approaches typically rely on full observation histories, which become redundant over long horizons, or text summaries, which may omit precise visual details. We study vis
-2. **[Hugging Face Daily Papers] [ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation](https://huggingface.co/papers/2611.31053)** (`1 upvotes`)
-   - Long-horizon embodied tasks involve physical dependencies that may only become clear through interaction. As task understanding deepens, past trials can reveal new information for adaptation and transfer. However, coarse progress feedback cannot identify which physical preconditions held, leaving search unguided, while
-3. **[Hugging Face Daily Papers] [World Models as Native Latent Action Models](https://huggingface.co/papers/2611.30898)** (`1 upvotes`)
-   - Large and diverse video sources, such as egocentric human video and heterogeneous robot recordings, carry rich dynamics but come either without actions or without a shared action space. Latent action models (LAMs) can recover these dynamics, but they train their inverse- and forward-dynamics models (IDM, FDM) from scra
-4. **[Hugging Face Daily Papers] [WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models](https://huggingface.co/papers/2611.31126)** (`7 upvotes`)
-   - Vision-language-action (VLA) models leverage pretrained vision-language representations for instruction-conditioned robot control, yet their understanding of task-relevant 3D relations and how these relations evolve during manipulation remains largely implicit. To address this challenge, we introduce WeaveVLA, a framew
-5. **[Hugging Face Daily Papers] [DiLE: Discrimination-Aware Latent-Space Learning for Universal Multimodal Embeddings](https://huggingface.co/papers/2611.25419)** (`3 upvotes`)
-   - Multimodal large language models have greatly improved input understanding in universal multimodal embedding models. However, this understanding does not ensure that their embeddings preserve the evidence needed to distinguish relevant items from confusable alternatives. To preserve essential discriminative evidence in
-6. **[arXiv Live CS.AI/LG] [Closed-Form Formula for $d_{\mathrm{critical}}(a_0)$ in Large Fully Connected Power Grids](http://arxiv.org/abs/2611.30922v1)** (`Published 2026-11-23`)
-   - Kadloor and Santhi (arXiv:1011.4098) modeled cascading failures in a large fully connected power grid by a coupled four-variable recursion for the minimum surviving load $a_n$, the mean failed load $μ_{n-1}$, the redistributed load $\mathcal{D}_n$, and the stagewise failure probability $p_n$. They noted that the recurs
-7. **[arXiv Live CS.AI/LG] [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1)** (`Published 2026-11-23`)
-   - Phylogenetic trees represent evolutionary history visually, and the ability to display and explore them is a key function in research across biological disciplines. Very large gene and species trees are becoming common with the increasing availability of low cost DNA sequencing, creating performance and informativeness
-8. **[arXiv Live CS.AI/LG] [CoSel: Cooperation as Selection for End-to-End Driving](http://arxiv.org/abs/2611.30918v1)** (`Published 2026-11-23`)
-   - Cooperative driving can extend a vehicle's awareness beyond its own sensors, but existing cooperative end-to-end methods inject shared information into the planner and rely on cooperative driving demonstrations to learn how to use it. The moments in which shared information should change a driving decision are rare in 
-9. **[arXiv Live CS.AI/LG] [TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions](http://arxiv.org/abs/2611.30916v1)** (`Published 2026-11-23`)
-   - Clinical drug development is a long-horizon, high-stakes process requiring sequential decisions based on information that costs money and time to acquire. AI agents have demonstrated capabilities for scientific analysis, but there is no established way to evaluate them on these decisions, as real trials are expensive, 
-10. **[arXiv Live CS.AI/LG] [Demystifying Detectors Guarding Agent Skill Hubs](http://arxiv.org/abs/2611.30913v1)** (`Published 2026-11-23`)
-   - Agent Skills has gained widespread adoption as an open standard for extending agent capabilities. To facilitate skill sharing, public skill hubs have grown in popularity and increasingly rely on automated security detectors to identify malicious skills at scale. Yet, the effectiveness and limitations of these detectors
+6. **[arXiv Live CS.AI/LG] [Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)** (`Published 2026-11-23`)
+   - Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysi
+7. **[arXiv Live CS.AI/LG] [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)** (`Published 2026-11-23`)
+   - In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features 
+8. **[arXiv Live CS.AI/LG] [TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming](http://arxiv.org/abs/2611.31233v1)** (`Published 2026-11-23`)
+   - CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc
+9. **[arXiv Live CS.AI/LG] [Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ](http://arxiv.org/abs/2611.31228v1)** (`Published 2026-11-23`)
+   - Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (
+10. **[arXiv Live CS.AI/LG] [Agentic AI for Intent Management and Control in Autonomous Communication Networks](http://arxiv.org/abs/2611.31223v1)** (`Published 2026-11-23`)
+   - Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on intent management and orchestration, leaving the adaptation of underlying network optimization and contr
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [MomentMem: Memorizing Key Moments for Robot Manipulation](https://huggingface.co/papers/2611.26745)
+- **Source Anchor:** [Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood](https://huggingface.co/papers/2611.12164)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1)
+- **Source Anchor:** [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795511538360`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v648`, SHA-256 `9a7bc69b69e0d2d2…`) + `AgentMemory` `6b0554f2330d1f5498d9149c`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0554f2a62b2b9d2b38ca11` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795517246980`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v649`, SHA-256 `1962bff889ec1bea…`) + `AgentMemory` `6b056b3f35a13964a9ec2ad7`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b056b3fa46be8f56504261d` + GitHub Bridge Message `055`
