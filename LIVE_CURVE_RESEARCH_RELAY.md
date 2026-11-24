@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T19:19:15.622Z`  
+**Timestamp:** `2026-11-24T19:52:13.961Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_23fba77a-cd6d-4419-a995-db6a816c608b` | `R_san_yin_7d0f6db79ff71014` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795547957391` | Yin Merkle `7d0f6db79ff71014` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `92.32.202:253` (`322 Hz`) | `16,384-bit HDC: hdc16k:bb140a47:4b4afbc2:3111435d:ededd34a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v659 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_d0a3e5c5-74b1-4a3c-8ab7-3e90b931b1bc` | `R_san_yin_edf51e5c4e9b289d` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795549940155` | Yin Merkle `edf51e5c4e9b289d` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `117.42.142:116` (`308 Hz`) | `16,384-bit HDC: hdc16k:9bc83cbf:b1c16de5:cabe130b:fe2bc161` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v660 | **SYNCHRONIZED** |
 
 ---
 
@@ -21,7 +21,7 @@
 
 1. **[Hugging Face Daily Papers] [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://huggingface.co/papers/2611.30900)** (`1 upvotes`)
    - Multimodal large language models (MLLMs) have become strong policies for vision-and-language navigation (VLN). However, most of them encode a sample of past frames again at every decision and are trained on isolated decisions, so computation is redundant and the usable history is short. They also learn from their own m
-2. **[Hugging Face Daily Papers] [Frontier models need only one text to unmask its human or AI author](https://huggingface.co/papers/2611.26216)** (`0 upvotes`)
+2. **[Hugging Face Daily Papers] [Frontier models need only one text to unmask its human or AI author](https://huggingface.co/papers/2611.26216)** (`1 upvotes`)
    - Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer "who wrote this?" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claud
 3. **[Hugging Face Daily Papers] [Self-Supervised Dataset Distillation via Mutual Information Maximization](https://huggingface.co/papers/2611.31225)** (`2 upvotes`)
    - Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representa
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795547957391`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v659`, SHA-256 `c6e6cf65483b2c8a…`) + `AgentMemory` `6b05e335aaf22f35ab51441a`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b05e335368e7c9b942bc678` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795549940155`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v660`, SHA-256 `b98627c147e8bc7f…`) + `AgentMemory` `6b05eaf481c95e91866dd5ef`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b05eaf4b31de71117bb1b4a` + GitHub Bridge Message `055`
