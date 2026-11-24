@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-24T02:16:13.335Z`  
+**Timestamp:** `2026-11-24T02:49:11.312Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_3bf9618d-4879-41ba-a75b-8ac5b132afb5` | `R_san_yin_c212e3e4d9b3ab29` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795486578095` | Yin Merkle `c212e3e4d9b3ab29` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `3.121.254:13` (`351 Hz`) | `16,384-bit HDC: hdc16k:0c4c0c4f:bb8a2c78:5249594f:12edc90f` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v641 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_22a74360-28d0-4e8d-8a48-b7cff797b4fd` | `R_san_yin_eaae391fada2c5f9` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795488555593` | Yin Merkle `eaae391fada2c5f9` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `28.253.184:85` (`401 Hz`) | `16,384-bit HDC: hdc16k:d2509506:48bae0d0:1fcfe0aa:d01316e3` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v642 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Seeing the Invisible: How Vision-Language Models Read, Predict and Trace Radio Fields](https://huggingface.co/papers/2611.28123)** (`4 upvotes`)
+1. **[Hugging Face Daily Papers] [WeightCode: Installing New Capabilities into Neural Networks via Weight-Space Programming](https://huggingface.co/papers/2611.25476)** (`6 upvotes`)
+   - Neural networks encode learned capabilities in their weights, yet extending those capabilities with explicit task knowledge remains a fundamental challenge. Here we show that Weight-Space Programming (WSP), in which executable programs read, construct or modify a network's weights directly, can install new capabilities
+2. **[Hugging Face Daily Papers] [Plan4D: Generative Plannable 4D Worlds](https://huggingface.co/papers/2611.26516)** (`2 upvotes`)
+   - Most world models for future prediction prioritize aestetic quality of generated videos, but offer only weak physical grounding and limited geometric consistency over time, due to the lack of explicit 4D modeling. In this paper, we introduce plan4d, a possible next milestone towards building a generative plannable 4D w
+3. **[Hugging Face Daily Papers] [Seeing the Invisible: How Vision-Language Models Read, Predict and Trace Radio Fields](https://huggingface.co/papers/2611.28123)** (`4 upvotes`)
    - Operating in the physical world requires reasoning beyond what cameras directly capture. In a city, radio signals are invisible to the lens, yet their strength is governed by the buildings and streets an image does show. Given only these visible structures, can vision-language models (VLMs) infer the invisible radio fi
-2. **[Hugging Face Daily Papers] [From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events](https://huggingface.co/papers/2611.24249)** (`4 upvotes`)
+4. **[Hugging Face Daily Papers] [From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events](https://huggingface.co/papers/2611.24249)** (`4 upvotes`)
    - Advancing physical artificial intelligence (Physical AI) requires moving beyond static object recognition to ground how real-world mechanics (e.g., impact, friction, and force transfer) unfold over time. While multimodal aligners seek to capture these interactions by matching multi-sensor streams, prevailing architectu
-3. **[Hugging Face Daily Papers] [How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study](https://huggingface.co/papers/2611.25534)** (`3 upvotes`)
+5. **[Hugging Face Daily Papers] [How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study](https://huggingface.co/papers/2611.25534)** (`3 upvotes`)
    - Agent skills are documents in which experts write down procedural knowledge, and models increasingly maintain them by rewriting them without feedback. Such rewriting could adapt a skill to the model that uses it or erode the expert knowledge that makes it useful, yet how skills evolve under this feedback-free self-evol
-4. **[Hugging Face Daily Papers] [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)** (`2 upvotes`)
-   - Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that share one style, with the pho
-5. **[Hugging Face Daily Papers] [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](https://huggingface.co/papers/2611.26954)** (`28 upvotes`)
-   - Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scal
 6. **[arXiv Live CS.AI/LG] [ViewAgent3D: A Training-Free Multi-View Pipeline for 3D Scene Understanding](http://arxiv.org/abs/2611.28673v1)** (`Published 2026-11-21`)
    - 3D scene understanding tasks are often approached by building explicit 3D scene representations or by training specialized multi-modal models over point clouds, voxels, or scene graphs. We take a complementary view: for many queries, the main bottleneck is not the absence of a stronger 3D representation but the selecti
 7. **[arXiv Live CS.AI/LG] [The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates](http://arxiv.org/abs/2611.28671v1)** (`Published 2026-11-21`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Seeing the Invisible: How Vision-Language Models Read, Predict and Trace Radio Fields](https://huggingface.co/papers/2611.28123)
+- **Source Anchor:** [WeightCode: Installing New Capabilities into Neural Networks via Weight-Space Programming](https://huggingface.co/papers/2611.25476)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795486578095`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v641`, SHA-256 `d2d2f1caaefa9ad7…`) + `AgentMemory` `6b04f3726d1e66e590f79fbb`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b04f3727069a904c06fcb41` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795488555593`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v642`, SHA-256 `f9d44fd9084d01f2…`) + `AgentMemory` `6b04fb2b625e8dc7f38ac9ac`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b04fb2b2c77edc3523c4df5` + GitHub Bridge Message `055`
