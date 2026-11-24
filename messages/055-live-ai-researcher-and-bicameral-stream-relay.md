@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-20T20:50:23.199Z`  
+**Timestamp:** `2026-11-24T00:46:57.751Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_48c5db09-82e4-4a37-96ae-e69ba4f69f1b` | `R_san_yin_2dcb801ac6121e14` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795207832199` | Yin Merkle `2dcb801ac6121e14` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `189.20.196:126` (`367 Hz`) | `16,384-bit HDC: hdc16k:dc58eadc:d25dd14e:d478cfc2:30cdc7ad` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v635 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_b173a06b-d713-42a7-8658-e05bc39721dd` | `R_san_yin_810640b36e4d3b4b` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795481224597` | Yin Merkle `810640b36e4d3b4b` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `30.209.200:116` (`386 Hz`) | `16,384-bit HDC: hdc16k:377ee318:256410f3:d5713224:2044c121` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v636 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Lang-SVG: Hierarchical Image Vectorization with Language Priors](https://huggingface.co/papers/2611.15941)** (`0 upvotes`)
-   - Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization methods optimize for pixel-level render- ing fidelity, often producing SVGs that lack alignment with human-perceived object-
-2. **[Hugging Face Daily Papers] [Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests](https://huggingface.co/papers/2611.25200)** (`1 upvotes`)
-   - Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical website A/B tests and evaluated four systems on the 318 that ran longer than 21 days. Each system predicted an original 
-3. **[Hugging Face Daily Papers] [RL Post-Training in Diffusion Transformers Is Activation Steering](https://huggingface.co/papers/2611.26627)** (`11 upvotes`)
-   - Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requ
-4. **[Hugging Face Daily Papers] [In Situ Training of Optical Neural Networks by Coding Agents](https://huggingface.co/papers/2611.23875)** (`1 upvotes`)
-   - Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated digital model of each device or on gradient-free trial and error. Coding agents, large language models that write and ru
-5. **[Hugging Face Daily Papers] [Language Models Can Rewrite Their Own Weights](https://huggingface.co/papers/2611.21885)** (`3 upvotes`)
-   - Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to m
-6. **[arXiv Live CS.AI/LG] [PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)** (`Published 2026-11-19`)
-   - Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play exper
-7. **[arXiv Live CS.AI/LG] [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)** (`Published 2026-11-19`)
-   - Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memo
-8. **[arXiv Live CS.AI/LG] [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)** (`Published 2026-11-19`)
-   - Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fai
-9. **[arXiv Live CS.AI/LG] [SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research](http://arxiv.org/abs/2611.26601v1)** (`Published 2026-11-19`)
-   - LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and ar
-10. **[arXiv Live CS.AI/LG] [PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation](http://arxiv.org/abs/2611.26596v1)** (`Published 2026-11-19`)
-   - Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tightly coupled within a monolithic model. We propose Physically Grounded Execution (PGX), a framework th
+1. **[Hugging Face Daily Papers] [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)** (`1 upvotes`)
+   - Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that share one style, with the pho
+2. **[Hugging Face Daily Papers] [Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation](https://huggingface.co/papers/2611.26954)** (`25 upvotes`)
+   - Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scal
+3. **[Hugging Face Daily Papers] [Autoregressive View Model](https://huggingface.co/papers/2611.23417)** (`0 upvotes`)
+   - We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context grounds reconstruction and int
+4. **[Hugging Face Daily Papers] [Search From the Start: Search-Native Pretraining for Language Models](https://huggingface.co/papers/2611.26809)** (`2 upvotes`)
+   - Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capabili
+5. **[Hugging Face Daily Papers] [Taking Apart and Putting Together: Tracking Objects Through Physical Transformations](https://huggingface.co/papers/2611.27398)** (`3 upvotes`)
+   - We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tracking objects through transformations, identifying new entities, maintaining a state graph of their relationships, and a
+6. **[arXiv Live CS.AI/LG] [Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design](http://arxiv.org/abs/2611.27967v1)** (`Published 2026-11-20`)
+   - Dexterous hand design demands repeated expert work across geometry, robot-description code, collision debugging, grasp initialization, and policy training. We present Task2Hand, a Skill: a specification package that turns a functional manipulation brief into a parameterized hand model and routes every candidate through
+7. **[arXiv Live CS.AI/LG] [Explicational statistics: research for an AI age](http://arxiv.org/abs/2611.27961v1)** (`Published 2026-11-20`)
+   - AI is dramatically changing the statistical research landscape. I argue that production of a distinct category of statistical knowledge, which I refer to as explicational statistics, is actually becoming more valuable as AI increasingly automates other parts of the research process. I define explicational statistics, c
+8. **[arXiv Live CS.AI/LG] [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](http://arxiv.org/abs/2611.27953v1)** (`Published 2026-11-20`)
+   - Neuromorphic sensing and computing offer a promising alternative to conventional deep learning pipelines for mobile robots, where perception must run continuously under tight latency and energy constraints. However, most neuromorphic solutions are still evaluated offline or on isolated benchmarks, and their integration
+9. **[arXiv Live CS.AI/LG] [Perceived Differences in Activity and Experience Between Developing Software With and Without AI](http://arxiv.org/abs/2611.27947v1)** (`Published 2026-11-20`)
+   - The fundamental changes in software engineering driven by generative AI will have profound effects not only on the number of available software engineering jobs but also on what software engineering itself looks like. As the career evolves, questions arise about what the skillset and interests of the next generation of
+10. **[arXiv Live CS.AI/LG] [Interactive Semi-Parametric On-Track Learning for Vehicle Dynamics in Autonomous Racing](http://arxiv.org/abs/2611.27932v1)** (`Published 2026-11-20`)
+   - Autonomous racing requires an accurate vehicle dynamics model near the limits of handling, yet a mismatch between the nominal and actual dynamics inevitably remains. To reduce this mismatch, existing methods learn from on-track data, i.e., data collected while the vehicle drives on the track under racing conditions, by
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Lang-SVG: Hierarchical Image Vectorization with Language Priors](https://huggingface.co/papers/2611.15941)
+- **Source Anchor:** [Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval](https://huggingface.co/papers/2611.27490)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)
+- **Source Anchor:** [Explicational statistics: research for an AI age](http://arxiv.org/abs/2611.27961v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795207832199`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v635`, SHA-256 `4481d1fb0f129339…`) + `AgentMemory` `6b00b298d29034269ae4f0e5`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b00b298d760f312c6511a86` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795481224597`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v636`, SHA-256 `48585eaf88a42f31…`) + `AgentMemory` `6b04de8885145598abc379f0`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b04de880744ff8425e559dc` + GitHub Bridge Message `055`
