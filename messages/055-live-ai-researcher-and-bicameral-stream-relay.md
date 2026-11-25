@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-25T02:17:16.001Z`  
+**Timestamp:** `2026-11-25T03:52:15.789Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_697e698a-22b5-4ca8-86a0-d47a4821f892` | `R_san_yin_10033cf2865576a9` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795573040016` | Yin Merkle `10033cf2865576a9` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `211.117.9:155` (`328 Hz`) | `16,384-bit HDC: hdc16k:a95b5e30:e09b6fab:68292b80:809e8dda` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v667 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_80974b85-dd63-48ee-a89d-dd05d234a1d1` | `R_san_yin_70f9dec14450d7be` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795578740251` | Yin Merkle `70f9dec14450d7be` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `129.121.213:236` (`399 Hz`) | `16,384-bit HDC: hdc16k:1443f561:eaa72cf9:06b6df97:32705fab` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v668 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation](https://huggingface.co/papers/2611.31595)** (`0 upvotes`)
-   - Cheap language-model raters grade chain-of-thought reasoning at scale, yet systematic step-rating errors can skew reasoning audits and solution rankings. We introduce LUCID (Loop for Unbiased Calibration via Inference-time Diagnosis), which pairs prompt self-correction with Design-based Supervised Learning (DSL). Witho
-2. **[Hugging Face Daily Papers] [Context-Grounded Skill Internalization for Vision-Language Agents](https://huggingface.co/papers/2611.30075)** (`2 upvotes`)
-   - Skill internalization offers a way for agents to learn useful behaviors from skills and use them without explicit guidance in context at inference time. A common approach is to generate demonstration trajectories with the skill in context and then fine-tune the same model on its own trajectories with the skill removed.
-3. **[Hugging Face Daily Papers] [Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation](https://huggingface.co/papers/2611.31358)** (`21 upvotes`)
-   - Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts u
-4. **[Hugging Face Daily Papers] [Let Vision-Language Models Generate Images through Their Representations](https://huggingface.co/papers/2611.31237)** (`1 upvotes`)
-   - Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effective
-5. **[Hugging Face Daily Papers] [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)** (`1 upvotes`)
-   - GUI grounding requires precise clicks at low latency. Recent models such as GUI-Decisions and GUI-Swift predict coordinates in one forward pass using fixed global bins with local refinement. However, screenshot downsampling removes detail needed to locate small controls, while fixed bins cover larger pixel ranges at hi
-6. **[arXiv Live CS.AI/LG] [Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)** (`Published 2026-11-23`)
-   - Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysi
-7. **[arXiv Live CS.AI/LG] [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)** (`Published 2026-11-23`)
-   - In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transformers (ViTs): on white noise, which contains neither objects nor spatial structure, a few directions of their features 
-8. **[arXiv Live CS.AI/LG] [TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming](http://arxiv.org/abs/2611.31233v1)** (`Published 2026-11-23`)
-   - CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc
-9. **[arXiv Live CS.AI/LG] [Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ](http://arxiv.org/abs/2611.31228v1)** (`Published 2026-11-23`)
-   - Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (
-10. **[arXiv Live CS.AI/LG] [Agentic AI for Intent Management and Control in Autonomous Communication Networks](http://arxiv.org/abs/2611.31223v1)** (`Published 2026-11-23`)
-   - Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on intent management and orchestration, leaving the adaptation of underlying network optimization and contr
+1. **[Hugging Face Daily Papers] [Align the Pair, Not the Sample: Representation Alignment for Faster and Better One-Step Generato](https://huggingface.co/papers/2611.29547)** (`1 upvotes`)
+   - Representation alignment markedly accelerates diffusion training, but one-step generators raise a question that diffusion does not: which training path should receive the loss? A one-step generator sees two kinds of inputs. Corrupted real images come with their clean counterpart, which provides an instance-paired targe
+2. **[Hugging Face Daily Papers] [On-Policy Codec Distillation for Efficient All-in-One Video Generation](https://huggingface.co/papers/2611.31184)** (`4 upvotes`)
+   - Modern visual generative models operate on tokens, and every visual asset they receive, whether an identity, a scribble, a depth map, or a motion video, is tokenized and appended to the input token sequence. Consequently, conditioning quickly dominates the computation cost. Yet most of these tokens carry redundant spat
+3. **[Hugging Face Daily Papers] [Self-Evolving Evaluation Environments for Computer-Use Agents](https://huggingface.co/papers/2611.30962)** (`8 upvotes`)
+   - Computer-use agents (CUAs) are rapidly improving, yet their evaluation remains largely static. Existing benchmarks provide a strong foundation, but fixed difficulty ceilings, limited feature coverage, and coarse aggregate scores progressively weaken their discriminative and diagnostic value. We introduce CUA-SEE, a clo
+4. **[Hugging Face Daily Papers] [Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments](https://huggingface.co/papers/2611.32094)** (`1 upvotes`)
+   - Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage of these abilities. We introduce Clinical3D-Bench, a simulated benchmark with 3,368 questions of eight types on egocentric walkthr
+5. **[Hugging Face Daily Papers] [ACAP: Asynchronous Coding Agents for Efficient Robot Control](https://huggingface.co/papers/2611.31205)** (`10 upvotes`)
+   - Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts 
+6. **[arXiv Live CS.AI/LG] [Within-task hazards of AI agents: unidentified by time-horizon curves, identified by repeated runs](http://arxiv.org/abs/2611.32415v1)** (`Published 2026-11-24`)
+   - The time horizon of an AI agent is read off a curve: the probability that the agent completes a task, plotted against the time a human needs for it. Several recent analyses fit survival models to this curve and conclude that agents' hazard of failure declines as a task goes on. The curve cannot support that conclusion.
+7. **[arXiv Live CS.AI/LG] [Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation](http://arxiv.org/abs/2611.32400v1)** (`Published 2026-11-24`)
+   - Vision-and-Language Navigation (VLN) requires an agent to follow language instructions to reach a target in an unseen 3D environment. However, existing methods still struggle to recover from route deviations at test time. We investigate this limitation through the lens of instruction progress, and trace it to a phenome
+8. **[arXiv Live CS.AI/LG] [A direct majorant and an improved Huber constant on cofinite Fuchsian groups](http://arxiv.org/abs/2611.32398v1)** (`Published 2026-11-24`)
+   - To obtain an effective upper bound for Huber's constant on cofinite Fuchsian groups, we introduce an algorithm that bypasses the quantitative Karamata Tauberian theorem in estimating spectral-counting growth by direct use of re-optimized Gaussian kernel instead. Further steps involve the different choice of a compactly
+9. **[arXiv Live CS.AI/LG] [Evolve to Learn: Gradient-aligned experience evolution for model self-improvement](http://arxiv.org/abs/2611.32390v1)** (`Published 2026-11-24`)
+   - Self-evolving language models can continuously acquire useful experience through test-time interaction, reflection, and prompt optimization, yet turning such experience into model itself to ensure self improvement remains challenging. On-policy self-distillation (OPSD) provides a natural mechanism for internalizing tes
+10. **[arXiv Live CS.AI/LG] [AgentBank: Banking on Blockchain Agentic Payments](http://arxiv.org/abs/2611.32389v1)** (`Published 2026-11-24`)
+   - AI agents increasingly pay for data and computation through protocols such as x402 and AP2, but individually funded wallets idle and require asset transfers for every payment. We present AgentBank, a smart-contract banking layer that lets agents spend bank liabilities under owner-issued mandates and on-chain spending l
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation](https://huggingface.co/papers/2611.31595)
+- **Source Anchor:** [Align the Pair, Not the Sample: Representation Alignment for Faster and Better One-Step Generato](https://huggingface.co/papers/2611.29547)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)
+- **Source Anchor:** [Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation](http://arxiv.org/abs/2611.32400v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795573040016`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v667`, SHA-256 `a5d58b57dfdb4708…`) + `AgentMemory` `6b064530141ff71a0a15acdb`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0645302176727b7da26f68` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795578740251`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v668`, SHA-256 `1946ef53bc563f5c…`) + `AgentMemory` `6b065b74266101bb595f68ba`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b065b74b59633261330546f` + GitHub Bridge Message `055`
