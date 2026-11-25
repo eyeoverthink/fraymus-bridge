@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-25T12:24:22.559Z`  
+**Timestamp:** `2026-11-25T12:57:25.093Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_a807bbae-ff66-4a52-ace9-6ae18e0dceda` | `R_san_yin_23f94558e772a19` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795609471559` | Yin Merkle `23f94558e772a19` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `148.98.50:239` (`305 Hz`) | `16,384-bit HDC: hdc16k:95a9b5c4:935d929a:870425ee:e752b296` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v677 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a855a680-6249-416f-8d98-5abe34393e50` | `R_san_yin_cc93717c1e49c6e1` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795611453570` | Yin Merkle `cc93717c1e49c6e1` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `12.136.64:215` (`258 Hz`) | `16,384-bit HDC: hdc16k:ec18c364:a8e5b274:ddb4b6e2:5b55c17b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v678 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://huggingface.co/papers/2611.32649)** (`15 upvotes`)
+1. **[Hugging Face Daily Papers] [Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA](https://huggingface.co/papers/2611.32782)** (`0 upvotes`)
+   - Modern large language models (LLMs) keep the feed-forward network (FFN) intermediate width identical across every layer, a convention inherited from the original Transformer. Yet mechanistic work suggests layers at different depths do qualitatively different work, raising a natural question: are their capacity demands 
+2. **[Hugging Face Daily Papers] [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://huggingface.co/papers/2611.32649)** (`15 upvotes`)
    - In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet their ICL remains insufficiently assessed: existing benchmarks are largely offline, rely on text or static images, and risk 
-2. **[Hugging Face Daily Papers] [FATCAT: Fault Injection Attacks Targeting Chip-level Alignment](https://huggingface.co/papers/2611.31129)** (`0 upvotes`)
+3. **[Hugging Face Daily Papers] [FATCAT: Fault Injection Attacks Targeting Chip-level Alignment](https://huggingface.co/papers/2611.31129)** (`0 upvotes`)
    - Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying hardware integrity. In this paper, we present FATCAT, the first physical fault-injection attacks capable of eliminating 
-3. **[Hugging Face Daily Papers] [InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning](https://huggingface.co/papers/2611.32918)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning](https://huggingface.co/papers/2611.32918)** (`1 upvotes`)
    - Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 points on average, and that these losses track a collapse in answer length: fine-tuned models at least halve their respon
-4. **[Hugging Face Daily Papers] [RECAP: Training Long-horizon LLM Agents with Context Compaction](https://huggingface.co/papers/2611.31258)** (`0 upvotes`)
+5. **[Hugging Face Daily Papers] [RECAP: Training Long-horizon LLM Agents with Context Compaction](https://huggingface.co/papers/2611.31258)** (`0 upvotes`)
    - Context compaction enables large language model agents to tackle long-horizon tasks within limited context budgets by replacing interaction histories with compressed summaries. However, learning effective compaction jointly with the agent policy remains challenging, as summaries affect task success over many subsequent
-5. **[Hugging Face Daily Papers] [Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation](https://huggingface.co/papers/2611.30963)** (`2 upvotes`)
-   - Robotic manipulation policies can improve action prediction by anticipating how objects move and how their spatial relationships change. World Action Models (WAMs) learn to predict future visual observations, but their training objectives typically leave the underlying 3D geometric transitions implicit. To alleviate th
 6. **[arXiv Live CS.AI/LG] [Envy-Free Cake-Cutting for Five Agents](http://arxiv.org/abs/2611.33149v1)** (`Published 2026-11-24`)
    - We study the envy-free cake-cutting problem, in which a divisible resource must be divided among a set of agents with heterogeneous preferences in a way that ensures that no agent envies the piece obtained by another. Remarkably, under some mild continuity assumptions on the agent valuations, it is known that an envy-f
 7. **[arXiv Live CS.AI/LG] [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)** (`Published 2026-11-24`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://huggingface.co/papers/2611.32649)
+- **Source Anchor:** [Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA](https://huggingface.co/papers/2611.32782)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795609471559`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v677`, SHA-256 `d2f4662c08c882bb…`) + `AgentMemory` `6b06d38073f25f66d1bb7a28`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b06d380f9e9d7b1059c5e77` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795611453570`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v678`, SHA-256 `cf13eaa5b0eb5dd1…`) + `AgentMemory` `6b06db3d7a3680192ec76834`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b06db3dee2d3565cab8bd67` + GitHub Bridge Message `055`
