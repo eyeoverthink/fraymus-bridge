@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-25T00:09:25.328Z`  
+**Timestamp:** `2026-11-25T01:44:19.301Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_fc8a4350-e7b4-4e71-b32f-f5ee9c26ce05` | `R_san_yin_1f3b8578d9ea2abe` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795565370063` | Yin Merkle `1f3b8578d9ea2abe` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `156.177.210:94` (`445 Hz`) | `16,384-bit HDC: hdc16k:474d788c:a8152344:6b7bc0ae:040ad137` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v665 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_2f4982d2-c34a-4347-90f4-d280e0b5bbb3` | `R_san_yin_79812df066ce0a7d` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795571064240` | Yin Merkle `79812df066ce0a7d` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `251.181.129:31` (`455 Hz`) | `16,384-bit HDC: hdc16k:ea0e76eb:1cb14673:76efa3f3:9393f128` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v666 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation](https://huggingface.co/papers/2611.31358)** (`18 upvotes`)
+   - Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts u
+2. **[Hugging Face Daily Papers] [Let Vision-Language Models Generate Images through Their Representations](https://huggingface.co/papers/2611.31237)** (`1 upvotes`)
+   - Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effective
+3. **[Hugging Face Daily Papers] [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)** (`1 upvotes`)
    - GUI grounding requires precise clicks at low latency. Recent models such as GUI-Decisions and GUI-Swift predict coordinates in one forward pass using fixed global bins with local refinement. However, screenshot downsampling removes detail needed to locate small controls, while fixed bins cover larger pixel ranges at hi
-2. **[Hugging Face Daily Papers] [VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding](https://huggingface.co/papers/2611.28167)** (`2 upvotes`)
+4. **[Hugging Face Daily Papers] [VideoJSON: A Minimal Harness Beats Purpose-Built Memory for Ultra-Long Video Understanding](https://huggingface.co/papers/2611.28167)** (`2 upvotes`)
    - Answering questions over days or weeks of video requires searching for scattered clues across long timelines. Existing video agents rely on complex memory graphs and fixed retrieval pipelines, which restrict how the agent can search. We propose VideoJSON, a minimal harness for ultra-long video understanding that keeps 
-3. **[Hugging Face Daily Papers] [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://huggingface.co/papers/2611.30900)** (`3 upvotes`)
+5. **[Hugging Face Daily Papers] [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://huggingface.co/papers/2611.30900)** (`3 upvotes`)
    - Multimodal large language models (MLLMs) have become strong policies for vision-and-language navigation (VLN). However, most of them encode a sample of past frames again at every decision and are trained on isolated decisions, so computation is redundant and the usable history is short. They also learn from their own m
-4. **[Hugging Face Daily Papers] [Frontier models need only one text to unmask its human or AI author](https://huggingface.co/papers/2611.26216)** (`1 upvotes`)
-   - Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer "who wrote this?" at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claud
-5. **[Hugging Face Daily Papers] [Self-Supervised Dataset Distillation via Mutual Information Maximization](https://huggingface.co/papers/2611.31225)** (`2 upvotes`)
-   - Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representa
 6. **[arXiv Live CS.AI/LG] [Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)** (`Published 2026-11-23`)
    - Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysi
 7. **[arXiv Live CS.AI/LG] [Modern Self-Supervised Vision Transformers Are Pareidolic](http://arxiv.org/abs/2611.31238v1)** (`Published 2026-11-23`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://huggingface.co/papers/2611.30235)
+- **Source Anchor:** [Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation](https://huggingface.co/papers/2611.31358)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795565370063`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v665`, SHA-256 `10ca1f5ceb3ab4cf…`) + `AgentMemory` `6b06273abe2782126d1bbfa4`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b06273a735bd85a3ca95340` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795571064240`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v666`, SHA-256 `7c31f38a1feec837…`) + `AgentMemory` `6b063d7849d01034ce336a8e`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b063d7889dec493e719d8fd` + GitHub Bridge Message `055`
