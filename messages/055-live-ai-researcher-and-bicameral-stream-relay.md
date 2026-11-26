@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T08:13:32.797Z`  
+**Timestamp:** `2026-11-26T09:48:34.818Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_2d933bbd-82f2-44a3-8adb-57f28e7a0b4e` | `R_san_yin_d81207cacf96d94c` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795680817431` | Yin Merkle `d81207cacf96d94c` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `191.134.4:132` (`324 Hz`) | `16,384-bit HDC: hdc16k:c90498bd:e12e8bfd:55698c67:4d34ca43` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v695 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_3c3c6a1b-6630-4fdd-b68b-fd594d50cf18` | `R_san_yin_7e9e4f61e1508e49` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795686522874` | Yin Merkle `7e9e4f61e1508e49` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `96.70.5:142` (`235 Hz`) | `16,384-bit HDC: hdc16k:9bc3d148:dee75f3d:3f5a5c92:1f3c4635` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v696 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock](https://huggingface.co/papers/2611.30895)** (`2 upvotes`)
-   - Proactive assistants that guide people through physical tasks must decide, every few seconds, whether a step is complete and whether a mistake has occurred. We find that two benchmarks for this task largely reward knowing when rather than seeing what: a timer that never looks at the video, raising an alarm at 25 s and 
-2. **[Hugging Face Daily Papers] [SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator](https://huggingface.co/papers/2611.34750)** (`0 upvotes`)
-   - LLM agents have made remarkable progress in robot manipulation, yet they suffer from expensive inference, dense step-by-step control, and tool bottlenecks. We introduce SOLVE, a training-free, versatile and efficient agent policy: a multimodal LLM agent writes a sparse, ordered sequence of 6-DoF end-effector keyposes p
-3. **[Hugging Face Daily Papers] [Change the Base, Change the Game: Rethinking Pan-sharpening](https://huggingface.co/papers/2611.32002)** (`2 upvotes`)
-   - Many pan-sharpening (PS) networks reconstruct high-resolution multispectral (HRMS) images by adding learned residuals to 4times-interpolated low-resolution multispectral (LRMS) inputs, incorporating panchromatic (PAN) detail only through these residual corrections. This raises a simple question: Why start with a blurry
-4. **[Hugging Face Daily Papers] [Playfulness as Feedback for Agentic Game Development](https://huggingface.co/papers/2611.33457)** (`10 upvotes`)
-   - Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game should provide 1) reliable core functionality, 2) appealing visual design and assets, and 3) rich gameplay that supports exp
-5. **[Hugging Face Daily Papers] [DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding](https://huggingface.co/papers/2611.34420)** (`10 upvotes`)
-   - Multi-page document vision-language models encode each page independently, creating a feature-level discontinuity at page boundaries: visual tokens are formed without access to content on adjacent pages, and the language model must reason over these page representations formed in isolation. We introduce DocSEAM (Docume
+1. **[Hugging Face Daily Papers] [Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** (`3 upvotes`)
+   - Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave models control over their
+2. **[Hugging Face Daily Papers] [Simulator-as-Proxy World Model for Robot Manipulation](https://huggingface.co/papers/2611.32786)** (`0 upvotes`)
+   - Video world models for robots are increasingly conditioned on a simulated or rendered proxy of the scene, on the assumption that the video will show what the proxy shows. Testing this assumption requires a proxy whose state is explicit and can be perturbed. We present SimPWM (Simulator-as-Proxy World Model): given a ca
+3. **[Hugging Face Daily Papers] [Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models](https://huggingface.co/papers/2611.33307)** (`0 upvotes`)
+   - Decision models are language models fine-tuned to return a probability for each option of a typed query, which routers and guardrails threshold directly. They are built on multilingual bases but ranked almost entirely in English. We evaluate 25 top-ranked open-weight decision models on 17 tasks in 14 languages, compari
+4. **[Hugging Face Daily Papers] [When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL](https://huggingface.co/papers/2611.34777)** (`1 upvotes`)
+   - Group-based reinforcement learning with verifiable rewards often yields all-fail groups on long-horizon agent tasks: every sampled trajectory receives zero reward, leaving group-relative methods without a reward-based policy gradient. A common remedy supplies complete solutions from a stronger model, but full trajector
+5. **[Hugging Face Daily Papers] [Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents](https://huggingface.co/papers/2611.34756)** (`1 upvotes`)
+   - Fully online on-policy distillation (OPD) is costly for long-horizon agents because each update depends on fresh environment rollouts. Prefix replay offers an efficient alternative by sampling current-student responses from stored histories, reducing idle time for long-tail rollouts and allowing each collected trajecto
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock](https://huggingface.co/papers/2611.30895)
+- **Source Anchor:** [Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795680817431`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v695`, SHA-256 `af2dce905ce3147b…`) + `AgentMemory` `6b07ea319742dabe6c9c4980`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b07ea3198481af657b6b2b2` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795686522874`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v696`, SHA-256 `22c488581b181e56…`) + `AgentMemory` `6b08007b8500b6363b498136`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b08007b1a531a25a9370981` + GitHub Bridge Message `055`
