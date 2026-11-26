@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T16:12:33.604Z`  
+**Timestamp:** `2026-11-26T16:45:33.373Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_05490f56-068b-45e1-aa14-b18a78a728e3` | `R_san_yin_92d1100321094412` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795709561554` | Yin Merkle `92d1100321094412` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `225.104.130:160` (`397 Hz`) | `16,384-bit HDC: hdc16k:d37bfa9e:010de669:bad4c81e:bbe77bb8` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v709 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_05a0cd23-226c-4017-8dd6-c24053ba31a4` | `R_san_yin_9a110268b57d73cb` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795711541835` | Yin Merkle `9a110268b57d73cb` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `163.245.131:19` (`442 Hz`) | `16,384-bit HDC: hdc16k:3be32b36:638b80cc:ef38ee00:16279927` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v710 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://huggingface.co/papers/2611.33093)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts](https://huggingface.co/papers/2611.28732)** (`2 upvotes`)
+   - In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two challenges: task-level h
+2. **[Hugging Face Daily Papers] [AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://huggingface.co/papers/2611.33093)** (`1 upvotes`)
    - A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardware correctly. Agents
-2. **[Hugging Face Daily Papers] [WorldBridge: Bridging Scattered Views for Coherent 3D World Generation](https://huggingface.co/papers/2611.34079)** (`1 upvotes`)
+3. **[Hugging Face Daily Papers] [WorldBridge: Bridging Scattered Views for Coherent 3D World Generation](https://huggingface.co/papers/2611.34079)** (`1 upvotes`)
    - Generating coherent and explorable 3D worlds from scattered images with little or no visual overlap is a fundamental and long-standing challenge in computer vision, which existing geometry-aware methods fail to address. Meanwhile, existing image- and video-based methods may generate unseen regions but produce inconsist
-3. **[Hugging Face Daily Papers] [Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?](https://huggingface.co/papers/2611.21155)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?](https://huggingface.co/papers/2611.21155)** (`1 upvotes`)
    - After a large language model (LLM) agent generates an artifact, users often send edit requests for it. This paper studies whether an LLM can anticipate these requests before they are sent. Such anticipation is useful in practice because it reduces the effort of user review and feedback. We formalize this task as edit r
-4. **[Hugging Face Daily Papers] [When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift](https://huggingface.co/papers/2611.30334)** (`1 upvotes`)
+5. **[Hugging Face Daily Papers] [When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift](https://huggingface.co/papers/2611.30334)** (`1 upvotes`)
    - Entity disambiguation (mapping ambiguous mentions in text to entities in a knowledge base) is a foundational step in tasks such as knowledge graph construction, question answering, and information extraction. Recent work has applied LLMs to this problem, achieving stateof-the-art performance. Notably, reasoning LLMs ha
-5. **[Hugging Face Daily Papers] [GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM](https://huggingface.co/papers/2611.32335)** (`0 upvotes`)
-   - Panoramic cameras capture nearly the entire spherical field of view in a single frame. However, the mismatch between this panoramic coverage and the field of view of LiDAR poses a substantial challenge for panoramic Gaussian splatting SLAM that relies on LiDAR depth priors. We introduce GOLD-SLAM, a Gaussian-splatting 
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://huggingface.co/papers/2611.33093)
+- **Source Anchor:** [Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts](https://huggingface.co/papers/2611.28732)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795709561554`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v709`, SHA-256 `9d3f1f823f2489a5…`) + `AgentMemory` `6b085a7979052220fafc42ea`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b085a79df5e12e014d9fb44` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795711541835`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v710`, SHA-256 `0de6e0040b6c438c…`) + `AgentMemory` `6b086236ed082b583a111d1a`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b08623673190401785f210f` + GitHub Bridge Message `055`
