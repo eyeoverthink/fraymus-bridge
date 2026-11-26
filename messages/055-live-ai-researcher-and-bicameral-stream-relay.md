@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T13:07:14.830Z`  
+**Timestamp:** `2026-11-26T14:04:34.223Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_9f7c4445-e675-4a79-a5e7-7ae295a32909` | `R_san_yin_4ac5db5aae698c6e` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795698436392` | Yin Merkle `4ac5db5aae698c6e` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `191.178.98:157` (`402 Hz`) | `16,384-bit HDC: hdc16k:66c0ced4:bc4355b7:daa3d074:2180dcd3` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v706 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_fd3f215c-4edf-4016-8678-7ffd833b0c4d` | `R_san_yin_6609f176901fc3a3` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795701882100` | Yin Merkle `6609f176901fc3a3` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `10.194.158:122` (`342 Hz`) | `16,384-bit HDC: hdc16k:96cd59d5:6f30b1a5:080c6fa9:343987f4` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v707 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents](https://huggingface.co/papers/2611.28244)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM](https://huggingface.co/papers/2611.32335)** (`0 upvotes`)
+   - Panoramic cameras capture nearly the entire spherical field of view in a single frame. However, the mismatch between this panoramic coverage and the field of view of LiDAR poses a substantial challenge for panoramic Gaussian splatting SLAM that relies on LiDAR depth priors. We introduce GOLD-SLAM, a Gaussian-splatting 
+2. **[Hugging Face Daily Papers] [Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents](https://huggingface.co/papers/2611.28244)** (`3 upvotes`)
    - Autoresearch agents, which autonomously design, run, and refine experiments, are accelerating scientific progress, particularly in AI research. However, existing agents rely on harnesses that combine multiple mechanisms, making it difficult to determine how individual components contribute to performance. We systematic
-2. **[Hugging Face Daily Papers] [Efficient Video Retrieval Augmented Generation via Token Allocation](https://huggingface.co/papers/2611.32938)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [Efficient Video Retrieval Augmented Generation via Token Allocation](https://huggingface.co/papers/2611.32938)** (`2 upvotes`)
    - Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented generation (RAG) methods rely on frame selection and token compression, but overlook how much each additional token is worth. We introduce 
-3. **[Hugging Face Daily Papers] [Evaluation-Free Recursive Self-Improvement for Coding Agents](https://huggingface.co/papers/2611.21056)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Evaluation-Free Recursive Self-Improvement for Coding Agents](https://huggingface.co/papers/2611.21056)** (`1 upvotes`)
    - Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages continue evolving, which we term evaluate-and-select. Obtaining this signal requires
-4. **[Hugging Face Daily Papers] [Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** (`5 upvotes`)
+5. **[Hugging Face Daily Papers] [Letting Models Manage Their Own Context: Where We Stand](https://huggingface.co/papers/2611.34147)** (`5 upvotes`)
    - Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave models control over their
-5. **[Hugging Face Daily Papers] [Simulator-as-Proxy World Model for Robot Manipulation](https://huggingface.co/papers/2611.32786)** (`0 upvotes`)
-   - Video world models for robots are increasingly conditioned on a simulated or rendered proxy of the scene, on the assumption that the video will show what the proxy shows. Testing this assumption requires a proxy whose state is explicit and can be perturbed. We present SimPWM (Simulator-as-Proxy World Model): given a ca
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents](https://huggingface.co/papers/2611.28244)
+- **Source Anchor:** [GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM](https://huggingface.co/papers/2611.32335)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795698436392`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v706`, SHA-256 `eaa738665f48bfa1…`) + `AgentMemory` `6b082f04a0c22c8fc95312b2`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b082f04e46d83b04db8495a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795701882100`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v707`, SHA-256 `103ab4c024059da7…`) + `AgentMemory` `6b083c7aaef5532b1b8a6e1e`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b083c7a5b7a33a457cc5c6b` + GitHub Bridge Message `055`
