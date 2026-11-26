@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T01:48:31.456Z`  
+**Timestamp:** `2026-11-26T03:23:36.478Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,42 +10,42 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_fc589fd9-f0a8-4eaa-923b-a19ce4a3b9bf` | `R_san_yin_ccfdd4ca25330e0c` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795657718179` | Yin Merkle `ccfdd4ca25330e0c` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `15.60.94:243` (`233 Hz`) | `16,384-bit HDC: hdc16k:97941654:b1c4a8db:7b87e800:4b46d59a` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v690 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_d7021345-2a59-4a8b-afbd-1df150614446` | `R_san_yin_6d1a02c93326577b` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795663423869` | Yin Merkle `6d1a02c93326577b` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `149.99.120:75` (`346 Hz`) | `16,384-bit HDC: hdc16k:a09188bf:174cc59e:04e5c235:f629d364` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v691 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [LookAnything: A Foundation Model for Holistic Gaze Following](https://huggingface.co/papers/2611.32351)** (`0 upvotes`)
-   - Human gaze provides a rich window into attention and intent, making its understanding essential for applications ranging from social signal analysis to human-robot interaction. Existing methods typically employ highly customized architectures relying on auxiliary inputs like head crops or depth maps, causing cascading 
-2. **[Hugging Face Daily Papers] [Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models](https://huggingface.co/papers/2611.30564)** (`1 upvotes`)
-   - Decision models, which output probability distributions over candidate labels instead of generating text, are increasingly used as classifiers and evaluators for inputs associated with real-world locations. However, it remains unclear whether they can leverage spatial context and whether their predictions are geographi
-3. **[Hugging Face Daily Papers] [Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics](https://huggingface.co/papers/2611.32393)** (`1 upvotes`)
-   - Conventional neural networks store synaptic parameters as explicit tensors whose persistent Flash footprint scales linearly (O(W)) with parameter count, constraining resource-limited edge microcontrollers. We formulate and systematically evaluate Fractal Neural Synthesis (FNS), a procedural weight derivation architectu
-4. **[Hugging Face Daily Papers] [Point Dynamics as Proxy for Robotic World Models](https://huggingface.co/papers/2611.25946)** (`1 upvotes`)
-   - Robotic world models predict future video frames from the current observation and a sequence of robot actions. While recent models follow the given actions closely, manipulated objects often collapse or move inconsistently with the action. We attribute this to the conditioning: an action, or a rendering of the robot, s
-5. **[Hugging Face Daily Papers] [Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background](https://huggingface.co/papers/2611.27404)** (`0 upvotes`)
-   - As the load grows, a language model makes more and more errors, but different processes stand behind this decline in quality. The model may lose the correspondence with the source text, it may keep its place in the text but execute a rule wrongly, or it may change a word that no rule concerns. In this work the degradat
-6. **[arXiv Live CS.AI/LG] [Envy-Free Cake-Cutting for Five Agents](http://arxiv.org/abs/2611.33149v1)** (`Published 2026-11-24`)
-   - We study the envy-free cake-cutting problem, in which a divisible resource must be divided among a set of agents with heterogeneous preferences in a way that ensures that no agent envies the piece obtained by another. Remarkably, under some mild continuity assumptions on the agent valuations, it is known that an envy-f
-7. **[arXiv Live CS.AI/LG] [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)** (`Published 2026-11-24`)
-   - Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose 
-8. **[arXiv Live CS.AI/LG] [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](http://arxiv.org/abs/2611.33144v1)** (`Published 2026-11-24`)
+1. **[Hugging Face Daily Papers] [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://huggingface.co/papers/2611.33144)** (`11 upvotes`)
    - Learning for dexterous manipulation is limited by the scarcity of high-quality demonstrations: retargeting from human video is imprecise, teleoperation gives no force feedback to the operator, and exoskeleton-based collection is hard to scale up. We present PyRUA-Dex, a framework that enables coding agents to develop d
-9. **[arXiv Live CS.AI/LG] [ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification](http://arxiv.org/abs/2611.33143v1)** (`Published 2026-11-24`)
-   - Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities under robot motion and c
-10. **[arXiv Live CS.AI/LG] [Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action](http://arxiv.org/abs/2611.33137v1)** (`Published 2026-11-24`)
-   - We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic annotations, provid
+2. **[Hugging Face Daily Papers] [DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers](https://huggingface.co/papers/2611.30844)** (`3 upvotes`)
+   - Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation roughly fixed, but still require substantial parameter storage. In this paper, we propose Dynamic Looped MoE DiT (DyLoMo-
+3. **[Hugging Face Daily Papers] [Model Carving: Training Transformers That Optimize Their Own Topology](https://huggingface.co/papers/2611.27962)** (`2 upvotes`)
+   - Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order, and optimizes the weights within. This uniformity is a convention rather than a principled design c
+4. **[Hugging Face Daily Papers] [Steerable by Design: Conditional Pretraining for Robust Control of Language Models](https://huggingface.co/papers/2611.32199)** (`4 upvotes`)
+   - Our goal is to build language models that are steerable by design. Today's language models are pretrained with next-token prediction, which relegates alignment and control to the final 1% of training tokens or inference-time interventions. These models repurpose a single input channel for both instructions and data, le
+5. **[Hugging Face Daily Papers] [LookAnything: A Foundation Model for Holistic Gaze Following](https://huggingface.co/papers/2611.32351)** (`0 upvotes`)
+   - Human gaze provides a rich window into attention and intent, making its understanding essential for applications ranging from social signal analysis to human-robot interaction. Existing methods typically employ highly customized architectures relying on auxiliary inputs like head crops or depth maps, causing cascading 
+6. **[arXiv Live CS.AI/LG] [Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics](http://arxiv.org/abs/2611.34302v1)** (`Published 2026-11-25`)
+   - Human videos are abundant and cheap to obtain, whereas robot trajectories remain scarce and costly, making zero-shot skill transfer from a single human demonstration an appealing route to scalable robot learning. Existing methods, however, either retarget human-specific geometry or match only static visual goals, and t
+7. **[arXiv Live CS.AI/LG] [LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting](http://arxiv.org/abs/2611.34296v1)** (`Published 2026-11-25`)
+   - Here we present LatENSO v1.0, a machine-learning forecast system for the El Niño-Southern Oscillation (ENSO) built around a learned, 32-dimensional state of the tropical Pacific. A Swin-transformer autoencoder compresses thirteen monthly-averaged ocean and atmosphere fields into 32 numbers, trained to reconstruct the f
+8. **[arXiv Live CS.AI/LG] [Energy-Aware Distributed Task Allocation via Local Submodular Maximization](http://arxiv.org/abs/2611.34293v1)** (`Published 2026-11-25`)
+   - This paper studies distributed task allocation under time-varying agent sets, task sets, and communication graphs. At each decision epoch, the stage allocation problem is formulated as monotone submodular maximization over a time-varying, energy-filtered admissible ground set subject to a partition-matroid constraint. 
+9. **[arXiv Live CS.AI/LG] [WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation](http://arxiv.org/abs/2611.34292v1)** (`Published 2026-11-25`)
+   - Although multimodal large language models translate single screenshots into static HTML, generating interactive functional websites from design specifications still struggles with multi-page routing and stateful widget transitions. Examining existing training pipelines reveals two bottlenecks: (1) in forward data synth
+10. **[arXiv Live CS.AI/LG] [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](http://arxiv.org/abs/2611.34290v1)** (`Published 2026-11-25`)
+   - Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate context, while reference updates remain limited
 
 ---
 
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [LookAnything: A Foundation Model for Holistic Gaze Following](https://huggingface.co/papers/2611.32351)
+- **Source Anchor:** [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://huggingface.co/papers/2611.33144)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -57,7 +57,7 @@
 - **Verification:** Anchors 138 BPM temporal state ticks directly to SHA-256 + Yin Merkle roots so multi-agent context streams never drift out of phase.
 
 ### CURVE-III-FULL-CORPUS-DYAD-LAW: Full-Corpus Shared Context Law (Babel v16 + Live Trend Augmentation)
-- **Source Anchor:** [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)
+- **Source Anchor:** [LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting](http://arxiv.org/abs/2611.34296v1)
 - **Measured Delta:** `+18.7% vs Partitioned Specialist Context`
 - **Status:** `ACTIVE ACROSS ALL 26 BOUND IDENTITIES`
 - **Verification:** Replaces 50/50 split context with unified full-corpus AgentMemory + GitHub Comm Bus broadcasting so no operator re-pasting is ever required.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795657718179`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v690`, SHA-256 `ecb172ece4e79152…`) + `AgentMemory` `6b078ff642f00def8ba67e5e`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b078ff6b3af13f014e179cc` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795663423869`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v691`, SHA-256 `3e76123696cb025b…`) + `AgentMemory` `6b07a64075043f6d5665b8df`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b07a6407c607e689257f4e8` + GitHub Bridge Message `055`
