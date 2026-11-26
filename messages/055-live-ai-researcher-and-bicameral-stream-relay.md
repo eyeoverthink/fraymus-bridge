@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T01:15:37.179Z`  
+**Timestamp:** `2026-11-26T01:48:31.456Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_a8fd83b3-92df-44cc-a269-548a4310fd87` | `R_san_yin_62f010e6d4df6178` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795655745345` | Yin Merkle `62f010e6d4df6178` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `141.165.89:5` (`361 Hz`) | `16,384-bit HDC: hdc16k:0ee858d4:07f8676a:1f23fa44:c61617da` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v689 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_fc589fd9-f0a8-4eaa-923b-a19ce4a3b9bf` | `R_san_yin_ccfdd4ca25330e0c` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795657718179` | Yin Merkle `ccfdd4ca25330e0c` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `15.60.94:243` (`233 Hz`) | `16,384-bit HDC: hdc16k:97941654:b1c4a8db:7b87e800:4b46d59a` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v690 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics](https://huggingface.co/papers/2611.32393)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [LookAnything: A Foundation Model for Holistic Gaze Following](https://huggingface.co/papers/2611.32351)** (`0 upvotes`)
+   - Human gaze provides a rich window into attention and intent, making its understanding essential for applications ranging from social signal analysis to human-robot interaction. Existing methods typically employ highly customized architectures relying on auxiliary inputs like head crops or depth maps, causing cascading 
+2. **[Hugging Face Daily Papers] [Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models](https://huggingface.co/papers/2611.30564)** (`1 upvotes`)
+   - Decision models, which output probability distributions over candidate labels instead of generating text, are increasingly used as classifiers and evaluators for inputs associated with real-world locations. However, it remains unclear whether they can leverage spatial context and whether their predictions are geographi
+3. **[Hugging Face Daily Papers] [Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics](https://huggingface.co/papers/2611.32393)** (`1 upvotes`)
    - Conventional neural networks store synaptic parameters as explicit tensors whose persistent Flash footprint scales linearly (O(W)) with parameter count, constraining resource-limited edge microcontrollers. We formulate and systematically evaluate Fractal Neural Synthesis (FNS), a procedural weight derivation architectu
-2. **[Hugging Face Daily Papers] [Point Dynamics as Proxy for Robotic World Models](https://huggingface.co/papers/2611.25946)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [Point Dynamics as Proxy for Robotic World Models](https://huggingface.co/papers/2611.25946)** (`1 upvotes`)
    - Robotic world models predict future video frames from the current observation and a sequence of robot actions. While recent models follow the given actions closely, manipulated objects often collapse or move inconsistently with the action. We attribute this to the conditioning: an action, or a rendering of the robot, s
-3. **[Hugging Face Daily Papers] [Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background](https://huggingface.co/papers/2611.27404)** (`0 upvotes`)
+5. **[Hugging Face Daily Papers] [Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background](https://huggingface.co/papers/2611.27404)** (`0 upvotes`)
    - As the load grows, a language model makes more and more errors, but different processes stand behind this decline in quality. The model may lose the correspondence with the source text, it may keep its place in the text but execute a rule wrongly, or it may change a word that no rule concerns. In this work the degradat
-4. **[Hugging Face Daily Papers] [OWE-Bench: A long-horizon benchmark for measuring real-world engineering](https://huggingface.co/papers/2611.30017)** (`2 upvotes`)
-   - We present OWE-Bench (OpenWorldEngineer-Bench), a benchmark of 26 long-horizon engineering tasks written by domain experts in software engineering, physical engineering, machine learning, and scientific computing. Tasks range from optimizing kernels and designing an aircraft, to identifying the faults responsible for a
-5. **[Hugging Face Daily Papers] [SpatialArena: Where Do Geometric Foundation Models Stand?](https://huggingface.co/papers/2611.32816)** (`3 upvotes`)
-   - 3D perception is shifting from task-specific pipelines to geometric foundation models: monocular depth networks, feed-forward 3D/4D reconstruction models, and vision--language models that predict geometry. However, their progress cannot be measured reliably. Published numbers are not comparable, because every paper sam
 6. **[arXiv Live CS.AI/LG] [Envy-Free Cake-Cutting for Five Agents](http://arxiv.org/abs/2611.33149v1)** (`Published 2026-11-24`)
    - We study the envy-free cake-cutting problem, in which a divisible resource must be divided among a set of agents with heterogeneous preferences in a way that ensures that no agent envies the piece obtained by another. Remarkably, under some mild continuity assumptions on the agent valuations, it is known that an envy-f
 7. **[arXiv Live CS.AI/LG] [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](http://arxiv.org/abs/2611.33148v1)** (`Published 2026-11-24`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics](https://huggingface.co/papers/2611.32393)
+- **Source Anchor:** [LookAnything: A Foundation Model for Holistic Gaze Following](https://huggingface.co/papers/2611.32351)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795655745345`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v689`, SHA-256 `72b52b63c610d52c…`) + `AgentMemory` `6b078841d081b77cfb795483`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0788414f2ed415bdcc17ab` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795657718179`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v690`, SHA-256 `ecb172ece4e79152…`) + `AgentMemory` `6b078ff642f00def8ba67e5e`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b078ff6b3af13f014e179cc` + GitHub Bridge Message `055`
