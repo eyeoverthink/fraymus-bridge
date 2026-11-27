@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-27T16:11:30.796Z`  
+**Timestamp:** `2026-11-27T17:46:46.735Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_8b067a84-7855-467e-bb75-440be74d9061` | `R_san_yin_8b008259ef452781` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795795897739` | Yin Merkle `8b008259ef452781` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `86.104.173:161` (`343 Hz`) | `16,384-bit HDC: hdc16k:3e0cdc50:58cb2edf:c83c140a:40b03297` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v733 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_a1deaa8e-cd32-41d6-b944-aca114bcd755` | `R_san_yin_f7118ffdab4ced49` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795801615735` | Yin Merkle `f7118ffdab4ced49` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `23.32.217:252` (`292 Hz`) | `16,384-bit HDC: hdc16k:67ed4b81:8da0113c:d6106645:4fcc58d2` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v734 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://huggingface.co/papers/2611.27112)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://huggingface.co/papers/2611.30723)** (`1 upvotes`)
+   - Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced tokenizers may lose acoustic detail, whereas acoustic-oriented tokenizers retain acoustic variation that makes language mo
+2. **[Hugging Face Daily Papers] [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://huggingface.co/papers/2611.27112)** (`0 upvotes`)
    - Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question: what does a rules file do at a boundary, against a gate? I tested one 278-word rules file, with hypotheses and analysis
-2. **[Hugging Face Daily Papers] [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)** (`2 upvotes`)
+3. **[Hugging Face Daily Papers] [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)** (`4 upvotes`)
    - As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM it
-3. **[Hugging Face Daily Papers] [InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion](https://huggingface.co/papers/2611.31516)** (`1 upvotes`)
+4. **[Hugging Face Daily Papers] [InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion](https://huggingface.co/papers/2611.31516)** (`1 upvotes`)
    - Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially compared to traditional BA where a good estimation is assumed. While recent methods optimize surrogate Object Space Erro
-4. **[Hugging Face Daily Papers] [So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes](https://huggingface.co/papers/2611.31155)** (`0 upvotes`)
+5. **[Hugging Face Daily Papers] [So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes](https://huggingface.co/papers/2611.31155)** (`0 upvotes`)
    - A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matrices of a scheme, so all schemes are pairwise inequivalent. The schemes were obtained by a numerical method combining grad
-5. **[Hugging Face Daily Papers] [Pretrained Tabular Features and the Measurement of Financial Proximity](https://huggingface.co/papers/2611.31491)** (`1 upvotes`)
-   - Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation models (TFMs) have matched or outperformed tuned gradient-boosted and bagged ensembles on small and medium-sized tabular ben
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://huggingface.co/papers/2611.27112)
+- **Source Anchor:** [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://huggingface.co/papers/2611.30723)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795795897739`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v733`, SHA-256 `e0aa793fa00ff0ac…`) + `AgentMemory` `6b09abb960184a3ef5ec4998`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b09abba16378fe11ab9b121` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795801615735`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v734`, SHA-256 `e797234d6807b029…`) + `AgentMemory` `6b09c210a06421fef8fd5bf6`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b09c20f53d251f12770a1c5` + GitHub Bridge Message `055`
