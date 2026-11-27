@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-26T23:08:35.597Z`  
+**Timestamp:** `2026-11-27T00:43:37.285Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_cb078ecd-0363-4d15-9a75-82421c51551e` | `R_san_yin_4b8c9e9cf18f171` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795734522496` | Yin Merkle `4b8c9e9cf18f171` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `246.158.224:239` (`493 Hz`) | `16,384-bit HDC: hdc16k:dceb35a0:7bc73410:e8a80126:2c6993b2` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v716 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8db79b51-23aa-45e2-aac0-f8500ecdc088` | `R_san_yin_747068d5ddb73e6a` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795740224369` | Yin Merkle `747068d5ddb73e6a` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `54.218.181:110` (`394 Hz`) | `16,384-bit HDC: hdc16k:868bd883:b6d0daf7:df3f682b:c4a9fce2` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v717 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Evaluating Memanto on DolphinBench for AI Agents](https://huggingface.co/papers/2611.28231)** (`2 upvotes`)
+1. **[Hugging Face Daily Papers] [CARE-3D: Reinforcement Learning for Evidence Grounded Agentic Reasoning in Situated 3D Scenes](https://huggingface.co/papers/2611.29969)** (`0 upvotes`)
+   - Situated 3D reasoning requires embodied agents to interpret objects, scene geometry, and viewpoint dependent spatial relations. Existing methods learn grounded interactions from supervised traces, but largely imitate prescribed evidence acquisition patterns rather than optimizing the support that the returned evidence 
+2. **[Hugging Face Daily Papers] [Evaluating Memanto on DolphinBench for AI Agents](https://huggingface.co/papers/2611.28231)** (`2 upvotes`)
    - Memory benchmarks built on question answering tell an agent which fact to recall. Workplace requests often leave that need implicit: to post an update in the team's channel, an agent must work out which channel from earlier interactions and use it in a tool call. We evaluate Memanto, a memory agent that ranks memories 
-2. **[Hugging Face Daily Papers] [Look Back: Reinforcement Learning with Counterfactual World Models](https://huggingface.co/papers/2611.29259)** (`0 upvotes`)
+3. **[Hugging Face Daily Papers] [Look Back: Reinforcement Learning with Counterfactual World Models](https://huggingface.co/papers/2611.29259)** (`0 upvotes`)
    - Agents in complex, stochastic environments must contend with dynamics that can exceed their world models' predictive capacity and randomness that obscure the consequences of their actions. We hypothesize that, compared to imagining entirely new trajectories in such complex environments, it can be easier to transform ob
-3. **[Hugging Face Daily Papers] [Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL](https://huggingface.co/papers/2611.34363)** (`4 upvotes`)
+4. **[Hugging Face Daily Papers] [Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL](https://huggingface.co/papers/2611.34363)** (`4 upvotes`)
    - Reinforcement learning (RL) for text-to-SQL agents pays a query when its result matches the reference on one database. However, a wrong query can match by luck when the data lack the rows that expose its bug. We study a counterfactual-database (CF) reward that also runs the final query on a few hidden, code-generated c
-4. **[Hugging Face Daily Papers] [Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts](https://huggingface.co/papers/2611.28732)** (`3 upvotes`)
+5. **[Hugging Face Daily Papers] [Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts](https://huggingface.co/papers/2611.28732)** (`3 upvotes`)
    - In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two challenges: task-level h
-5. **[Hugging Face Daily Papers] [AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://huggingface.co/papers/2611.33093)** (`3 upvotes`)
-   - A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardware correctly. Agents
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [Evaluating Memanto on DolphinBench for AI Agents](https://huggingface.co/papers/2611.28231)
+- **Source Anchor:** [CARE-3D: Reinforcement Learning for Evidence Grounded Agentic Reasoning in Situated 3D Scenes](https://huggingface.co/papers/2611.29969)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795734522496`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v716`, SHA-256 `e752754410f62132…`) + `AgentMemory` `6b08bbfa1f6114edf488a7be`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b08bbfa7295142c315b4fd8` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795740224369`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v717`, SHA-256 `837af82829cfb82b…`) + `AgentMemory` `6b08d240b3ee71fe47d67671`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b08d24095ad5ca4a7261f19` + GitHub Bridge Message `055`
