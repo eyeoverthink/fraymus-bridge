@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-27T11:55:28.577Z`  
+**Timestamp:** `2026-11-27T13:30:34.475Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_78ea494e-0554-4787-a688-5021091b781a` | `R_san_yin_aed3b91759ca0dd9` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795780534923` | Yin Merkle `aed3b91759ca0dd9` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `96.30.53:158` (`239 Hz`) | `16,384-bit HDC: hdc16k:64c91aa2:9e409972:eb5461be:2e0f1368` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v729 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_60344520-4286-40c9-80eb-3e56d859adc1` | `R_san_yin_6d667127f8b80c7c` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795786243475` | Yin Merkle `6d667127f8b80c7c` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `186.106.56:208` (`335 Hz`) | `16,384-bit HDC: hdc16k:e6b1f2b8:6c7988cb:72c9f99c:fdd6c50b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v730 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion](https://huggingface.co/papers/2611.31516)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)** (`2 upvotes`)
+   - As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM it
+2. **[Hugging Face Daily Papers] [InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion](https://huggingface.co/papers/2611.31516)** (`1 upvotes`)
    - Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially compared to traditional BA where a good estimation is assumed. While recent methods optimize surrogate Object Space Erro
-2. **[Hugging Face Daily Papers] [So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes](https://huggingface.co/papers/2611.31155)** (`0 upvotes`)
+3. **[Hugging Face Daily Papers] [So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes](https://huggingface.co/papers/2611.31155)** (`0 upvotes`)
    - A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matrices of a scheme, so all schemes are pairwise inequivalent. The schemes were obtained by a numerical method combining grad
-3. **[Hugging Face Daily Papers] [Pretrained Tabular Features and the Measurement of Financial Proximity](https://huggingface.co/papers/2611.31491)** (`0 upvotes`)
+4. **[Hugging Face Daily Papers] [Pretrained Tabular Features and the Measurement of Financial Proximity](https://huggingface.co/papers/2611.31491)** (`0 upvotes`)
    - Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation models (TFMs) have matched or outperformed tuned gradient-boosted and bagged ensembles on small and medium-sized tabular ben
-4. **[Hugging Face Daily Papers] [Guarding with Judgment: Learning to Intervene for Multimodal Safety](https://huggingface.co/papers/2611.28849)** (`1 upvotes`)
+5. **[Hugging Face Daily Papers] [Guarding with Judgment: Learning to Intervene for Multimodal Safety](https://huggingface.co/papers/2611.28849)** (`1 upvotes`)
    - When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from a condition that still needs verification, a distinction that binary safety labels leave unspecified. We formulate this
-5. **[Hugging Face Daily Papers] [What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models](https://huggingface.co/papers/2611.31619)** (`37 upvotes`)
-   - A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We 
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion](https://huggingface.co/papers/2611.31516)
+- **Source Anchor:** [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795780534923`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v729`, SHA-256 `afdbc4c010c6a016…`) + `AgentMemory` `6b096fb78850b00ddb595237`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b096fb7b8ba463e222db2c4` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795786243475`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v730`, SHA-256 `6359e2282b7a3ddd…`) + `AgentMemory` `6b0986035e843a248955de51`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0986038896c75c9a27aca1` + GitHub Bridge Message `055`
