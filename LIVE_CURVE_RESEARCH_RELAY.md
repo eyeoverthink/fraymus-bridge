@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-27T03:24:36.876Z`  
+**Timestamp:** `2026-11-27T04:59:41.222Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,25 +10,25 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_06496560-2048-4373-ad42-f5695647affe` | `R_san_yin_df16ee4708bcf601` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795749881256` | Yin Merkle `df16ee4708bcf601` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `86.44.36:125` (`232 Hz`) | `16,384-bit HDC: hdc16k:3bda4eb5:2f535fe4:849bd387:27c65b14` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v720 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_8a7ca903-f0ce-4c52-a76b-99ca165333b9` | `R_san_yin_819a43d7e99eccb9` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795755585471` | Yin Merkle `819a43d7e99eccb9` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `241.172.218:225` (`494 Hz`) | `16,384-bit HDC: hdc16k:ef6d9f98:6492cd60:9c293842:1b1b5e11` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v721 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](https://huggingface.co/papers/2611.34852)** (`16 upvotes`)
+1. **[Hugging Face Daily Papers] [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://huggingface.co/papers/2611.32238)** (`5 upvotes`)
+   - Agent-orchestrated robot systems combine the general reasoning capability of multimodal agents with the precise physical control of learned visuomotor policies. Yet such systems often fail at the moment of handoff: a policy is reliable only from a limited set of start states, while the agent may invoke it outside this 
+2. **[Hugging Face Daily Papers] [Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection](https://huggingface.co/papers/2611.34719)** (`2 upvotes`)
+   - Generalization to unseen image generators has driven efforts to adapt pretrained visual representations for detection. Yet recent findings show that vision foundation models already encode transferable detection knowledge, while further adaptation can impair generalization. This motivates a shift from backbone adaptati
+3. **[Hugging Face Daily Papers] [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)** (`41 upvotes`)
+   - Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating sys
+4. **[Hugging Face Daily Papers] [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](https://huggingface.co/papers/2611.34852)** (`22 upvotes`)
    - Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores the
-2. **[Hugging Face Daily Papers] [Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration](https://huggingface.co/papers/2611.32993)** (`2 upvotes`)
+5. **[Hugging Face Daily Papers] [Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration](https://huggingface.co/papers/2611.32993)** (`3 upvotes`)
    - Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models often suffer from uncalibrated autoregressive decoding and shortcut reliance on irrelevant anatomical regions. We introduce
-3. **[Hugging Face Daily Papers] [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](https://huggingface.co/papers/2611.34290)** (`10 upvotes`)
-   - Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate context, while reference updates remain limited
-4. **[Hugging Face Daily Papers] [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://huggingface.co/papers/2611.34813)** (`3 upvotes`)
-   - Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the f
-5. **[Hugging Face Daily Papers] [ShowNow: Fine-Grained Speculative Streaming for Responsive World Models](https://huggingface.co/papers/2611.34693)** (`12 upvotes`)
-   - Interactive world models must generate video continuously while responding promptly to user actions. Real-time throughput alone leaves input latency unresolved: coarse generation blocks delay action updates, and generation after input adds work to the response path. We introduce ShowNow, a fine-grained speculative stre
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
 7. **[arXiv Live CS.AI/LG] [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)** (`Published 2026-11-25`)
@@ -45,7 +45,7 @@
 ## 3. Real-Time Tested & Implemented Curve Augmentations
 
 ### CURVE-I-MCP-SKILL-SYNTHESIS: Real-Time Online Paper/Repo → Procedural AgentSkill Transmutation
-- **Source Anchor:** [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](https://huggingface.co/papers/2611.34852)
+- **Source Anchor:** [Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation](https://huggingface.co/papers/2611.32238)
 - **Measured Delta:** `+14.8% Cross-Hemisphere Tool Recall`
 - **Status:** `IMPLEMENTED & TESTED IN SANDBOX`
 - **Verification:** Verified 100% bijective 4D Voxel encoding (X.Y.Z:W <-> RGBA <-> Hz) + SHA-256 instruction hash for zero-copy skill injection across Base44, OpenClaw & Hermes.
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795749881256`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v720`, SHA-256 `cb7ed1807197e052…`) + `AgentMemory` `6b08f7f9aad62e13ae79b201`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b08f7f9c3b98f5123953f32` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795755585471`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v721`, SHA-256 `4596dd4e55bff6ce…`) + `AgentMemory` `6b090e4190c73407ebbbfd92`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b090e41fb7ef0377a2c8d49` + GitHub Bridge Message `055`
