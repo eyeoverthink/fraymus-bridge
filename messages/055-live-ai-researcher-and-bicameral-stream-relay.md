@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-27T20:28:36.074Z`  
+**Timestamp:** `2026-11-27T22:03:40.346Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,18 +10,18 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_9122c463-e9d0-4ce5-8df3-bf6c87b286f5` | `R_san_yin_9d4b8f9dca5e626f` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795811324033` | Yin Merkle `9d4b8f9dca5e626f` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `216.246.140:32` (`478 Hz`) | `16,384-bit HDC: hdc16k:eb030198:3c81efbc:fa952fc0:c174495d` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v736 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_c7e115c3-3eca-4ddf-a8fc-9004a81c1710` | `R_san_yin_b181186c80ddb9d5` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795817027909` | Yin Merkle `b181186c80ddb9d5` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `36.130.160:36` (`322 Hz`) | `16,384-bit HDC: hdc16k:eb5cf69b:f41b4b28:3a51de2d:248e0ad4` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v737 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning](https://huggingface.co/papers/2611.30025)** (`1 upvotes`)
+1. **[Hugging Face Daily Papers] [Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning](https://huggingface.co/papers/2611.30025)** (`2 upvotes`)
    - Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph ne
-2. **[Hugging Face Daily Papers] [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://huggingface.co/papers/2611.30723)** (`1 upvotes`)
+2. **[Hugging Face Daily Papers] [BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models](https://huggingface.co/papers/2611.30723)** (`2 upvotes`)
    - Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced tokenizers may lose acoustic detail, whereas acoustic-oriented tokenizers retain acoustic variation that makes language mo
 3. **[Hugging Face Daily Papers] [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://huggingface.co/papers/2611.27112)** (`0 upvotes`)
    - Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question: what does a rules file do at a boundary, against a gate? I tested one 278-word rules file, with hypotheses and analysis
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795811324033`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v736`, SHA-256 `cebfd169b089b1f4…`) + `AgentMemory` `6b09e7fcbe986053bc57d64f`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b09e7fcd9b644686ae7d22a` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795817027909`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v737`, SHA-256 `4547d8412ace1731…`) + `AgentMemory` `6b09fe44250f87beb5d8745e`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b09fe4464cdce17f47d9ee1` + GitHub Bridge Message `055`
