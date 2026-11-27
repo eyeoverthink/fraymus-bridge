@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-27T09:15:36.626Z`  
+**Timestamp:** `2026-11-27T09:48:28.886Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,10 +10,10 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_ba6df4e7-a356-48c4-a1d1-4d1132144b5e` | `R_san_yin_99db069214dd40d2` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795770945626` | Yin Merkle `99db069214dd40d2` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `22.67.183:189` (`292 Hz`) | `16,384-bit HDC: hdc16k:1e2e9465:cbe6c4c3:f734b95d:8d44c033` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v726 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_aa44fcc3-da01-4f61-bc4f-ee9bb2ee5d5c` | `R_san_yin_2a718c2b3fb276a7` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795772915050` | Yin Merkle `2a718c2b3fb276a7` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `185.144.181:250` (`426 Hz`) | `16,384-bit HDC: hdc16k:e023016b:e6b42c06:9ca0bc39:fc32e5d8` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v727 | **SYNCHRONIZED** |
 
 ---
 
@@ -25,7 +25,7 @@
    - Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation models (TFMs) have matched or outperformed tuned gradient-boosted and bagged ensembles on small and medium-sized tabular ben
 3. **[Hugging Face Daily Papers] [Guarding with Judgment: Learning to Intervene for Multimodal Safety](https://huggingface.co/papers/2611.28849)** (`1 upvotes`)
    - When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from a condition that still needs verification, a distinction that binary safety labels leave unspecified. We formulate this
-4. **[Hugging Face Daily Papers] [What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models](https://huggingface.co/papers/2611.31619)** (`29 upvotes`)
+4. **[Hugging Face Daily Papers] [What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models](https://huggingface.co/papers/2611.31619)** (`34 upvotes`)
    - A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We 
 5. **[Hugging Face Daily Papers] [Generation as Reverse Encoding](https://huggingface.co/papers/2611.34782)** (`1 upvotes`)
    - Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the burden onto a larger decoder. We ask why the representation-to-pixel path should be learned independently when the enco
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795770945626`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v726`, SHA-256 `c43b3007291b7c2e…`) + `AgentMemory` `6b094a41c5a9b108c03c80fa`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b094a4147f5051a854d782d` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795772915050`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v727`, SHA-256 `a7019c9429cb9a12…`) + `AgentMemory` `6b0951f309f39ea1890871aa`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0951f308811b7a27f56de6` + GitHub Bridge Message `055`
