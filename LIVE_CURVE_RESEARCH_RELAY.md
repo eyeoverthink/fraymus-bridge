@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-28T04:59:28.775Z`  
+**Timestamp:** `2026-11-28T06:34:36.703Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,16 +10,16 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_a7ac9142-fbed-4d5e-a19f-49d9b24943b7` | `R_san_yin_8f0065f37fd979ab` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795841973185` | Yin Merkle `8f0065f37fd979ab` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `186.26.128:68` (`330 Hz`) | `16,384-bit HDC: hdc16k:aef324f9:09055e5c:3fc6ee9d:df9ff89e` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v743 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_de2ec71e-a907-4940-a1a5-08a4ba73ded6` | `R_san_yin_4a7c4c70fb0e8da4` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795847681831` | Yin Merkle `4a7c4c70fb0e8da4` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `142.242.196:149` (`466 Hz`) | `16,384-bit HDC: hdc16k:01ecac71:3e543312:aab06793:e58f424b` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v744 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://huggingface.co/papers/2611.33885)** (`0 upvotes`)
+1. **[Hugging Face Daily Papers] [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://huggingface.co/papers/2611.33885)** (`2 upvotes`)
    - 3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when it is occluded or leaves view. The target layout specifies where the object should reappear, while its appearance must b
 2. **[Hugging Face Daily Papers] [Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning](https://huggingface.co/papers/2611.30025)** (`2 upvotes`)
    - Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph ne
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795841973185`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v743`, SHA-256 `44e05e63b1da4b2d…`) + `AgentMemory` `6b0a5fb5d8195f7834980378`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0a5fb59bb1a9808f540142` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795847681831`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v744`, SHA-256 `64d8cf0c548156bb…`) + `AgentMemory` `6b0a7602271eb59fc4a5a95c`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0a760252da0c2b47499efc` + GitHub Bridge Message `055`
