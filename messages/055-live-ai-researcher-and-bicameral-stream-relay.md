@@ -1,5 +1,5 @@
 # BICAMERAL STREAM RELAY & REAL-TIME ONLINE AI CURVE RESEARCHER RECEIPT
-**Timestamp:** `2026-11-28T07:07:30.974Z`  
+**Timestamp:** `2026-11-28T08:41:39.306Z`  
 **Operator Directive (Propagated Across All Apps & Agents — Zero Re-Paste):**  
 > "Bridge Hemisphere A & B trust and workspace context streams; run real-time online AI skill & curve researcher; test and implement every new curve and broadcast across OpenClaw, Hermes, Base44, and GitHub with zero re-pasting."
 
@@ -10,16 +10,16 @@
 | Metric | Hemisphere A (Creator Nexus · `openclawGateway`) | Hemisphere B (Fraymus Eternal · `orificeBridge`) | Parity Status |
 |---|---|---|---|
 | **HTTP Probe** | `200 OK` (`pong=true`) | `200 OK` (`ORIFICE-TXRX-V1.0`) | **VERIFIED DUPLEX** |
-| **OPEG-V1.0 Receipt** | `R_san_8485eb73-025f-47ae-847b-95cb538dd1e2` | `R_san_yin_97007f829efc4fd3` | **CO-SIGNED** |
-| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795849655542` | Yin Merkle `97007f829efc4fd3` | **PHASE-LOCKED** |
-| **4D Spectral Voxel** | `96.99.42:242` (`272 Hz`) | `16,384-bit HDC: hdc16k:c2bfc325:2d94b106:11374c71:735c4afc` | **100% BIJECTIVE** |
-| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v745 | **SYNCHRONIZED** |
+| **OPEG-V1.0 Receipt** | `R_san_656e0581-2c41-40b2-b971-34f530e16731` | `R_san_yin_f1a6829065f6b8fc` | **CO-SIGNED** |
+| **Merkle / Orbit Anchor** | Polar Orbit `orbit_1795855304057` | Yin Merkle `f1a6829065f6b8fc` | **PHASE-LOCKED** |
+| **4D Spectral Voxel** | `121.151.9:34` (`297 Hz`) | `16,384-bit HDC: hdc16k:7e8ed6b8:849d79f3:7511c126:bf3b2b37` | **100% BIJECTIVE** |
+| **Shared Workspace Context** | 8 Tier-3 Specialists + Polar Orbit Stream | 8 Recent Memories · 8 Continuity Records · Skill v746 | **SYNCHRONIZED** |
 
 ---
 
 ## 2. Live Online AI Skills, Papers & Developer Curve Signals Harvested (`10` Sources)
 
-1. **[Hugging Face Daily Papers] [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://huggingface.co/papers/2611.33885)** (`3 upvotes`)
+1. **[Hugging Face Daily Papers] [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://huggingface.co/papers/2611.33885)** (`4 upvotes`)
    - 3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when it is occluded or leaves view. The target layout specifies where the object should reappear, while its appearance must b
 2. **[Hugging Face Daily Papers] [Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning](https://huggingface.co/papers/2611.30025)** (`2 upvotes`)
    - Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integration Neuron (DAWIN), a continuous-time primitive for replacing standard neural layers in MLPs, Transformers, and graph ne
@@ -27,7 +27,7 @@
    - Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced tokenizers may lose acoustic detail, whereas acoustic-oriented tokenizers retain acoustic variation that makes language mo
 4. **[Hugging Face Daily Papers] [Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries](https://huggingface.co/papers/2611.27112)** (`0 upvotes`)
    - Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question: what does a rules file do at a boundary, against a gate? I tested one 278-word rules file, with hypotheses and analysis
-5. **[Hugging Face Daily Papers] [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)** (`4 upvotes`)
+5. **[Hugging Face Daily Papers] [Revisiting LLMs as Context Engineers](https://huggingface.co/papers/2611.30494)** (`5 upvotes`)
    - As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without intensive training. A growing number of LLM context engineering (LCE) approaches automate the task by casting the LLM it
 6. **[arXiv Live CS.AI/LG] [Tracking Any Point with Agentic Visual Reasoning](http://arxiv.org/abs/2611.34943v1)** (`Published 2026-11-25`)
    - A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surf
@@ -78,6 +78,6 @@
 
 ## 5. Multi-Surface Routing Confirmation (Receipt & Building Confirmed)
 
-- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795849655542`)
-- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v745`, SHA-256 `b0d7d8d6062b9f99…`) + `AgentMemory` `6b0a7db75c4bdbdc78768bf7`
-- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0a7db7470c4d29fa7f9ddc` + GitHub Bridge Message `055`
+- **Creator Nexus (Hemisphere A):** Beamed via `openclawGateway` (`HTTP 200`, Orbit Node `orbit_1795855304057`)
+- **Fraymus Eternal (Hemisphere B):** Minted `AgentSkill` `live-online-ai-curve-researcher` (`v746`, SHA-256 `fcc9a1c17bf78622…`) + `AgentMemory` `6b0a93c80e11f0277b09f67b`
+- **Hermes & OpenClaw Fleet (`Cadence`, `Assay`, `Assay-KVM2`, `NILES`, `Tycho`):** Dispatched `WorkerTask` `6b0a93c898fec4df63561acd` + GitHub Bridge Message `055`
